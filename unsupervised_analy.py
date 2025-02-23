@@ -6,14 +6,27 @@ from sklearn.cluster import KMeans, DBSCAN
 import matplotlib.pyplot as plt
 import seaborn as sns
 import umap
+from metric_calc import ALL_FEATURES, FEATURE_NAMES
 
 def load_metrics():
     """Load pre-calculated metrics from CSV"""
     metrics_df = pd.read_csv('data/synapse_data_with_metrics.csv')
-    # Select only numerical columns for clustering
-    feature_cols = metrics_df.select_dtypes(include=[np.number]).columns
-    feature_cols = feature_cols.drop(['syn_id']) if 'syn_id' in feature_cols else feature_cols
-    return metrics_df, feature_cols
+    
+    # Use standardized feature names from metric_calc
+    feature_cols = [col for col in metrics_df.columns if col in ALL_FEATURES]
+    
+    # Group features by category for analysis
+    feature_groups = {
+        group: [col for col in metrics_df.columns if col in features]
+        for group, features in FEATURE_NAMES.items()
+    }
+    
+    print("\nFeature groups available:")
+    for group, features in feature_groups.items():
+        print(f"\n{group.title()}:")
+        print(f"Found {len(features)} features: {', '.join(features)}")
+    
+    return metrics_df, feature_cols, feature_groups
 
 def perform_clustering_analysis(metrics_df, feature_cols, n_clusters=3, method='pca'):
     """Perform dimensionality reduction and clustering on the metrics"""
@@ -102,10 +115,11 @@ def plot_cell_types(metrics_df, X_umap):
                         loc='upper left')
     
     plt.tight_layout()
+    plt.savefig('figs/unsupervised.png', bbox_inches='tight', dpi=300)
     plt.show()
 
 if __name__ == "__main__":
-    metrics_df, feature_cols = load_metrics()
+    metrics_df, feature_cols, feature_groups = load_metrics()
     
     # Generate UMAP embedding
     X_umap = perform_umap(metrics_df, feature_cols)

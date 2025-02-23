@@ -8,6 +8,7 @@ from sklearn.neural_network import MLPClassifier
 from sklearn.metrics import classification_report, confusion_matrix, balanced_accuracy_score
 import seaborn as sns
 import matplotlib.pyplot as plt
+from metric_calc import ALL_FEATURES, FEATURE_NAMES
 
 def load_and_prepare_data():
     """Load data and prepare features/labels for E/I classification"""
@@ -17,69 +18,28 @@ def load_and_prepare_data():
     print("\nClass distribution:")
     print(df['pre_syn_clf_type'].value_counts())
     
-    # Load base numerical features
-    feature_cols = df.select_dtypes(include=[np.number]).columns
-    feature_cols = feature_cols.drop(['syn_id']) if 'syn_id' in feature_cols else feature_cols
+    # Use standardized feature names from metric_calc
+    feature_cols = [col for col in df.columns if col in ALL_FEATURES]
     
-    # Add image-based features
-    path_ = 'data/synpase_raw_em/'
-    image_features = []
-    
-    for _, row in df.iterrows():
-        syn_id = row.syn_id
-        img = np.load(f'{path_}{syn_id}_syn.npy')
-        pre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')
-        post_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')
-        
-        # Histogram features
-        hist, _ = np.histogram(img, bins=20, range=(0, 255))
-        hist_features = hist / hist.sum()  # normalize
-        
-        # Basic statistics of pixel intensities
-        stats = {
-            f'intensity_p{p}': np.percentile(img, p) 
-            for p in [10, 25, 50, 75, 90]
-        }
-        
-        # Masked intensity features
-        pre_intensities = img[pre_mask > 0]
-        post_intensities = img[post_mask > 0]
-        
-        masked_stats = {
-            'pre_mean_intensity': np.mean(pre_intensities),
-            'pre_std_intensity': np.std(pre_intensities),
-            'post_mean_intensity': np.mean(post_intensities),
-            'post_std_intensity': np.std(post_intensities),
-            'pre_post_intensity_ratio': np.mean(pre_intensities) / np.mean(post_intensities),
-            'pre_entropy': -np.sum(np.histogram(pre_intensities, bins=20)[0] * np.log2(np.histogram(pre_intensities, bins=20)[0] + 1e-10)),
-            'post_entropy': -np.sum(np.histogram(post_intensities, bins=20)[0] * np.log2(np.histogram(post_intensities, bins=20)[0] + 1e-10))
-        }
-        
-        # Combine all image features
-        features = {
-            **{f'hist_bin_{i}': v for i, v in enumerate(hist_features)},
-            **stats,
-            **masked_stats
-        }
-        
-        image_features.append(features)
-    
-    # Convert image features to DataFrame
-    image_df = pd.DataFrame(image_features)
-    
-    # Combine with original features
-    X = pd.concat([df[feature_cols], image_df], axis=1)
+    # Print available feature groups
+    print("\nFeature groups used:")
+    for group, features in FEATURE_NAMES.items():
+        available = [f for f in features if f in df.columns]
+        if available:
+            print(f"\n{group.title()}:")
+            print(f"Using {len(available)} features: {', '.join(available)}")
     
     # Create E/I labels
     df['is_excitatory'] = df['pre_syn_clf_type'].str.contains('E', case=False)
     y = df['is_excitatory']
     
     # Get feature importance and select top features
+    X = df[feature_cols]
     rf = RandomForestClassifier(random_state=42)
     rf.fit(X, y)
     
     importance = pd.DataFrame({
-        'feature': X.columns,
+        'feature': feature_cols,
         'importance': rf.feature_importances_
     }).sort_values('importance', ascending=False)
     
@@ -207,3 +167,4 @@ if __name__ == "__main__":
     
     # Plot results
     plot_results(results, confusion_matrices)
+    plt.savefig('figs/supervised.png', bbox_inches='tight', dpi=300)
