@@ -2043,6 +2043,3926 @@
         "documentation": {}
     },
     {
+        "label": "synapse_size",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_shape",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_distance",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_colocalization",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_morphology",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_texture",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity_distribution",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_boundary",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "ALL_FEATURES",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_size",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_shape",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_distance",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_colocalization",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_morphology",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_texture",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity_distribution",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_boundary",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "ALL_FEATURES",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_size",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_shape",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_distance",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_colocalization",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_morphology",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_texture",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity_distribution",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_boundary",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "ALL_FEATURES",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_size",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_shape",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_distance",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_colocalization",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_morphology",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_texture",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity_distribution",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_boundary",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "ALL_FEATURES",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_size",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_shape",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_distance",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_colocalization",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_morphology",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_texture",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity_distribution",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_boundary",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "ALL_FEATURES",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_size",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_shape",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_distance",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_colocalization",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_morphology",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_texture",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity_distribution",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_boundary",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "ALL_FEATURES",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_size",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_shape",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_distance",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_colocalization",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_morphology",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_texture",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity_distribution",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_boundary",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "ALL_FEATURES",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_size",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_shape",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_distance",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_colocalization",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_morphology",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_texture",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity_distribution",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_boundary",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "ALL_FEATURES",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_size",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_shape",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_distance",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_colocalization",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_morphology",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_texture",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity_distribution",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_boundary",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "ALL_FEATURES",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_size",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_shape",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_distance",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_colocalization",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_morphology",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_texture",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity_distribution",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_boundary",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "ALL_FEATURES",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_size",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_shape",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_distance",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_colocalization",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_morphology",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_texture",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity_distribution",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_boundary",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "ALL_FEATURES",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_size",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_shape",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_distance",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_colocalization",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_morphology",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_texture",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity_distribution",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_boundary",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "ALL_FEATURES",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_size",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_shape",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_distance",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_colocalization",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_morphology",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_texture",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity_distribution",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_boundary",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "ALL_FEATURES",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_size",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_shape",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_distance",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_colocalization",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_morphology",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_texture",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity_distribution",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_boundary",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "ALL_FEATURES",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_size",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_shape",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_distance",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_colocalization",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_morphology",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_texture",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity_distribution",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_boundary",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "ALL_FEATURES",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_size",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_shape",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_distance",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_colocalization",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_morphology",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_texture",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity_distribution",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_boundary",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "ALL_FEATURES",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_size",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_shape",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_distance",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_colocalization",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_morphology",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_texture",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity_distribution",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_boundary",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "ALL_FEATURES",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_size",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_shape",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_distance",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_colocalization",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_morphology",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_texture",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity_distribution",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_boundary",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "ALL_FEATURES",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_size",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_shape",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_distance",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_colocalization",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_morphology",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_texture",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity_distribution",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_boundary",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "ALL_FEATURES",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_size",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_shape",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_distance",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_colocalization",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_morphology",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_texture",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity_distribution",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_boundary",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "ALL_FEATURES",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_size",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_shape",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_distance",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_colocalization",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_morphology",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_texture",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity_distribution",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_boundary",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "ALL_FEATURES",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_size",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_shape",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_distance",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_colocalization",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_morphology",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_texture",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity_distribution",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_boundary",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "ALL_FEATURES",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_size",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_shape",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_distance",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_colocalization",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_morphology",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_texture",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity_distribution",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_boundary",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "ALL_FEATURES",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_size",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_shape",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_distance",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_colocalization",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_morphology",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_texture",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity_distribution",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_boundary",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "ALL_FEATURES",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_size",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_shape",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_distance",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_colocalization",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_morphology",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_texture",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity_distribution",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_boundary",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "ALL_FEATURES",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_size",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_shape",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_distance",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_colocalization",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_morphology",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_texture",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity_distribution",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_boundary",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "ALL_FEATURES",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_size",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_shape",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_distance",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_colocalization",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_morphology",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_texture",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity_distribution",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_boundary",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "ALL_FEATURES",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_size",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_shape",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_distance",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_colocalization",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_morphology",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_texture",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity_distribution",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_boundary",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "ALL_FEATURES",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_size",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_shape",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_distance",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_colocalization",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_morphology",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_texture",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity_distribution",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_boundary",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "ALL_FEATURES",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_size",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_shape",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_distance",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_colocalization",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_morphology",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_texture",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity_distribution",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_boundary",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "ALL_FEATURES",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_size",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_shape",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_distance",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_colocalization",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_morphology",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_texture",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity_distribution",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_boundary",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "ALL_FEATURES",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_size",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_shape",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_distance",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_colocalization",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_morphology",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_texture",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity_distribution",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_boundary",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "ALL_FEATURES",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_size",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_shape",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_distance",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_colocalization",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_morphology",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_texture",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity_distribution",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_boundary",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "ALL_FEATURES",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_size",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_shape",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_distance",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_colocalization",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_morphology",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_texture",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity_distribution",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_boundary",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "ALL_FEATURES",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_size",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_shape",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_distance",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_colocalization",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_morphology",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_texture",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity_distribution",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_boundary",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "ALL_FEATURES",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_size",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_shape",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_distance",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_colocalization",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_morphology",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_texture",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity_distribution",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_boundary",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "ALL_FEATURES",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_size",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_shape",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_distance",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_colocalization",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_morphology",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_texture",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity_distribution",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_boundary",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "ALL_FEATURES",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_size",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_shape",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_distance",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_colocalization",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_morphology",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_texture",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity_distribution",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_boundary",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "ALL_FEATURES",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_size",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_shape",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_distance",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_colocalization",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_morphology",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_texture",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity_distribution",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_boundary",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "ALL_FEATURES",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_size",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_shape",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_distance",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_colocalization",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_morphology",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_texture",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity_distribution",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_boundary",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "ALL_FEATURES",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_size",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_shape",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_distance",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_colocalization",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_morphology",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_texture",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity_distribution",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_boundary",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "ALL_FEATURES",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_size",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_shape",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_distance",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_colocalization",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_morphology",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_texture",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity_distribution",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_boundary",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "ALL_FEATURES",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_size",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_shape",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_distance",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_colocalization",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_morphology",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_texture",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity_distribution",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_boundary",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "ALL_FEATURES",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_size",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_shape",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_distance",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_colocalization",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_morphology",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_texture",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity_distribution",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_boundary",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "ALL_FEATURES",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_size",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_shape",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_distance",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_colocalization",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_morphology",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_texture",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity_distribution",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_boundary",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "ALL_FEATURES",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_size",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_shape",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_distance",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_colocalization",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_morphology",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_texture",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity_distribution",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_boundary",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "ALL_FEATURES",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_size",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_shape",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_distance",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_colocalization",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_morphology",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_texture",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity_distribution",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_boundary",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "ALL_FEATURES",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_size",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_shape",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_distance",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_colocalization",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_morphology",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_texture",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity_distribution",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_boundary",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "ALL_FEATURES",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_size",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_shape",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_distance",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_colocalization",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_morphology",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_texture",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity_distribution",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_boundary",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "ALL_FEATURES",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
         "label": "ALL_FEATURES",
         "importPath": "metric_calc",
         "description": "metric_calc",
@@ -2323,6 +6243,14 @@
         "documentation": {}
     },
     {
+        "label": "ALL_FEATURES",
+        "importPath": "metric_calc",
+        "description": "metric_calc",
+        "isExtraImport": true,
+        "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
         "label": "FEATURE_NAMES",
         "importPath": "metric_calc",
         "description": "metric_calc",
@@ -2344,6 +6272,806 @@
         "description": "metric_calc",
         "isExtraImport": true,
         "detail": "metric_calc",
+        "documentation": {}
+    },
+    {
+        "label": "gridspec",
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "isExtraImport": true,
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "gridspec",
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "isExtraImport": true,
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "gridspec",
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "isExtraImport": true,
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "gridspec",
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "isExtraImport": true,
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "gridspec",
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "isExtraImport": true,
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "gridspec",
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "isExtraImport": true,
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "gridspec",
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "isExtraImport": true,
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "gridspec",
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "isExtraImport": true,
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "gridspec",
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "isExtraImport": true,
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "gridspec",
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "isExtraImport": true,
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "gridspec",
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "isExtraImport": true,
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "gridspec",
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "isExtraImport": true,
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "gridspec",
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "isExtraImport": true,
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "gridspec",
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "isExtraImport": true,
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "gridspec",
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "isExtraImport": true,
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "gridspec",
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "isExtraImport": true,
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "gridspec",
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "isExtraImport": true,
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "gridspec",
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "isExtraImport": true,
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "gridspec",
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "isExtraImport": true,
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "gridspec",
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "isExtraImport": true,
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "gridspec",
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "isExtraImport": true,
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "gridspec",
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "isExtraImport": true,
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "gridspec",
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "isExtraImport": true,
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "gridspec",
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "isExtraImport": true,
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "gridspec",
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "isExtraImport": true,
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "gridspec",
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "isExtraImport": true,
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "gridspec",
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "isExtraImport": true,
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "gridspec",
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "isExtraImport": true,
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "gridspec",
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "isExtraImport": true,
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "gridspec",
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "isExtraImport": true,
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "gridspec",
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "isExtraImport": true,
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "gridspec",
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "isExtraImport": true,
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "gridspec",
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "isExtraImport": true,
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "gridspec",
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "isExtraImport": true,
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "gridspec",
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "isExtraImport": true,
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "gridspec",
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "isExtraImport": true,
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "gridspec",
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "isExtraImport": true,
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "gridspec",
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "isExtraImport": true,
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "gridspec",
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "isExtraImport": true,
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "gridspec",
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "isExtraImport": true,
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "gridspec",
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "isExtraImport": true,
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "gridspec",
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "isExtraImport": true,
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "gridspec",
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "isExtraImport": true,
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "gridspec",
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "isExtraImport": true,
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "gridspec",
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "isExtraImport": true,
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "gridspec",
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "isExtraImport": true,
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "gridspec",
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "isExtraImport": true,
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "gridspec",
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "isExtraImport": true,
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "gridspec",
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "isExtraImport": true,
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "gridspec",
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "isExtraImport": true,
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
         "documentation": {}
     },
     {
@@ -3082,6 +7810,30 @@
         "description": "skimage",
         "isExtraImport": true,
         "detail": "skimage",
+        "documentation": {}
+    },
+    {
+        "label": "measure",
+        "importPath": "skimage",
+        "description": "skimage",
+        "isExtraImport": true,
+        "detail": "skimage",
+        "documentation": {}
+    },
+    {
+        "label": "graycomatrix",
+        "importPath": "skimage.feature",
+        "description": "skimage.feature",
+        "isExtraImport": true,
+        "detail": "skimage.feature",
+        "documentation": {}
+    },
+    {
+        "label": "graycoprops",
+        "importPath": "skimage.feature",
+        "description": "skimage.feature",
+        "isExtraImport": true,
+        "detail": "skimage.feature",
         "documentation": {}
     },
     {
@@ -6887,6 +11639,447 @@
         "documentation": {}
     },
     {
+        "label": "plot_synapse_comparison",
+        "kind": 2,
+        "importPath": ".history.ExampleSyns_20250223221506",
+        "description": ".history.ExampleSyns_20250223221506",
+        "peekOfCode": "def plot_synapse_comparison(synapses, path_, n_each=5):\n    \"\"\"Plot comparison of E/I synapses with features\"\"\"\n    # Separate E and I synapses\n    e_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('E', case=False)]\n    i_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('I', case=False)]\n    # Randomly sample n_each from each type\n    e_sample = e_synapses.sample(n=n_each, random_state=42)\n    i_sample = i_synapses.sample(n=n_each, random_state=42)\n    sample_synapses = pd.concat([e_sample, i_sample])\n    # Calculate features for all synapses",
+        "detail": ".history.ExampleSyns_20250223221506",
+        "documentation": {}
+    },
+    {
+        "label": "plot_synapse_comparison",
+        "kind": 2,
+        "importPath": ".history.ExampleSyns_20250223221517",
+        "description": ".history.ExampleSyns_20250223221517",
+        "peekOfCode": "def plot_synapse_comparison(synapses, path_, n_each=5):\n    \"\"\"Plot comparison of E/I synapses with features\"\"\"\n    # Separate E and I synapses\n    e_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('E', case=False)]\n    i_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('I', case=False)]\n    # Randomly sample n_each from each type\n    e_sample = e_synapses.sample(n=n_each, random_state=42)\n    i_sample = i_synapses.sample(n=n_each, random_state=42)\n    sample_synapses = pd.concat([e_sample, i_sample])\n    # Calculate features for all synapses",
+        "detail": ".history.ExampleSyns_20250223221517",
+        "documentation": {}
+    },
+    {
+        "label": "plot_synapse_comparison",
+        "kind": 2,
+        "importPath": ".history.ExampleSyns_20250223221953",
+        "description": ".history.ExampleSyns_20250223221953",
+        "peekOfCode": "def plot_synapse_comparison(synapses, path_, n_each=3):\n    \"\"\"Plot comparison of E/I synapses with features\"\"\"\n    # Separate E and I synapses\n    e_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('E', case=False)]\n    i_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('I', case=False)]\n    # Randomly sample n_each from each type\n    e_sample = e_synapses.sample(n=n_each, random_state=42)\n    i_sample = i_synapses.sample(n=n_each, random_state=42)\n    sample_synapses = pd.concat([e_sample, i_sample])\n    # Calculate features for all synapses",
+        "detail": ".history.ExampleSyns_20250223221953",
+        "documentation": {}
+    },
+    {
+        "label": "plot_synapse_comparison",
+        "kind": 2,
+        "importPath": ".history.ExampleSyns_20250223222146",
+        "description": ".history.ExampleSyns_20250223222146",
+        "peekOfCode": "def plot_synapse_comparison(synapses, path_, n_each=3):\n    \"\"\"Plot comparison of E/I synapses with features\"\"\"\n    # Separate E and I synapses\n    e_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('E', case=False)]\n    i_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('I', case=False)]\n    # Randomly sample n_each from each type\n    e_sample = e_synapses.sample(n=n_each, random_state=42)\n    i_sample = i_synapses.sample(n=n_each, random_state=42)\n    sample_synapses = pd.concat([e_sample, i_sample])\n    # Calculate features for all synapses",
+        "detail": ".history.ExampleSyns_20250223222146",
+        "documentation": {}
+    },
+    {
+        "label": "plot_synapse_comparison",
+        "kind": 2,
+        "importPath": ".history.ExampleSyns_20250223222147",
+        "description": ".history.ExampleSyns_20250223222147",
+        "peekOfCode": "def plot_synapse_comparison(synapses, path_, n_each=3):\n    \"\"\"Plot comparison of E/I synapses with features\"\"\"\n    # Separate E and I synapses\n    e_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('E', case=False)]\n    i_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('I', case=False)]\n    # Randomly sample n_each from each type\n    e_sample = e_synapses.sample(n=n_each, random_state=42)\n    i_sample = i_synapses.sample(n=n_each, random_state=42)\n    sample_synapses = pd.concat([e_sample, i_sample])\n    # Calculate features for all synapses",
+        "detail": ".history.ExampleSyns_20250223222147",
+        "documentation": {}
+    },
+    {
+        "label": "plot_synapse_comparison",
+        "kind": 2,
+        "importPath": ".history.ExampleSyns_20250223222252",
+        "description": ".history.ExampleSyns_20250223222252",
+        "peekOfCode": "def plot_synapse_comparison(synapses, path_, n_each=3):\n    \"\"\"Plot comparison of E/I synapses with features\"\"\"\n    # Separate E and I synapses\n    e_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('E', case=False)]\n    i_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('I', case=False)]\n    # Randomly sample n_each from each type\n    e_sample = e_synapses.sample(n=n_each, random_state=42)\n    i_sample = i_synapses.sample(n=n_each, random_state=42)\n    sample_synapses = pd.concat([e_sample, i_sample])\n    # Calculate features for all synapses",
+        "detail": ".history.ExampleSyns_20250223222252",
+        "documentation": {}
+    },
+    {
+        "label": "plot_synapse_comparison",
+        "kind": 2,
+        "importPath": ".history.ExampleSyns_20250223222253",
+        "description": ".history.ExampleSyns_20250223222253",
+        "peekOfCode": "def plot_synapse_comparison(synapses, path_, n_each=3):\n    \"\"\"Plot comparison of E/I synapses with features\"\"\"\n    # Separate E and I synapses\n    e_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('E', case=False)]\n    i_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('I', case=False)]\n    # Randomly sample n_each from each type\n    e_sample = e_synapses.sample(n=n_each, random_state=42)\n    i_sample = i_synapses.sample(n=n_each, random_state=42)\n    sample_synapses = pd.concat([e_sample, i_sample])\n    # Calculate features for all synapses",
+        "detail": ".history.ExampleSyns_20250223222253",
+        "documentation": {}
+    },
+    {
+        "label": "plot_synapse_comparison",
+        "kind": 2,
+        "importPath": ".history.ExampleSyns_20250223222415",
+        "description": ".history.ExampleSyns_20250223222415",
+        "peekOfCode": "def plot_synapse_comparison(synapses, path_, n_each=3):\n    \"\"\"Plot comparison of E/I synapses with features\"\"\"\n    # Separate E and I synapses\n    e_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('E', case=False)]\n    i_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('I', case=False)]\n    # Randomly sample n_each from each type\n    e_sample = e_synapses.sample(n=n_each, random_state=42)\n    i_sample = i_synapses.sample(n=n_each, random_state=42)\n    sample_synapses = pd.concat([e_sample, i_sample])\n    # Calculate features for all synapses",
+        "detail": ".history.ExampleSyns_20250223222415",
+        "documentation": {}
+    },
+    {
+        "label": "plot_synapse_comparison",
+        "kind": 2,
+        "importPath": ".history.ExampleSyns_20250223223254",
+        "description": ".history.ExampleSyns_20250223223254",
+        "peekOfCode": "def plot_synapse_comparison(synapses, path_, n_each=3):\n    \"\"\"Plot comparison of E/I synapses with features\"\"\"\n    # Separate E and I synapses\n    e_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('E', case=False)]\n    i_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('I', case=False)]\n    # Randomly sample n_each from each type\n    e_sample = e_synapses.sample(n=n_each, random_state=42)\n    i_sample = i_synapses.sample(n=n_each, random_state=42)\n    sample_synapses = pd.concat([e_sample, i_sample])\n    # Calculate features for all synapses",
+        "detail": ".history.ExampleSyns_20250223223254",
+        "documentation": {}
+    },
+    {
+        "label": "plot_synapse_comparison",
+        "kind": 2,
+        "importPath": ".history.ExampleSyns_20250223223620",
+        "description": ".history.ExampleSyns_20250223223620",
+        "peekOfCode": "def plot_synapse_comparison(synapses, path_, n_each=3):\n    \"\"\"Plot comparison of E/I synapses with features\"\"\"\n    # Separate E and I synapses\n    e_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('E', case=False)]\n    i_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('I', case=False)]\n    # Randomly sample n_each from each type\n    e_sample = e_synapses.sample(n=n_each, random_state=42)\n    i_sample = i_synapses.sample(n=n_each, random_state=42)\n    sample_synapses = pd.concat([e_sample, i_sample])\n    # Calculate features for all synapses",
+        "detail": ".history.ExampleSyns_20250223223620",
+        "documentation": {}
+    },
+    {
+        "label": "plot_synapse_comparison",
+        "kind": 2,
+        "importPath": ".history.ExampleSyns_20250223223621",
+        "description": ".history.ExampleSyns_20250223223621",
+        "peekOfCode": "def plot_synapse_comparison(synapses, path_, n_each=3):\n    \"\"\"Plot comparison of E/I synapses with features\"\"\"\n    # Separate E and I synapses\n    e_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('E', case=False)]\n    i_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('I', case=False)]\n    # Randomly sample n_each from each type\n    e_sample = e_synapses.sample(n=n_each, random_state=42)\n    i_sample = i_synapses.sample(n=n_each, random_state=42)\n    sample_synapses = pd.concat([e_sample, i_sample])\n    # Calculate features for all synapses",
+        "detail": ".history.ExampleSyns_20250223223621",
+        "documentation": {}
+    },
+    {
+        "label": "plot_synapse_comparison",
+        "kind": 2,
+        "importPath": ".history.ExampleSyns_20250223223757",
+        "description": ".history.ExampleSyns_20250223223757",
+        "peekOfCode": "def plot_synapse_comparison(synapses, path_, n_each=3):\n    \"\"\"Plot comparison of E/I synapses with features\"\"\"\n    # Separate E and I synapses\n    e_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('E', case=False)]\n    i_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('I', case=False)]\n    # Randomly sample n_each from each type\n    e_sample = e_synapses.sample(n=n_each, random_state=42)\n    i_sample = i_synapses.sample(n=n_each, random_state=42)\n    sample_synapses = pd.concat([e_sample, i_sample])\n    # Calculate features for all synapses",
+        "detail": ".history.ExampleSyns_20250223223757",
+        "documentation": {}
+    },
+    {
+        "label": "plot_synapse_comparison",
+        "kind": 2,
+        "importPath": ".history.ExampleSyns_20250223223758",
+        "description": ".history.ExampleSyns_20250223223758",
+        "peekOfCode": "def plot_synapse_comparison(synapses, path_, n_each=3):\n    \"\"\"Plot comparison of E/I synapses with features\"\"\"\n    # Separate E and I synapses\n    e_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('E', case=False)]\n    i_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('I', case=False)]\n    # Randomly sample n_each from each type\n    e_sample = e_synapses.sample(n=n_each, random_state=42)\n    i_sample = i_synapses.sample(n=n_each, random_state=42)\n    sample_synapses = pd.concat([e_sample, i_sample])\n    # Calculate features for all synapses",
+        "detail": ".history.ExampleSyns_20250223223758",
+        "documentation": {}
+    },
+    {
+        "label": "plot_synapse_comparison",
+        "kind": 2,
+        "importPath": ".history.ExampleSyns_20250223223933",
+        "description": ".history.ExampleSyns_20250223223933",
+        "peekOfCode": "def plot_synapse_comparison(synapses, path_, n_each=3):\n    \"\"\"Plot comparison of E/I synapses with features\"\"\"\n    # Separate E and I synapses\n    e_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('E', case=False)]\n    i_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('I', case=False)]\n    # Randomly sample n_each from each type\n    e_sample = e_synapses.sample(n=n_each, random_state=42)\n    i_sample = i_synapses.sample(n=n_each, random_state=42)\n    sample_synapses = pd.concat([e_sample, i_sample])\n    # Calculate features for all synapses",
+        "detail": ".history.ExampleSyns_20250223223933",
+        "documentation": {}
+    },
+    {
+        "label": "plot_synapse_comparison",
+        "kind": 2,
+        "importPath": ".history.ExampleSyns_20250223223940",
+        "description": ".history.ExampleSyns_20250223223940",
+        "peekOfCode": "def plot_synapse_comparison(synapses, path_, n_each=3):\n    \"\"\"Plot comparison of E/I synapses with features\"\"\"\n    # Separate E and I synapses\n    e_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('E', case=False)]\n    i_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('I', case=False)]\n    # Randomly sample n_each from each type\n    e_sample = e_synapses.sample(n=n_each, random_state=42)\n    i_sample = i_synapses.sample(n=n_each, random_state=42)\n    sample_synapses = pd.concat([e_sample, i_sample])\n    # Calculate features for all synapses",
+        "detail": ".history.ExampleSyns_20250223223940",
+        "documentation": {}
+    },
+    {
+        "label": "plot_synapse_comparison",
+        "kind": 2,
+        "importPath": ".history.ExampleSyns_20250223223941",
+        "description": ".history.ExampleSyns_20250223223941",
+        "peekOfCode": "def plot_synapse_comparison(synapses, path_, n_each=3):\n    \"\"\"Plot comparison of E/I synapses with features\"\"\"\n    # Separate E and I synapses\n    e_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('E', case=False)]\n    i_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('I', case=False)]\n    # Randomly sample n_each from each type\n    e_sample = e_synapses.sample(n=n_each, random_state=42)\n    i_sample = i_synapses.sample(n=n_each, random_state=42)\n    sample_synapses = pd.concat([e_sample, i_sample])\n    # Calculate features for all synapses",
+        "detail": ".history.ExampleSyns_20250223223941",
+        "documentation": {}
+    },
+    {
+        "label": "plot_synapse_comparison",
+        "kind": 2,
+        "importPath": ".history.ExampleSyns_20250223224006",
+        "description": ".history.ExampleSyns_20250223224006",
+        "peekOfCode": "def plot_synapse_comparison(synapses, path_, n_each=3):\n    \"\"\"Plot comparison of E/I synapses with features\"\"\"\n    # Separate E and I synapses\n    e_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('E', case=False)]\n    i_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('I', case=False)]\n    # Randomly sample n_each from each type\n    e_sample = e_synapses.sample(n=n_each, random_state=42)\n    i_sample = i_synapses.sample(n=n_each, random_state=42)\n    sample_synapses = pd.concat([e_sample, i_sample])\n    # Calculate features for all synapses",
+        "detail": ".history.ExampleSyns_20250223224006",
+        "documentation": {}
+    },
+    {
+        "label": "plot_synapse_comparison",
+        "kind": 2,
+        "importPath": ".history.ExampleSyns_20250223224013",
+        "description": ".history.ExampleSyns_20250223224013",
+        "peekOfCode": "def plot_synapse_comparison(synapses, path_, n_each=3):\n    \"\"\"Plot comparison of E/I synapses with features\"\"\"\n    # Separate E and I synapses\n    e_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('E', case=False)]\n    i_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('I', case=False)]\n    # Randomly sample n_each from each type\n    e_sample = e_synapses.sample(n=n_each, random_state=42)\n    i_sample = i_synapses.sample(n=n_each, random_state=42)\n    sample_synapses = pd.concat([e_sample, i_sample])\n    # Calculate features for all synapses",
+        "detail": ".history.ExampleSyns_20250223224013",
+        "documentation": {}
+    },
+    {
+        "label": "plot_synapse_comparison",
+        "kind": 2,
+        "importPath": ".history.ExampleSyns_20250223224109",
+        "description": ".history.ExampleSyns_20250223224109",
+        "peekOfCode": "def plot_synapse_comparison(synapses, path_, n_each=3):\n    \"\"\"Plot comparison of E/I synapses with features\"\"\"\n    # Separate E and I synapses\n    e_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('E', case=False)]\n    i_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('I', case=False)]\n    # Randomly sample n_each from each type\n    e_sample = e_synapses.sample(n=n_each, random_state=42)\n    i_sample = i_synapses.sample(n=n_each, random_state=42)\n    sample_synapses = pd.concat([e_sample, i_sample])\n    # Calculate features for all synapses",
+        "detail": ".history.ExampleSyns_20250223224109",
+        "documentation": {}
+    },
+    {
+        "label": "plot_synapse_comparison",
+        "kind": 2,
+        "importPath": ".history.ExampleSyns_20250223224110",
+        "description": ".history.ExampleSyns_20250223224110",
+        "peekOfCode": "def plot_synapse_comparison(synapses, path_, n_each=3):\n    \"\"\"Plot comparison of E/I synapses with features\"\"\"\n    # Separate E and I synapses\n    e_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('E', case=False)]\n    i_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('I', case=False)]\n    # Randomly sample n_each from each type\n    e_sample = e_synapses.sample(n=n_each, random_state=42)\n    i_sample = i_synapses.sample(n=n_each, random_state=42)\n    sample_synapses = pd.concat([e_sample, i_sample])\n    # Calculate features for all synapses",
+        "detail": ".history.ExampleSyns_20250223224110",
+        "documentation": {}
+    },
+    {
+        "label": "plot_synapse_comparison",
+        "kind": 2,
+        "importPath": ".history.ExampleSyns_20250223224152",
+        "description": ".history.ExampleSyns_20250223224152",
+        "peekOfCode": "def plot_synapse_comparison(synapses, path_, n_each=3):\n    \"\"\"Plot comparison of E/I synapses with features\"\"\"\n    # Separate E and I synapses\n    e_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('E', case=False)]\n    i_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('I', case=False)]\n    # Randomly sample n_each from each type\n    e_sample = e_synapses.sample(n=n_each, random_state=42)\n    i_sample = i_synapses.sample(n=n_each, random_state=42)\n    sample_synapses = pd.concat([e_sample, i_sample])\n    # Calculate features for all synapses",
+        "detail": ".history.ExampleSyns_20250223224152",
+        "documentation": {}
+    },
+    {
+        "label": "plot_synapse_comparison",
+        "kind": 2,
+        "importPath": ".history.ExampleSyns_20250223224207",
+        "description": ".history.ExampleSyns_20250223224207",
+        "peekOfCode": "def plot_synapse_comparison(synapses, path_, n_each=3):\n    \"\"\"Plot comparison of E/I synapses with features\"\"\"\n    # Separate E and I synapses\n    e_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('E', case=False)]\n    i_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('I', case=False)]\n    # Randomly sample n_each from each type\n    e_sample = e_synapses.sample(n=n_each, random_state=42)\n    i_sample = i_synapses.sample(n=n_each, random_state=42)\n    sample_synapses = pd.concat([e_sample, i_sample])\n    # Calculate features for all synapses",
+        "detail": ".history.ExampleSyns_20250223224207",
+        "documentation": {}
+    },
+    {
+        "label": "plot_synapse_comparison",
+        "kind": 2,
+        "importPath": ".history.ExampleSyns_20250223224208",
+        "description": ".history.ExampleSyns_20250223224208",
+        "peekOfCode": "def plot_synapse_comparison(synapses, path_, n_each=3):\n    \"\"\"Plot comparison of E/I synapses with features\"\"\"\n    # Separate E and I synapses\n    e_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('E', case=False)]\n    i_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('I', case=False)]\n    # Randomly sample n_each from each type\n    e_sample = e_synapses.sample(n=n_each, random_state=42)\n    i_sample = i_synapses.sample(n=n_each, random_state=42)\n    sample_synapses = pd.concat([e_sample, i_sample])\n    # Calculate features for all synapses",
+        "detail": ".history.ExampleSyns_20250223224208",
+        "documentation": {}
+    },
+    {
+        "label": "plot_synapse_comparison",
+        "kind": 2,
+        "importPath": ".history.ExampleSyns_20250223224234",
+        "description": ".history.ExampleSyns_20250223224234",
+        "peekOfCode": "def plot_synapse_comparison(synapses, path_, n_each=3):\n    \"\"\"Plot comparison of E/I synapses with features\"\"\"\n    # Separate E and I synapses\n    e_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('E', case=False)]\n    i_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('I', case=False)]\n    # Randomly sample n_each from each type\n    e_sample = e_synapses.sample(n=n_each, random_state=42)\n    i_sample = i_synapses.sample(n=n_each, random_state=42)\n    sample_synapses = pd.concat([e_sample, i_sample])\n    # Calculate features for all synapses",
+        "detail": ".history.ExampleSyns_20250223224234",
+        "documentation": {}
+    },
+    {
+        "label": "plot_synapse_comparison",
+        "kind": 2,
+        "importPath": ".history.ExampleSyns_20250223224239",
+        "description": ".history.ExampleSyns_20250223224239",
+        "peekOfCode": "def plot_synapse_comparison(synapses, path_, n_each=3):\n    \"\"\"Plot comparison of E/I synapses with features\"\"\"\n    # Separate E and I synapses\n    e_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('E', case=False)]\n    i_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('I', case=False)]\n    # Randomly sample n_each from each type\n    e_sample = e_synapses.sample(n=n_each, random_state=42)\n    i_sample = i_synapses.sample(n=n_each, random_state=42)\n    sample_synapses = pd.concat([e_sample, i_sample])\n    # Calculate features for all synapses",
+        "detail": ".history.ExampleSyns_20250223224239",
+        "documentation": {}
+    },
+    {
+        "label": "plot_synapse_comparison",
+        "kind": 2,
+        "importPath": ".history.ExampleSyns_20250223224317",
+        "description": ".history.ExampleSyns_20250223224317",
+        "peekOfCode": "def plot_synapse_comparison(synapses, path_, n_each=3):\n    \"\"\"Plot comparison of E/I synapses with features\"\"\"\n    # Separate E and I synapses\n    e_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('E', case=False)]\n    i_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('I', case=False)]\n    # Randomly sample n_each from each type\n    e_sample = e_synapses.sample(n=n_each, random_state=42)\n    i_sample = i_synapses.sample(n=n_each, random_state=42)\n    sample_synapses = pd.concat([e_sample, i_sample])\n    # Calculate features for all synapses",
+        "detail": ".history.ExampleSyns_20250223224317",
+        "documentation": {}
+    },
+    {
+        "label": "plot_synapse_comparison",
+        "kind": 2,
+        "importPath": ".history.ExampleSyns_20250223224318",
+        "description": ".history.ExampleSyns_20250223224318",
+        "peekOfCode": "def plot_synapse_comparison(synapses, path_, n_each=3):\n    \"\"\"Plot comparison of E/I synapses with features\"\"\"\n    # Separate E and I synapses\n    e_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('E', case=False)]\n    i_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('I', case=False)]\n    # Randomly sample n_each from each type\n    e_sample = e_synapses.sample(n=n_each, random_state=42)\n    i_sample = i_synapses.sample(n=n_each, random_state=42)\n    sample_synapses = pd.concat([e_sample, i_sample])\n    # Calculate features for all synapses",
+        "detail": ".history.ExampleSyns_20250223224318",
+        "documentation": {}
+    },
+    {
+        "label": "plot_synapse_comparison",
+        "kind": 2,
+        "importPath": ".history.ExampleSyns_20250223224334",
+        "description": ".history.ExampleSyns_20250223224334",
+        "peekOfCode": "def plot_synapse_comparison(synapses, path_, n_each=3):\n    \"\"\"Plot comparison of E/I synapses with features\"\"\"\n    # Separate E and I synapses\n    e_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('E', case=False)]\n    i_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('I', case=False)]\n    # Randomly sample n_each from each type\n    e_sample = e_synapses.sample(n=n_each, random_state=42)\n    i_sample = i_synapses.sample(n=n_each, random_state=42)\n    sample_synapses = pd.concat([e_sample, i_sample])\n    # Calculate features for all synapses",
+        "detail": ".history.ExampleSyns_20250223224334",
+        "documentation": {}
+    },
+    {
+        "label": "plot_synapse_comparison",
+        "kind": 2,
+        "importPath": ".history.ExampleSyns_20250223224423",
+        "description": ".history.ExampleSyns_20250223224423",
+        "peekOfCode": "def plot_synapse_comparison(synapses, path_, n_each=3):\n    \"\"\"Plot comparison of E/I synapses with features\"\"\"\n    # Separate E and I synapses\n    e_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('E', case=False)]\n    i_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('I', case=False)]\n    # Randomly sample n_each from each type\n    e_sample = e_synapses.sample(n=n_each, random_state=42)\n    i_sample = i_synapses.sample(n=n_each, random_state=42)\n    sample_synapses = pd.concat([e_sample, i_sample])\n    # Calculate features for all synapses",
+        "detail": ".history.ExampleSyns_20250223224423",
+        "documentation": {}
+    },
+    {
+        "label": "plot_synapse_comparison",
+        "kind": 2,
+        "importPath": ".history.ExampleSyns_20250223224424",
+        "description": ".history.ExampleSyns_20250223224424",
+        "peekOfCode": "def plot_synapse_comparison(synapses, path_, n_each=3):\n    \"\"\"Plot comparison of E/I synapses with features\"\"\"\n    # Separate E and I synapses\n    e_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('E', case=False)]\n    i_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('I', case=False)]\n    # Randomly sample n_each from each type\n    e_sample = e_synapses.sample(n=n_each, random_state=42)\n    i_sample = i_synapses.sample(n=n_each, random_state=42)\n    sample_synapses = pd.concat([e_sample, i_sample])\n    # Calculate features for all synapses",
+        "detail": ".history.ExampleSyns_20250223224424",
+        "documentation": {}
+    },
+    {
+        "label": "plot_synapse_comparison",
+        "kind": 2,
+        "importPath": ".history.ExampleSyns_20250223224438",
+        "description": ".history.ExampleSyns_20250223224438",
+        "peekOfCode": "def plot_synapse_comparison(synapses, path_, n_each=3):\n    \"\"\"Plot comparison of E/I synapses with features\"\"\"\n    # Separate E and I synapses\n    e_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('E', case=False)]\n    i_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('I', case=False)]\n    # Randomly sample n_each from each type\n    e_sample = e_synapses.sample(n=n_each, random_state=42)\n    i_sample = i_synapses.sample(n=n_each, random_state=42)\n    sample_synapses = pd.concat([e_sample, i_sample])\n    # Calculate features for all synapses",
+        "detail": ".history.ExampleSyns_20250223224438",
+        "documentation": {}
+    },
+    {
+        "label": "plot_synapse_comparison",
+        "kind": 2,
+        "importPath": ".history.ExampleSyns_20250223224509",
+        "description": ".history.ExampleSyns_20250223224509",
+        "peekOfCode": "def plot_synapse_comparison(synapses, path_, n_each=3):\n    \"\"\"Plot comparison of E/I synapses with features\"\"\"\n    # Separate E and I synapses\n    e_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('E', case=False)]\n    i_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('I', case=False)]\n    # Randomly sample n_each from each type\n    e_sample = e_synapses.sample(n=n_each, random_state=42)\n    i_sample = i_synapses.sample(n=n_each, random_state=42)\n    sample_synapses = pd.concat([e_sample, i_sample])\n    # Calculate features for all synapses",
+        "detail": ".history.ExampleSyns_20250223224509",
+        "documentation": {}
+    },
+    {
+        "label": "plot_synapse_comparison",
+        "kind": 2,
+        "importPath": ".history.ExampleSyns_20250223224510",
+        "description": ".history.ExampleSyns_20250223224510",
+        "peekOfCode": "def plot_synapse_comparison(synapses, path_, n_each=3):\n    \"\"\"Plot comparison of E/I synapses with features\"\"\"\n    # Separate E and I synapses\n    e_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('E', case=False)]\n    i_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('I', case=False)]\n    # Randomly sample n_each from each type\n    e_sample = e_synapses.sample(n=n_each, random_state=42)\n    i_sample = i_synapses.sample(n=n_each, random_state=42)\n    sample_synapses = pd.concat([e_sample, i_sample])\n    # Calculate features for all synapses",
+        "detail": ".history.ExampleSyns_20250223224510",
+        "documentation": {}
+    },
+    {
+        "label": "plot_synapse_comparison",
+        "kind": 2,
+        "importPath": ".history.ExampleSyns_20250223224602",
+        "description": ".history.ExampleSyns_20250223224602",
+        "peekOfCode": "def plot_synapse_comparison(synapses, path_, n_each=3):\n    \"\"\"Plot comparison of E/I synapses with features\"\"\"\n    # Separate E and I synapses\n    e_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('E', case=False)]\n    i_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('I', case=False)]\n    # Randomly sample n_each from each type\n    e_sample = e_synapses.sample(n=n_each, random_state=42)\n    i_sample = i_synapses.sample(n=n_each, random_state=42)\n    sample_synapses = pd.concat([e_sample, i_sample])\n    # Calculate features for all synapses",
+        "detail": ".history.ExampleSyns_20250223224602",
+        "documentation": {}
+    },
+    {
+        "label": "plot_synapse_comparison",
+        "kind": 2,
+        "importPath": ".history.ExampleSyns_20250223224603",
+        "description": ".history.ExampleSyns_20250223224603",
+        "peekOfCode": "def plot_synapse_comparison(synapses, path_, n_each=3):\n    \"\"\"Plot comparison of E/I synapses with features\"\"\"\n    # Separate E and I synapses\n    e_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('E', case=False)]\n    i_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('I', case=False)]\n    # Randomly sample n_each from each type\n    e_sample = e_synapses.sample(n=n_each, random_state=42)\n    i_sample = i_synapses.sample(n=n_each, random_state=42)\n    sample_synapses = pd.concat([e_sample, i_sample])\n    # Calculate features for all synapses",
+        "detail": ".history.ExampleSyns_20250223224603",
+        "documentation": {}
+    },
+    {
+        "label": "plot_synapse_comparison",
+        "kind": 2,
+        "importPath": ".history.ExampleSyns_20250223224649",
+        "description": ".history.ExampleSyns_20250223224649",
+        "peekOfCode": "def plot_synapse_comparison(synapses, path_, n_each=3):\n    \"\"\"Plot comparison of E/I synapses with features\"\"\"\n    # Separate E and I synapses\n    e_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('E', case=False)]\n    i_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('I', case=False)]\n    # Randomly sample n_each from each type\n    e_sample = e_synapses.sample(n=n_each, random_state=42)\n    i_sample = i_synapses.sample(n=n_each, random_state=42)\n    sample_synapses = pd.concat([e_sample, i_sample])\n    # Calculate features for all synapses",
+        "detail": ".history.ExampleSyns_20250223224649",
+        "documentation": {}
+    },
+    {
+        "label": "plot_synapse_comparison",
+        "kind": 2,
+        "importPath": ".history.ExampleSyns_20250223224650",
+        "description": ".history.ExampleSyns_20250223224650",
+        "peekOfCode": "def plot_synapse_comparison(synapses, path_, n_each=3):\n    \"\"\"Plot comparison of E/I synapses with features\"\"\"\n    # Separate E and I synapses\n    e_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('E', case=False)]\n    i_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('I', case=False)]\n    # Randomly sample n_each from each type\n    e_sample = e_synapses.sample(n=n_each, random_state=42)\n    i_sample = i_synapses.sample(n=n_each, random_state=42)\n    sample_synapses = pd.concat([e_sample, i_sample])\n    # Calculate features for all synapses",
+        "detail": ".history.ExampleSyns_20250223224650",
+        "documentation": {}
+    },
+    {
+        "label": "plot_synapse_comparison",
+        "kind": 2,
+        "importPath": ".history.ExampleSyns_20250223224956",
+        "description": ".history.ExampleSyns_20250223224956",
+        "peekOfCode": "def plot_synapse_comparison(synapses, path_, n_each=3):\n    \"\"\"Plot comparison of E/I synapses with features\"\"\"\n    # Separate E and I synapses\n    e_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('E', case=False)]\n    i_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('I', case=False)]\n    # Randomly sample n_each from each type\n    e_sample = e_synapses.sample(n=n_each, random_state=42)\n    i_sample = i_synapses.sample(n=n_each, random_state=42)\n    sample_synapses = pd.concat([e_sample, i_sample])\n    # Calculate features for all synapses",
+        "detail": ".history.ExampleSyns_20250223224956",
+        "documentation": {}
+    },
+    {
+        "label": "plot_synapse_comparison",
+        "kind": 2,
+        "importPath": ".history.ExampleSyns_20250223225017",
+        "description": ".history.ExampleSyns_20250223225017",
+        "peekOfCode": "def plot_synapse_comparison(synapses, path_, n_each=3):\n    \"\"\"Plot comparison of E/I synapses with features\"\"\"\n    # Separate E and I synapses\n    e_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('E', case=False)]\n    i_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('I', case=False)]\n    # Randomly sample n_each from each type\n    e_sample = e_synapses.sample(n=n_each, random_state=42)\n    i_sample = i_synapses.sample(n=n_each, random_state=42)\n    sample_synapses = pd.concat([e_sample, i_sample])\n    # Calculate features for all synapses",
+        "detail": ".history.ExampleSyns_20250223225017",
+        "documentation": {}
+    },
+    {
+        "label": "plot_synapse_comparison",
+        "kind": 2,
+        "importPath": ".history.ExampleSyns_20250223225041",
+        "description": ".history.ExampleSyns_20250223225041",
+        "peekOfCode": "def plot_synapse_comparison(synapses, path_, n_each=3):\n    \"\"\"Plot comparison of E/I synapses with features\"\"\"\n    # Separate E and I synapses\n    e_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('E', case=False)]\n    i_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('I', case=False)]\n    # Randomly sample n_each from each type\n    e_sample = e_synapses.sample(n=n_each, random_state=42)\n    i_sample = i_synapses.sample(n=n_each, random_state=42)\n    sample_synapses = pd.concat([e_sample, i_sample])\n    # Calculate features for all synapses",
+        "detail": ".history.ExampleSyns_20250223225041",
+        "documentation": {}
+    },
+    {
+        "label": "plot_synapse_comparison",
+        "kind": 2,
+        "importPath": ".history.ExampleSyns_20250223225042",
+        "description": ".history.ExampleSyns_20250223225042",
+        "peekOfCode": "def plot_synapse_comparison(synapses, path_, n_each=3):\n    \"\"\"Plot comparison of E/I synapses with features\"\"\"\n    # Separate E and I synapses\n    e_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('E', case=False)]\n    i_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('I', case=False)]\n    # Randomly sample n_each from each type\n    e_sample = e_synapses.sample(n=n_each, random_state=42)\n    i_sample = i_synapses.sample(n=n_each, random_state=42)\n    sample_synapses = pd.concat([e_sample, i_sample])\n    # Calculate features for all synapses",
+        "detail": ".history.ExampleSyns_20250223225042",
+        "documentation": {}
+    },
+    {
+        "label": "plot_synapse_comparison",
+        "kind": 2,
+        "importPath": ".history.ExampleSyns_20250223225117",
+        "description": ".history.ExampleSyns_20250223225117",
+        "peekOfCode": "def plot_synapse_comparison(synapses, path_, n_each=3):\n    \"\"\"Plot comparison of E/I synapses with features\"\"\"\n    # Separate E and I synapses\n    e_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('E', case=False)]\n    i_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('I', case=False)]\n    # Randomly sample n_each from each type\n    e_sample = e_synapses.sample(n=n_each, random_state=42)\n    i_sample = i_synapses.sample(n=n_each, random_state=42)\n    sample_synapses = pd.concat([e_sample, i_sample])\n    # Calculate features for all synapses",
+        "detail": ".history.ExampleSyns_20250223225117",
+        "documentation": {}
+    },
+    {
+        "label": "plot_synapse_comparison",
+        "kind": 2,
+        "importPath": ".history.ExampleSyns_20250223225136",
+        "description": ".history.ExampleSyns_20250223225136",
+        "peekOfCode": "def plot_synapse_comparison(synapses, path_, n_each=3):\n    \"\"\"Plot comparison of E/I synapses with features\"\"\"\n    # Separate E and I synapses\n    e_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('E', case=False)]\n    i_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('I', case=False)]\n    # Randomly sample n_each from each type\n    e_sample = e_synapses.sample(n=n_each, random_state=42)\n    i_sample = i_synapses.sample(n=n_each, random_state=42)\n    sample_synapses = pd.concat([e_sample, i_sample])\n    # Calculate features for all synapses",
+        "detail": ".history.ExampleSyns_20250223225136",
+        "documentation": {}
+    },
+    {
+        "label": "plot_synapse_comparison",
+        "kind": 2,
+        "importPath": ".history.ExampleSyns_20250223225151",
+        "description": ".history.ExampleSyns_20250223225151",
+        "peekOfCode": "def plot_synapse_comparison(synapses, path_, n_each=3):\n    \"\"\"Plot comparison of E/I synapses with features\"\"\"\n    # Separate E and I synapses\n    e_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('E', case=False)]\n    i_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('I', case=False)]\n    # Randomly sample n_each from each type\n    e_sample = e_synapses.sample(n=n_each, random_state=42)\n    i_sample = i_synapses.sample(n=n_each, random_state=42)\n    sample_synapses = pd.concat([e_sample, i_sample])\n    # Calculate features for all synapses",
+        "detail": ".history.ExampleSyns_20250223225151",
+        "documentation": {}
+    },
+    {
+        "label": "plot_synapse_comparison",
+        "kind": 2,
+        "importPath": ".history.ExampleSyns_20250223225209",
+        "description": ".history.ExampleSyns_20250223225209",
+        "peekOfCode": "def plot_synapse_comparison(synapses, path_, n_each=3):\n    \"\"\"Plot comparison of E/I synapses with features\"\"\"\n    # Separate E and I synapses\n    e_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('E', case=False)]\n    i_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('I', case=False)]\n    # Randomly sample n_each from each type\n    e_sample = e_synapses.sample(n=n_each, random_state=42)\n    i_sample = i_synapses.sample(n=n_each, random_state=42)\n    sample_synapses = pd.concat([e_sample, i_sample])\n    # Calculate features for all synapses",
+        "detail": ".history.ExampleSyns_20250223225209",
+        "documentation": {}
+    },
+    {
+        "label": "plot_synapse_comparison",
+        "kind": 2,
+        "importPath": ".history.ExampleSyns_20250223225230",
+        "description": ".history.ExampleSyns_20250223225230",
+        "peekOfCode": "def plot_synapse_comparison(synapses, path_, n_each=3):\n    \"\"\"Plot comparison of E/I synapses with features\"\"\"\n    # Separate E and I synapses\n    e_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('E', case=False)]\n    i_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('I', case=False)]\n    # Randomly sample n_each from each type\n    e_sample = e_synapses.sample(n=n_each, random_state=42)\n    i_sample = i_synapses.sample(n=n_each, random_state=42)\n    sample_synapses = pd.concat([e_sample, i_sample])\n    # Calculate features for all synapses",
+        "detail": ".history.ExampleSyns_20250223225230",
+        "documentation": {}
+    },
+    {
+        "label": "plot_synapse_comparison",
+        "kind": 2,
+        "importPath": ".history.ExampleSyns_20250223225239",
+        "description": ".history.ExampleSyns_20250223225239",
+        "peekOfCode": "def plot_synapse_comparison(synapses, path_, n_each=3):\n    \"\"\"Plot comparison of E/I synapses with features\"\"\"\n    # Separate E and I synapses\n    e_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('E', case=False)]\n    i_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('I', case=False)]\n    # Randomly sample n_each from each type\n    e_sample = e_synapses.sample(n=n_each, random_state=42)\n    i_sample = i_synapses.sample(n=n_each, random_state=42)\n    sample_synapses = pd.concat([e_sample, i_sample])\n    # Calculate features for all synapses",
+        "detail": ".history.ExampleSyns_20250223225239",
+        "documentation": {}
+    },
+    {
+        "label": "plot_synapse_comparison",
+        "kind": 2,
+        "importPath": ".history.ExampleSyns_20250223225316",
+        "description": ".history.ExampleSyns_20250223225316",
+        "peekOfCode": "def plot_synapse_comparison(synapses, path_, n_each=3):\n    \"\"\"Plot comparison of E/I synapses with features\"\"\"\n    # Separate E and I synapses\n    e_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('E', case=False)]\n    i_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('I', case=False)]\n    # Randomly sample n_each from each type\n    e_sample = e_synapses.sample(n=n_each, random_state=42)\n    i_sample = i_synapses.sample(n=n_each, random_state=42)\n    sample_synapses = pd.concat([e_sample, i_sample])\n    # Calculate features for all synapses",
+        "detail": ".history.ExampleSyns_20250223225316",
+        "documentation": {}
+    },
+    {
+        "label": "plot_synapse_comparison",
+        "kind": 2,
+        "importPath": ".history.ExampleSyns_20250223225334",
+        "description": ".history.ExampleSyns_20250223225334",
+        "peekOfCode": "def plot_synapse_comparison(synapses, path_, n_each=3):\n    \"\"\"Plot comparison of E/I synapses with features\"\"\"\n    # Separate E and I synapses\n    e_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('E', case=False)]\n    i_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('I', case=False)]\n    # Randomly sample n_each from each type\n    e_sample = e_synapses.sample(n=n_each, random_state=42)\n    i_sample = i_synapses.sample(n=n_each, random_state=42)\n    sample_synapses = pd.concat([e_sample, i_sample])\n    # Calculate features for all synapses",
+        "detail": ".history.ExampleSyns_20250223225334",
+        "documentation": {}
+    },
+    {
         "label": "load_metrics",
         "kind": 2,
         "importPath": ".history.metrics_analysis_20250223171609",
@@ -7442,6 +12635,105 @@
         "description": ".history.metric_calc_20250223214719",
         "peekOfCode": "ALL_FEATURES = [feature for group in FEATURE_NAMES.values() for feature in group]\ndef synapse_size(pre_mask, post_mask):\n    \"\"\"Calculate synapse size metrics.\"\"\"\n    synapse_mask = pre_mask | post_mask\n    synapse_area = np.sum(synapse_mask)\n    pre_area = np.sum(pre_mask)\n    post_area = np.sum(post_mask)\n    pre_post_ratio = pre_area / post_area\n    return {\n        'synapse_area': synapse_area,",
         "detail": ".history.metric_calc_20250223214719",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_size",
+        "kind": 2,
+        "importPath": ".history.metric_calc_20250223220834",
+        "description": ".history.metric_calc_20250223220834",
+        "peekOfCode": "def synapse_size(pre_mask, post_mask):\n    \"\"\"Calculate synapse size metrics.\"\"\"\n    synapse_mask = pre_mask | post_mask\n    synapse_area = np.sum(synapse_mask)\n    pre_area = np.sum(pre_mask)\n    post_area = np.sum(post_mask)\n    pre_post_ratio = pre_area / post_area\n    return {\n        'synapse_area': synapse_area,\n        'pre_area': pre_area,",
+        "detail": ".history.metric_calc_20250223220834",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_shape",
+        "kind": 2,
+        "importPath": ".history.metric_calc_20250223220834",
+        "description": ".history.metric_calc_20250223220834",
+        "peekOfCode": "def synapse_shape(pre_mask, post_mask):\n    \"\"\"Calculate synapse shape metrics.\"\"\"\n    synapse_mask = pre_mask | post_mask\n    perimeter = measure.perimeter(synapse_mask)\n    circularity = 4 * np.pi * np.sum(synapse_mask) / (perimeter ** 2)\n    return {\n        'perimeter': perimeter,\n        'circularity': circularity\n    }\ndef synapse_intensity(image, pre_mask, post_mask):",
+        "detail": ".history.metric_calc_20250223220834",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity",
+        "kind": 2,
+        "importPath": ".history.metric_calc_20250223220834",
+        "description": ".history.metric_calc_20250223220834",
+        "peekOfCode": "def synapse_intensity(image, pre_mask, post_mask):\n    \"\"\"Calculate synapse intensity metrics.\"\"\"\n    synapse_mask = pre_mask | post_mask\n    synapse_intensities = image[synapse_mask]\n    mean_intensity = np.mean(synapse_intensities)\n    median_intensity = np.median(synapse_intensities)\n    std_intensity = np.std(synapse_intensities)\n    return {\n        'mean_intensity': mean_intensity,\n        'median_intensity': median_intensity,",
+        "detail": ".history.metric_calc_20250223220834",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_distance",
+        "kind": 2,
+        "importPath": ".history.metric_calc_20250223220834",
+        "description": ".history.metric_calc_20250223220834",
+        "peekOfCode": "def synapse_distance(pre_mask, post_mask):\n    \"\"\"Calculate distance between pre- and post-synaptic regions.\"\"\"\n    pre_centroid = measure.centroid(pre_mask)\n    post_centroid = measure.centroid(post_mask)\n    distance = np.sqrt((pre_centroid[0] - post_centroid[0]) ** 2 +\n                      (pre_centroid[1] - post_centroid[1]) ** 2)\n    return {'pre_post_distance': distance}\ndef synapse_colocalization(pre_mask, post_mask):\n    \"\"\"Calculate synapse co-localization metrics.\"\"\"\n    intersection = pre_mask & post_mask",
+        "detail": ".history.metric_calc_20250223220834",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_colocalization",
+        "kind": 2,
+        "importPath": ".history.metric_calc_20250223220834",
+        "description": ".history.metric_calc_20250223220834",
+        "peekOfCode": "def synapse_colocalization(pre_mask, post_mask):\n    \"\"\"Calculate synapse co-localization metrics.\"\"\"\n    intersection = pre_mask & post_mask\n    union = pre_mask | post_mask\n    jaccard_index = np.sum(intersection) / np.sum(union)\n    pre_overlap = np.sum(intersection) / np.sum(pre_mask)\n    post_overlap = np.sum(intersection) / np.sum(post_mask)\n    return {\n        'jaccard_index': jaccard_index,\n        'pre_overlap': pre_overlap,",
+        "detail": ".history.metric_calc_20250223220834",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_morphology",
+        "kind": 2,
+        "importPath": ".history.metric_calc_20250223220834",
+        "description": ".history.metric_calc_20250223220834",
+        "peekOfCode": "def synapse_morphology(pre_mask, post_mask):\n    \"\"\"Calculate synapse morphology metrics.\"\"\"\n    synapse_mask = pre_mask | post_mask\n    labeled_synapse = measure.label(synapse_mask)\n    properties = measure.regionprops(labeled_synapse)\n    if properties:\n        major_axis_length = properties[0].major_axis_length\n        minor_axis_length = properties[0].minor_axis_length\n    else:\n        major_axis_length = 0",
+        "detail": ".history.metric_calc_20250223220834",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity_distribution",
+        "kind": 2,
+        "importPath": ".history.metric_calc_20250223220834",
+        "description": ".history.metric_calc_20250223220834",
+        "peekOfCode": "def synapse_intensity_distribution(image, pre_mask, post_mask):\n    \"\"\"Calculate detailed intensity distribution metrics for pre and post regions.\"\"\"\n    # Get intensities for each region\n    pre_intensities = image[pre_mask]\n    post_intensities = image[post_mask]\n    # Calculate percentiles\n    pre_percentiles = np.percentile(pre_intensities, [25, 50, 75])\n    post_percentiles = np.percentile(post_intensities, [25, 50, 75])\n    # Calculate intensity ratios and differences\n    pre_post_median_ratio = pre_percentiles[1] / post_percentiles[1]",
+        "detail": ".history.metric_calc_20250223220834",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_texture",
+        "kind": 2,
+        "importPath": ".history.metric_calc_20250223220834",
+        "description": ".history.metric_calc_20250223220834",
+        "peekOfCode": "def synapse_texture(image, pre_mask, post_mask):\n    \"\"\"Calculate texture metrics that might distinguish E/I synapses.\"\"\"\n    # Get masked regions\n    pre_region = image * pre_mask\n    post_region = image * post_mask\n    # Calculate GLCM features for both regions\n    def get_texture_features(region):\n        # Normalize to 8-bit range\n        region_norm = ((region - region.min()) * (255.0 / (region.max() - region.min()))).astype(np.uint8)\n        glcm = graycomatrix(region_norm, [1], [0, np.pi/4, np.pi/2, 3*np.pi/4], symmetric=True, normed=True)",
+        "detail": ".history.metric_calc_20250223220834",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_boundary",
+        "kind": 2,
+        "importPath": ".history.metric_calc_20250223220834",
+        "description": ".history.metric_calc_20250223220834",
+        "peekOfCode": "def synapse_boundary(pre_mask, post_mask):\n    \"\"\"Calculate boundary characteristics that might distinguish E/I synapses.\"\"\"\n    # Get boundaries\n    pre_boundary = measure.find_contours(pre_mask, 0.5)[0]\n    post_boundary = measure.find_contours(post_mask, 0.5)[0]\n    # Calculate boundary complexity\n    pre_perimeter = len(pre_boundary)\n    post_perimeter = len(post_boundary)\n    # Calculate convex hull and solidity\n    pre_props = measure.regionprops(pre_mask.astype(int))[0]",
+        "detail": ".history.metric_calc_20250223220834",
+        "documentation": {}
+    },
+    {
+        "label": "FEATURE_NAMES",
+        "kind": 5,
+        "importPath": ".history.metric_calc_20250223220834",
+        "description": ".history.metric_calc_20250223220834",
+        "peekOfCode": "FEATURE_NAMES = {\n    'size': [\n        'synapse_area',\n        'pre_area',\n        'post_area',\n        'pre_post_area_ratio'\n    ],\n    'shape': [\n        'perimeter',\n        'circularity'",
+        "detail": ".history.metric_calc_20250223220834",
+        "documentation": {}
+    },
+    {
+        "label": "ALL_FEATURES",
+        "kind": 5,
+        "importPath": ".history.metric_calc_20250223220834",
+        "description": ".history.metric_calc_20250223220834",
+        "peekOfCode": "ALL_FEATURES = [feature for group in FEATURE_NAMES.values() for feature in group]\ndef synapse_size(pre_mask, post_mask):\n    \"\"\"Calculate synapse size metrics.\"\"\"\n    synapse_mask = pre_mask | post_mask\n    synapse_area = np.sum(synapse_mask)\n    pre_area = np.sum(pre_mask)\n    post_area = np.sum(post_mask)\n    pre_post_ratio = pre_area / post_area\n    return {\n        'synapse_area': synapse_area,",
+        "detail": ".history.metric_calc_20250223220834",
         "documentation": {}
     },
     {
@@ -10568,83 +15860,11 @@
         "documentation": {}
     },
     {
-        "label": "path_",
-        "kind": 5,
+        "label": "plot_synapse_comparison",
+        "kind": 2,
         "importPath": "ExampleSyns",
         "description": "ExampleSyns",
-        "peekOfCode": "path_ = 'data/synpase_raw_em/'\nsynapses = pd.read_csv(f'{path_}synapse_data.csv', index_col=0)\nprint(len(synapses))\nprint(synapses.columns)\nsyn_id = synapses.iloc[0].syn_id\nimg = np.load(f'{path_}{syn_id}_syn.npy')\npre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\npost_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\n# Calculate all metrics\nmetrics = {",
-        "detail": "ExampleSyns",
-        "documentation": {}
-    },
-    {
-        "label": "synapses",
-        "kind": 5,
-        "importPath": "ExampleSyns",
-        "description": "ExampleSyns",
-        "peekOfCode": "synapses = pd.read_csv(f'{path_}synapse_data.csv', index_col=0)\nprint(len(synapses))\nprint(synapses.columns)\nsyn_id = synapses.iloc[0].syn_id\nimg = np.load(f'{path_}{syn_id}_syn.npy')\npre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\npost_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\n# Calculate all metrics\nmetrics = {\n    **synapse_size(pre_mask, post_mask),",
-        "detail": "ExampleSyns",
-        "documentation": {}
-    },
-    {
-        "label": "syn_id",
-        "kind": 5,
-        "importPath": "ExampleSyns",
-        "description": "ExampleSyns",
-        "peekOfCode": "syn_id = synapses.iloc[0].syn_id\nimg = np.load(f'{path_}{syn_id}_syn.npy')\npre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\npost_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\n# Calculate all metrics\nmetrics = {\n    **synapse_size(pre_mask, post_mask),\n    **synapse_shape(pre_mask, post_mask),\n    **synapse_intensity(img, pre_mask, post_mask),\n    **synapse_distance(pre_mask, post_mask),",
-        "detail": "ExampleSyns",
-        "documentation": {}
-    },
-    {
-        "label": "img",
-        "kind": 5,
-        "importPath": "ExampleSyns",
-        "description": "ExampleSyns",
-        "peekOfCode": "img = np.load(f'{path_}{syn_id}_syn.npy')\npre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\npost_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\n# Calculate all metrics\nmetrics = {\n    **synapse_size(pre_mask, post_mask),\n    **synapse_shape(pre_mask, post_mask),\n    **synapse_intensity(img, pre_mask, post_mask),\n    **synapse_distance(pre_mask, post_mask),\n    **synapse_colocalization(pre_mask, post_mask),",
-        "detail": "ExampleSyns",
-        "documentation": {}
-    },
-    {
-        "label": "pre_mask",
-        "kind": 5,
-        "importPath": "ExampleSyns",
-        "description": "ExampleSyns",
-        "peekOfCode": "pre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\npost_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\n# Calculate all metrics\nmetrics = {\n    **synapse_size(pre_mask, post_mask),\n    **synapse_shape(pre_mask, post_mask),\n    **synapse_intensity(img, pre_mask, post_mask),\n    **synapse_distance(pre_mask, post_mask),\n    **synapse_colocalization(pre_mask, post_mask),\n    **synapse_morphology(pre_mask, post_mask),",
-        "detail": "ExampleSyns",
-        "documentation": {}
-    },
-    {
-        "label": "post_mask",
-        "kind": 5,
-        "importPath": "ExampleSyns",
-        "description": "ExampleSyns",
-        "peekOfCode": "post_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\n# Calculate all metrics\nmetrics = {\n    **synapse_size(pre_mask, post_mask),\n    **synapse_shape(pre_mask, post_mask),\n    **synapse_intensity(img, pre_mask, post_mask),\n    **synapse_distance(pre_mask, post_mask),\n    **synapse_colocalization(pre_mask, post_mask),\n    **synapse_morphology(pre_mask, post_mask),\n    **synapse_texture(img, pre_mask, post_mask),",
-        "detail": "ExampleSyns",
-        "documentation": {}
-    },
-    {
-        "label": "metrics",
-        "kind": 5,
-        "importPath": "ExampleSyns",
-        "description": "ExampleSyns",
-        "peekOfCode": "metrics = {\n    **synapse_size(pre_mask, post_mask),\n    **synapse_shape(pre_mask, post_mask),\n    **synapse_intensity(img, pre_mask, post_mask),\n    **synapse_distance(pre_mask, post_mask),\n    **synapse_colocalization(pre_mask, post_mask),\n    **synapse_morphology(pre_mask, post_mask),\n    **synapse_texture(img, pre_mask, post_mask),\n    **synapse_intensity_distribution(img, pre_mask, post_mask),\n    **synapse_boundary(pre_mask, post_mask)",
-        "detail": "ExampleSyns",
-        "documentation": {}
-    },
-    {
-        "label": "display_names",
-        "kind": 5,
-        "importPath": "ExampleSyns",
-        "description": "ExampleSyns",
-        "peekOfCode": "display_names = {\n    'synapse_area': 'Synapse Area',\n    'pre_area': 'Pre-synaptic Area',\n    'post_area': 'Post-synaptic Area',\n    'pre_post_area_ratio': 'Pre-Post Area Ratio',\n    # Add more display names for the new metrics...\n}\nmetrics_df = pd.DataFrame.from_dict(\n    {display_names.get(k, k.replace('_', ' ').title()): [v] \n     for k, v in metrics.items()},",
-        "detail": "ExampleSyns",
-        "documentation": {}
-    },
-    {
-        "label": "metrics_df",
-        "kind": 5,
-        "importPath": "ExampleSyns",
-        "description": "ExampleSyns",
-        "peekOfCode": "metrics_df = pd.DataFrame.from_dict(\n    {display_names.get(k, k.replace('_', ' ').title()): [v] \n     for k, v in metrics.items()},\n    orient='index',\n    columns=['Value']\n)\n# Pretty print the DataFrame\nprint(\"Synapse Metrics:\")\nprint(metrics_df.to_string(index=True, header=False, float_format=lambda x: f\"{x:.2f}\"))\n# Plot original visualization",
+        "peekOfCode": "def plot_synapse_comparison(synapses, path_, n_each=3):\n    \"\"\"Plot comparison of E/I synapses with features\"\"\"\n    # Separate E and I synapses\n    e_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('E', case=False)]\n    i_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('I', case=False)]\n    # Randomly sample n_each from each type\n    e_sample = e_synapses.sample(n=n_each, random_state=42)\n    i_sample = i_synapses.sample(n=n_each, random_state=42)\n    sample_synapses = pd.concat([e_sample, i_sample])\n    # Calculate features for all synapses",
         "detail": "ExampleSyns",
         "documentation": {}
     },
