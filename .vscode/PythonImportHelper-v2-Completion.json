@@ -714,36 +714,838 @@
         "documentation": {}
     },
     {
-        "label": "measure",
-        "importPath": "skimage",
-        "description": "skimage",
-        "isExtraImport": true,
-        "detail": "skimage",
-        "documentation": {}
-    },
-    {
-        "label": "measure",
-        "importPath": "skimage",
-        "description": "skimage",
-        "isExtraImport": true,
-        "detail": "skimage",
-        "documentation": {}
-    },
-    {
-        "label": "measure",
-        "importPath": "skimage",
-        "description": "skimage",
-        "isExtraImport": true,
-        "detail": "skimage",
-        "documentation": {}
-    },
-    {
         "label": "pandas",
         "kind": 6,
         "isExtraImport": true,
         "importPath": "pandas",
         "description": "pandas",
         "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "PCA",
+        "importPath": "sklearn.decomposition",
+        "description": "sklearn.decomposition",
+        "isExtraImport": true,
+        "detail": "sklearn.decomposition",
+        "documentation": {}
+    },
+    {
+        "label": "PCA",
+        "importPath": "sklearn.decomposition",
+        "description": "sklearn.decomposition",
+        "isExtraImport": true,
+        "detail": "sklearn.decomposition",
+        "documentation": {}
+    },
+    {
+        "label": "PCA",
+        "importPath": "sklearn.decomposition",
+        "description": "sklearn.decomposition",
+        "isExtraImport": true,
+        "detail": "sklearn.decomposition",
+        "documentation": {}
+    },
+    {
+        "label": "PCA",
+        "importPath": "sklearn.decomposition",
+        "description": "sklearn.decomposition",
+        "isExtraImport": true,
+        "detail": "sklearn.decomposition",
+        "documentation": {}
+    },
+    {
+        "label": "PCA",
+        "importPath": "sklearn.decomposition",
+        "description": "sklearn.decomposition",
+        "isExtraImport": true,
+        "detail": "sklearn.decomposition",
+        "documentation": {}
+    },
+    {
+        "label": "PCA",
+        "importPath": "sklearn.decomposition",
+        "description": "sklearn.decomposition",
+        "isExtraImport": true,
+        "detail": "sklearn.decomposition",
+        "documentation": {}
+    },
+    {
+        "label": "PCA",
+        "importPath": "sklearn.decomposition",
+        "description": "sklearn.decomposition",
+        "isExtraImport": true,
+        "detail": "sklearn.decomposition",
+        "documentation": {}
+    },
+    {
+        "label": "PCA",
+        "importPath": "sklearn.decomposition",
+        "description": "sklearn.decomposition",
+        "isExtraImport": true,
+        "detail": "sklearn.decomposition",
+        "documentation": {}
+    },
+    {
+        "label": "KMeans",
+        "importPath": "sklearn.cluster",
+        "description": "sklearn.cluster",
+        "isExtraImport": true,
+        "detail": "sklearn.cluster",
+        "documentation": {}
+    },
+    {
+        "label": "DBSCAN",
+        "importPath": "sklearn.cluster",
+        "description": "sklearn.cluster",
+        "isExtraImport": true,
+        "detail": "sklearn.cluster",
+        "documentation": {}
+    },
+    {
+        "label": "KMeans",
+        "importPath": "sklearn.cluster",
+        "description": "sklearn.cluster",
+        "isExtraImport": true,
+        "detail": "sklearn.cluster",
+        "documentation": {}
+    },
+    {
+        "label": "DBSCAN",
+        "importPath": "sklearn.cluster",
+        "description": "sklearn.cluster",
+        "isExtraImport": true,
+        "detail": "sklearn.cluster",
+        "documentation": {}
+    },
+    {
+        "label": "KMeans",
+        "importPath": "sklearn.cluster",
+        "description": "sklearn.cluster",
+        "isExtraImport": true,
+        "detail": "sklearn.cluster",
+        "documentation": {}
+    },
+    {
+        "label": "DBSCAN",
+        "importPath": "sklearn.cluster",
+        "description": "sklearn.cluster",
+        "isExtraImport": true,
+        "detail": "sklearn.cluster",
+        "documentation": {}
+    },
+    {
+        "label": "KMeans",
+        "importPath": "sklearn.cluster",
+        "description": "sklearn.cluster",
+        "isExtraImport": true,
+        "detail": "sklearn.cluster",
+        "documentation": {}
+    },
+    {
+        "label": "DBSCAN",
+        "importPath": "sklearn.cluster",
+        "description": "sklearn.cluster",
+        "isExtraImport": true,
+        "detail": "sklearn.cluster",
+        "documentation": {}
+    },
+    {
+        "label": "KMeans",
+        "importPath": "sklearn.cluster",
+        "description": "sklearn.cluster",
+        "isExtraImport": true,
+        "detail": "sklearn.cluster",
+        "documentation": {}
+    },
+    {
+        "label": "DBSCAN",
+        "importPath": "sklearn.cluster",
+        "description": "sklearn.cluster",
+        "isExtraImport": true,
+        "detail": "sklearn.cluster",
+        "documentation": {}
+    },
+    {
+        "label": "KMeans",
+        "importPath": "sklearn.cluster",
+        "description": "sklearn.cluster",
+        "isExtraImport": true,
+        "detail": "sklearn.cluster",
+        "documentation": {}
+    },
+    {
+        "label": "DBSCAN",
+        "importPath": "sklearn.cluster",
+        "description": "sklearn.cluster",
+        "isExtraImport": true,
+        "detail": "sklearn.cluster",
+        "documentation": {}
+    },
+    {
+        "label": "KMeans",
+        "importPath": "sklearn.cluster",
+        "description": "sklearn.cluster",
+        "isExtraImport": true,
+        "detail": "sklearn.cluster",
+        "documentation": {}
+    },
+    {
+        "label": "DBSCAN",
+        "importPath": "sklearn.cluster",
+        "description": "sklearn.cluster",
+        "isExtraImport": true,
+        "detail": "sklearn.cluster",
+        "documentation": {}
+    },
+    {
+        "label": "KMeans",
+        "importPath": "sklearn.cluster",
+        "description": "sklearn.cluster",
+        "isExtraImport": true,
+        "detail": "sklearn.cluster",
+        "documentation": {}
+    },
+    {
+        "label": "DBSCAN",
+        "importPath": "sklearn.cluster",
+        "description": "sklearn.cluster",
+        "isExtraImport": true,
+        "detail": "sklearn.cluster",
+        "documentation": {}
+    },
+    {
+        "label": "seaborn",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "seaborn",
+        "description": "seaborn",
+        "detail": "seaborn",
+        "documentation": {}
+    },
+    {
+        "label": "umap",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "umap",
+        "description": "umap",
+        "detail": "umap",
+        "documentation": {}
+    },
+    {
+        "label": "measure",
+        "importPath": "skimage",
+        "description": "skimage",
+        "isExtraImport": true,
+        "detail": "skimage",
+        "documentation": {}
+    },
+    {
+        "label": "measure",
+        "importPath": "skimage",
+        "description": "skimage",
+        "isExtraImport": true,
+        "detail": "skimage",
+        "documentation": {}
+    },
+    {
+        "label": "measure",
+        "importPath": "skimage",
+        "description": "skimage",
+        "isExtraImport": true,
+        "detail": "skimage",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_size",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_shape",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_distance",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_colocalization",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_morphology",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_size",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_shape",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_distance",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_colocalization",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_morphology",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_size",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_shape",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_distance",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_colocalization",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_morphology",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_size",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_shape",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_distance",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_colocalization",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_morphology",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_size",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_shape",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_distance",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_colocalization",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_morphology",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_size",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_shape",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_distance",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_colocalization",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_morphology",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_size",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_shape",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_distance",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_colocalization",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_morphology",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_size",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_shape",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_distance",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_colocalization",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_morphology",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_size",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_shape",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_distance",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_colocalization",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_morphology",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_size",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_shape",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_distance",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_colocalization",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_morphology",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_size",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_shape",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_distance",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_colocalization",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_morphology",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
         "documentation": {}
     },
     {
@@ -2583,6 +3385,249 @@
         "documentation": {}
     },
     {
+        "label": "load_metrics",
+        "kind": 2,
+        "importPath": ".history.metrics_analysis_20250223171609",
+        "description": ".history.metrics_analysis_20250223171609",
+        "peekOfCode": "def load_metrics():\n    \"\"\"Load pre-calculated metrics from CSV\"\"\"\n    metrics_df = pd.read_csv('data/synapse_data_with_metrics.csv')\n    # Select only numerical columns for clustering\n    feature_cols = metrics_df.select_dtypes(include=[np.number]).columns\n    feature_cols = feature_cols.drop(['syn_id']) if 'syn_id' in feature_cols else feature_cols\n    return metrics_df, feature_cols\ndef perform_clustering_analysis(metrics_df, feature_cols, n_clusters=3):\n    \"\"\"Perform PCA and clustering on the metrics\"\"\"\n    X = metrics_df[feature_cols]",
+        "detail": ".history.metrics_analysis_20250223171609",
+        "documentation": {}
+    },
+    {
+        "label": "perform_clustering_analysis",
+        "kind": 2,
+        "importPath": ".history.metrics_analysis_20250223171609",
+        "description": ".history.metrics_analysis_20250223171609",
+        "peekOfCode": "def perform_clustering_analysis(metrics_df, feature_cols, n_clusters=3):\n    \"\"\"Perform PCA and clustering on the metrics\"\"\"\n    X = metrics_df[feature_cols]\n    scaler = StandardScaler()\n    X_scaled = scaler.fit_transform(X)\n    # PCA\n    pca = PCA(n_components=2)\n    X_pca = pca.fit_transform(X_scaled)\n    # K-means clustering\n    kmeans = KMeans(n_clusters=n_clusters, random_state=42)",
+        "detail": ".history.metrics_analysis_20250223171609",
+        "documentation": {}
+    },
+    {
+        "label": "plot_clusters",
+        "kind": 2,
+        "importPath": ".history.metrics_analysis_20250223171609",
+        "description": ".history.metrics_analysis_20250223171609",
+        "peekOfCode": "def plot_clusters(X_pca, clusters, variance_ratio):\n    \"\"\"Plot the clustering results\"\"\"\n    plt.figure(figsize=(10, 8))\n    scatter = plt.scatter(X_pca[:, 0], X_pca[:, 1], c=clusters, cmap='viridis')\n    plt.xlabel(f'PC1 ({variance_ratio[0]:.2%} variance explained)')\n    plt.ylabel(f'PC2 ({variance_ratio[1]:.2%} variance explained)')\n    plt.title('Synapse Clusters based on Morphological Features')\n    plt.colorbar(scatter, label='Cluster')\n    plt.show()\nif __name__ == \"__main__\":",
+        "detail": ".history.metrics_analysis_20250223171609",
+        "documentation": {}
+    },
+    {
+        "label": "load_metrics",
+        "kind": 2,
+        "importPath": ".history.metrics_analysis_20250223171618",
+        "description": ".history.metrics_analysis_20250223171618",
+        "peekOfCode": "def load_metrics():\n    \"\"\"Load pre-calculated metrics from CSV\"\"\"\n    metrics_df = pd.read_csv('data/synapse_data_with_metrics.csv')\n    # Select only numerical columns for clustering\n    feature_cols = metrics_df.select_dtypes(include=[np.number]).columns\n    feature_cols = feature_cols.drop(['syn_id']) if 'syn_id' in feature_cols else feature_cols\n    return metrics_df, feature_cols\ndef perform_clustering_analysis(metrics_df, feature_cols, n_clusters=3):\n    \"\"\"Perform PCA and clustering on the metrics\"\"\"\n    X = metrics_df[feature_cols]",
+        "detail": ".history.metrics_analysis_20250223171618",
+        "documentation": {}
+    },
+    {
+        "label": "perform_clustering_analysis",
+        "kind": 2,
+        "importPath": ".history.metrics_analysis_20250223171618",
+        "description": ".history.metrics_analysis_20250223171618",
+        "peekOfCode": "def perform_clustering_analysis(metrics_df, feature_cols, n_clusters=3):\n    \"\"\"Perform PCA and clustering on the metrics\"\"\"\n    X = metrics_df[feature_cols]\n    scaler = StandardScaler()\n    X_scaled = scaler.fit_transform(X)\n    # PCA\n    pca = PCA(n_components=2)\n    X_pca = pca.fit_transform(X_scaled)\n    # K-means clustering\n    kmeans = KMeans(n_clusters=n_clusters, random_state=42)",
+        "detail": ".history.metrics_analysis_20250223171618",
+        "documentation": {}
+    },
+    {
+        "label": "plot_clusters",
+        "kind": 2,
+        "importPath": ".history.metrics_analysis_20250223171618",
+        "description": ".history.metrics_analysis_20250223171618",
+        "peekOfCode": "def plot_clusters(X_pca, clusters, variance_ratio):\n    \"\"\"Plot the clustering results\"\"\"\n    plt.figure(figsize=(10, 8))\n    scatter = plt.scatter(X_pca[:, 0], X_pca[:, 1], c=clusters, cmap='viridis')\n    plt.xlabel(f'PC1 ({variance_ratio[0]:.2%} variance explained)')\n    plt.ylabel(f'PC2 ({variance_ratio[1]:.2%} variance explained)')\n    plt.title('Synapse Clusters based on Morphological Features')\n    plt.colorbar(scatter, label='Cluster')\n    plt.show()\nif __name__ == \"__main__\":",
+        "detail": ".history.metrics_analysis_20250223171618",
+        "documentation": {}
+    },
+    {
+        "label": "load_metrics",
+        "kind": 2,
+        "importPath": ".history.metrics_analysis_20250223172003",
+        "description": ".history.metrics_analysis_20250223172003",
+        "peekOfCode": "def load_metrics():\n    \"\"\"Load pre-calculated metrics from CSV\"\"\"\n    metrics_df = pd.read_csv('data/synapse_data_with_metrics.csv')\n    # Select only numerical columns for clustering\n    feature_cols = metrics_df.select_dtypes(include=[np.number]).columns\n    feature_cols = feature_cols.drop(['syn_id']) if 'syn_id' in feature_cols else feature_cols\n    return metrics_df, feature_cols\ndef perform_clustering_analysis(metrics_df, feature_cols, n_clusters=3, method='pca'):\n    \"\"\"Perform dimensionality reduction and clustering on the metrics\"\"\"\n    X = metrics_df[feature_cols]",
+        "detail": ".history.metrics_analysis_20250223172003",
+        "documentation": {}
+    },
+    {
+        "label": "perform_clustering_analysis",
+        "kind": 2,
+        "importPath": ".history.metrics_analysis_20250223172003",
+        "description": ".history.metrics_analysis_20250223172003",
+        "peekOfCode": "def perform_clustering_analysis(metrics_df, feature_cols, n_clusters=3, method='pca'):\n    \"\"\"Perform dimensionality reduction and clustering on the metrics\"\"\"\n    X = metrics_df[feature_cols]\n    scaler = StandardScaler()\n    X_scaled = scaler.fit_transform(X)\n    # Dimensionality reduction\n    if method == 'pca':\n        reducer = PCA(n_components=2)\n        X_reduced = reducer.fit_transform(X_scaled)\n        explained_var = reducer.explained_variance_ratio_",
+        "detail": ".history.metrics_analysis_20250223172003",
+        "documentation": {}
+    },
+    {
+        "label": "plot_clusters",
+        "kind": 2,
+        "importPath": ".history.metrics_analysis_20250223172003",
+        "description": ".history.metrics_analysis_20250223172003",
+        "peekOfCode": "def plot_clusters(X_reduced, clusters, variance_ratio=None, method='pca'):\n    \"\"\"Plot the clustering results\"\"\"\n    plt.figure(figsize=(10, 8))\n    scatter = plt.scatter(X_reduced[:, 0], X_reduced[:, 1], c=clusters, cmap='viridis')\n    if method == 'pca':\n        plt.xlabel(f'PC1 ({variance_ratio[0]:.2%} variance explained)')\n        plt.ylabel(f'PC2 ({variance_ratio[1]:.2%} variance explained)')\n        title = 'Synapse Clusters (PCA)'\n    else:\n        plt.xlabel('UMAP1')",
+        "detail": ".history.metrics_analysis_20250223172003",
+        "documentation": {}
+    },
+    {
+        "label": "load_metrics",
+        "kind": 2,
+        "importPath": ".history.metrics_analysis_20250223172004",
+        "description": ".history.metrics_analysis_20250223172004",
+        "peekOfCode": "def load_metrics():\n    \"\"\"Load pre-calculated metrics from CSV\"\"\"\n    metrics_df = pd.read_csv('data/synapse_data_with_metrics.csv')\n    # Select only numerical columns for clustering\n    feature_cols = metrics_df.select_dtypes(include=[np.number]).columns\n    feature_cols = feature_cols.drop(['syn_id']) if 'syn_id' in feature_cols else feature_cols\n    return metrics_df, feature_cols\ndef perform_clustering_analysis(metrics_df, feature_cols, n_clusters=3, method='pca'):\n    \"\"\"Perform dimensionality reduction and clustering on the metrics\"\"\"\n    X = metrics_df[feature_cols]",
+        "detail": ".history.metrics_analysis_20250223172004",
+        "documentation": {}
+    },
+    {
+        "label": "perform_clustering_analysis",
+        "kind": 2,
+        "importPath": ".history.metrics_analysis_20250223172004",
+        "description": ".history.metrics_analysis_20250223172004",
+        "peekOfCode": "def perform_clustering_analysis(metrics_df, feature_cols, n_clusters=3, method='pca'):\n    \"\"\"Perform dimensionality reduction and clustering on the metrics\"\"\"\n    X = metrics_df[feature_cols]\n    scaler = StandardScaler()\n    X_scaled = scaler.fit_transform(X)\n    # Dimensionality reduction\n    if method == 'pca':\n        reducer = PCA(n_components=2)\n        X_reduced = reducer.fit_transform(X_scaled)\n        explained_var = reducer.explained_variance_ratio_",
+        "detail": ".history.metrics_analysis_20250223172004",
+        "documentation": {}
+    },
+    {
+        "label": "plot_clusters",
+        "kind": 2,
+        "importPath": ".history.metrics_analysis_20250223172004",
+        "description": ".history.metrics_analysis_20250223172004",
+        "peekOfCode": "def plot_clusters(X_reduced, clusters, variance_ratio=None, method='pca'):\n    \"\"\"Plot the clustering results\"\"\"\n    plt.figure(figsize=(10, 8))\n    scatter = plt.scatter(X_reduced[:, 0], X_reduced[:, 1], c=clusters, cmap='viridis')\n    if method == 'pca':\n        plt.xlabel(f'PC1 ({variance_ratio[0]:.2%} variance explained)')\n        plt.ylabel(f'PC2 ({variance_ratio[1]:.2%} variance explained)')\n        title = 'Synapse Clusters (PCA)'\n    else:\n        plt.xlabel('UMAP1')",
+        "detail": ".history.metrics_analysis_20250223172004",
+        "documentation": {}
+    },
+    {
+        "label": "load_metrics",
+        "kind": 2,
+        "importPath": ".history.metrics_analysis_20250223172514",
+        "description": ".history.metrics_analysis_20250223172514",
+        "peekOfCode": "def load_metrics():\n    \"\"\"Load pre-calculated metrics from CSV\"\"\"\n    metrics_df = pd.read_csv('data/synapse_data_with_metrics.csv')\n    # Select only numerical columns for clustering\n    feature_cols = metrics_df.select_dtypes(include=[np.number]).columns\n    feature_cols = feature_cols.drop(['syn_id']) if 'syn_id' in feature_cols else feature_cols\n    return metrics_df, feature_cols\ndef perform_clustering_analysis(metrics_df, feature_cols, n_clusters=3, method='pca'):\n    \"\"\"Perform dimensionality reduction and clustering on the metrics\"\"\"\n    X = metrics_df[feature_cols]",
+        "detail": ".history.metrics_analysis_20250223172514",
+        "documentation": {}
+    },
+    {
+        "label": "perform_clustering_analysis",
+        "kind": 2,
+        "importPath": ".history.metrics_analysis_20250223172514",
+        "description": ".history.metrics_analysis_20250223172514",
+        "peekOfCode": "def perform_clustering_analysis(metrics_df, feature_cols, n_clusters=3, method='pca'):\n    \"\"\"Perform dimensionality reduction and clustering on the metrics\"\"\"\n    X = metrics_df[feature_cols]\n    scaler = StandardScaler()\n    X_scaled = scaler.fit_transform(X)\n    # Dimensionality reduction\n    if method == 'pca':\n        reducer = PCA(n_components=2)\n        X_reduced = reducer.fit_transform(X_scaled)\n        explained_var = reducer.explained_variance_ratio_",
+        "detail": ".history.metrics_analysis_20250223172514",
+        "documentation": {}
+    },
+    {
+        "label": "plot_clusters",
+        "kind": 2,
+        "importPath": ".history.metrics_analysis_20250223172514",
+        "description": ".history.metrics_analysis_20250223172514",
+        "peekOfCode": "def plot_clusters(X_reduced, clusters, variance_ratio=None, method='pca'):\n    \"\"\"Plot the clustering results\"\"\"\n    plt.figure(figsize=(10, 8))\n    scatter = plt.scatter(X_reduced[:, 0], X_reduced[:, 1], c=clusters, cmap='viridis')\n    if method == 'pca':\n        plt.xlabel(f'PC1 ({variance_ratio[0]:.2%} variance explained)')\n        plt.ylabel(f'PC2 ({variance_ratio[1]:.2%} variance explained)')\n        title = 'Synapse Clusters (PCA)'\n    else:\n        plt.xlabel('UMAP1')",
+        "detail": ".history.metrics_analysis_20250223172514",
+        "documentation": {}
+    },
+    {
+        "label": "perform_umap",
+        "kind": 2,
+        "importPath": ".history.metrics_analysis_20250223172514",
+        "description": ".history.metrics_analysis_20250223172514",
+        "peekOfCode": "def perform_umap(metrics_df, feature_cols):\n    \"\"\"Perform UMAP dimensionality reduction\"\"\"\n    X = metrics_df[feature_cols]\n    scaler = StandardScaler()\n    X_scaled = scaler.fit_transform(X)\n    reducer = umap.UMAP(random_state=42)\n    X_reduced = reducer.fit_transform(X_scaled)\n    return X_reduced\ndef plot_cell_types(metrics_df, X_umap):\n    \"\"\"Plot UMAP colored by different cell type classifications\"\"\"",
+        "detail": ".history.metrics_analysis_20250223172514",
+        "documentation": {}
+    },
+    {
+        "label": "plot_cell_types",
+        "kind": 2,
+        "importPath": ".history.metrics_analysis_20250223172514",
+        "description": ".history.metrics_analysis_20250223172514",
+        "peekOfCode": "def plot_cell_types(metrics_df, X_umap):\n    \"\"\"Plot UMAP colored by different cell type classifications\"\"\"\n    fig, axes = plt.subplots(2, 2, figsize=(15, 15))\n    # Define the subplots data\n    plots = [\n        ('pre_syn_cell_type', 'Pre-synaptic Cell Type', 0, 0),\n        ('pre_syn_clf_type', 'Pre-synaptic Classification', 0, 1),\n        ('post_syn_cell_type', 'Post-synaptic Cell Type', 1, 0),\n        ('post_syn_clf_type', 'Post-synaptic Classification', 1, 1)\n    ]",
+        "detail": ".history.metrics_analysis_20250223172514",
+        "documentation": {}
+    },
+    {
+        "label": "load_metrics",
+        "kind": 2,
+        "importPath": ".history.metrics_analysis_20250223172619",
+        "description": ".history.metrics_analysis_20250223172619",
+        "peekOfCode": "def load_metrics():\n    \"\"\"Load pre-calculated metrics from CSV\"\"\"\n    metrics_df = pd.read_csv('data/synapse_data_with_metrics.csv')\n    # Select only numerical columns for clustering\n    feature_cols = metrics_df.select_dtypes(include=[np.number]).columns\n    feature_cols = feature_cols.drop(['syn_id']) if 'syn_id' in feature_cols else feature_cols\n    return metrics_df, feature_cols\ndef perform_clustering_analysis(metrics_df, feature_cols, n_clusters=3, method='pca'):\n    \"\"\"Perform dimensionality reduction and clustering on the metrics\"\"\"\n    X = metrics_df[feature_cols]",
+        "detail": ".history.metrics_analysis_20250223172619",
+        "documentation": {}
+    },
+    {
+        "label": "perform_clustering_analysis",
+        "kind": 2,
+        "importPath": ".history.metrics_analysis_20250223172619",
+        "description": ".history.metrics_analysis_20250223172619",
+        "peekOfCode": "def perform_clustering_analysis(metrics_df, feature_cols, n_clusters=3, method='pca'):\n    \"\"\"Perform dimensionality reduction and clustering on the metrics\"\"\"\n    X = metrics_df[feature_cols]\n    scaler = StandardScaler()\n    X_scaled = scaler.fit_transform(X)\n    # Dimensionality reduction\n    if method == 'pca':\n        reducer = PCA(n_components=2)\n        X_reduced = reducer.fit_transform(X_scaled)\n        explained_var = reducer.explained_variance_ratio_",
+        "detail": ".history.metrics_analysis_20250223172619",
+        "documentation": {}
+    },
+    {
+        "label": "plot_clusters",
+        "kind": 2,
+        "importPath": ".history.metrics_analysis_20250223172619",
+        "description": ".history.metrics_analysis_20250223172619",
+        "peekOfCode": "def plot_clusters(X_reduced, clusters, variance_ratio=None, method='pca'):\n    \"\"\"Plot the clustering results\"\"\"\n    plt.figure(figsize=(10, 8))\n    scatter = plt.scatter(X_reduced[:, 0], X_reduced[:, 1], c=clusters, cmap='viridis')\n    if method == 'pca':\n        plt.xlabel(f'PC1 ({variance_ratio[0]:.2%} variance explained)')\n        plt.ylabel(f'PC2 ({variance_ratio[1]:.2%} variance explained)')\n        title = 'Synapse Clusters (PCA)'\n    else:\n        plt.xlabel('UMAP1')",
+        "detail": ".history.metrics_analysis_20250223172619",
+        "documentation": {}
+    },
+    {
+        "label": "perform_umap",
+        "kind": 2,
+        "importPath": ".history.metrics_analysis_20250223172619",
+        "description": ".history.metrics_analysis_20250223172619",
+        "peekOfCode": "def perform_umap(metrics_df, feature_cols):\n    \"\"\"Perform UMAP dimensionality reduction\"\"\"\n    X = metrics_df[feature_cols]\n    scaler = StandardScaler()\n    X_scaled = scaler.fit_transform(X)\n    reducer = umap.UMAP(random_state=42)\n    X_reduced = reducer.fit_transform(X_scaled)\n    return X_reduced\ndef plot_cell_types(metrics_df, X_umap):\n    \"\"\"Plot UMAP colored by different cell type classifications\"\"\"",
+        "detail": ".history.metrics_analysis_20250223172619",
+        "documentation": {}
+    },
+    {
+        "label": "plot_cell_types",
+        "kind": 2,
+        "importPath": ".history.metrics_analysis_20250223172619",
+        "description": ".history.metrics_analysis_20250223172619",
+        "peekOfCode": "def plot_cell_types(metrics_df, X_umap):\n    \"\"\"Plot UMAP colored by different cell type classifications\"\"\"\n    fig, axes = plt.subplots(2, 2, figsize=(15, 15))\n    # Define the subplots data\n    plots = [\n        ('pre_syn_cell_type', 'Pre-synaptic Cell Type', 0, 0),\n        ('pre_syn_clf_type', 'Pre-synaptic Classification', 0, 1),\n        ('post_syn_cell_type', 'Post-synaptic Cell Type', 1, 0),\n        ('post_syn_clf_type', 'Post-synaptic Classification', 1, 1)\n    ]",
+        "detail": ".history.metrics_analysis_20250223172619",
+        "documentation": {}
+    },
+    {
+        "label": "load_metrics",
+        "kind": 2,
+        "importPath": ".history.metrics_analysis_20250223172621",
+        "description": ".history.metrics_analysis_20250223172621",
+        "peekOfCode": "def load_metrics():\n    \"\"\"Load pre-calculated metrics from CSV\"\"\"\n    metrics_df = pd.read_csv('data/synapse_data_with_metrics.csv')\n    # Select only numerical columns for clustering\n    feature_cols = metrics_df.select_dtypes(include=[np.number]).columns\n    feature_cols = feature_cols.drop(['syn_id']) if 'syn_id' in feature_cols else feature_cols\n    return metrics_df, feature_cols\ndef perform_clustering_analysis(metrics_df, feature_cols, n_clusters=3, method='pca'):\n    \"\"\"Perform dimensionality reduction and clustering on the metrics\"\"\"\n    X = metrics_df[feature_cols]",
+        "detail": ".history.metrics_analysis_20250223172621",
+        "documentation": {}
+    },
+    {
+        "label": "perform_clustering_analysis",
+        "kind": 2,
+        "importPath": ".history.metrics_analysis_20250223172621",
+        "description": ".history.metrics_analysis_20250223172621",
+        "peekOfCode": "def perform_clustering_analysis(metrics_df, feature_cols, n_clusters=3, method='pca'):\n    \"\"\"Perform dimensionality reduction and clustering on the metrics\"\"\"\n    X = metrics_df[feature_cols]\n    scaler = StandardScaler()\n    X_scaled = scaler.fit_transform(X)\n    # Dimensionality reduction\n    if method == 'pca':\n        reducer = PCA(n_components=2)\n        X_reduced = reducer.fit_transform(X_scaled)\n        explained_var = reducer.explained_variance_ratio_",
+        "detail": ".history.metrics_analysis_20250223172621",
+        "documentation": {}
+    },
+    {
+        "label": "plot_clusters",
+        "kind": 2,
+        "importPath": ".history.metrics_analysis_20250223172621",
+        "description": ".history.metrics_analysis_20250223172621",
+        "peekOfCode": "def plot_clusters(X_reduced, clusters, variance_ratio=None, method='pca'):\n    \"\"\"Plot the clustering results\"\"\"\n    plt.figure(figsize=(10, 8))\n    scatter = plt.scatter(X_reduced[:, 0], X_reduced[:, 1], c=clusters, cmap='viridis')\n    if method == 'pca':\n        plt.xlabel(f'PC1 ({variance_ratio[0]:.2%} variance explained)')\n        plt.ylabel(f'PC2 ({variance_ratio[1]:.2%} variance explained)')\n        title = 'Synapse Clusters (PCA)'\n    else:\n        plt.xlabel('UMAP1')",
+        "detail": ".history.metrics_analysis_20250223172621",
+        "documentation": {}
+    },
+    {
+        "label": "perform_umap",
+        "kind": 2,
+        "importPath": ".history.metrics_analysis_20250223172621",
+        "description": ".history.metrics_analysis_20250223172621",
+        "peekOfCode": "def perform_umap(metrics_df, feature_cols):\n    \"\"\"Perform UMAP dimensionality reduction\"\"\"\n    X = metrics_df[feature_cols]\n    scaler = StandardScaler()\n    X_scaled = scaler.fit_transform(X)\n    reducer = umap.UMAP(random_state=42)\n    X_reduced = reducer.fit_transform(X_scaled)\n    return X_reduced\ndef plot_cell_types(metrics_df, X_umap):\n    \"\"\"Plot UMAP colored by different cell type classifications\"\"\"",
+        "detail": ".history.metrics_analysis_20250223172621",
+        "documentation": {}
+    },
+    {
+        "label": "plot_cell_types",
+        "kind": 2,
+        "importPath": ".history.metrics_analysis_20250223172621",
+        "description": ".history.metrics_analysis_20250223172621",
+        "peekOfCode": "def plot_cell_types(metrics_df, X_umap):\n    \"\"\"Plot UMAP colored by different cell type classifications\"\"\"\n    fig, axes = plt.subplots(2, 2, figsize=(15, 15))\n    # Define the subplots data\n    plots = [\n        ('pre_syn_cell_type', 'Pre-synaptic Cell Type', 0, 0),\n        ('pre_syn_clf_type', 'Pre-synaptic Classification', 0, 1),\n        ('post_syn_cell_type', 'Post-synaptic Cell Type', 1, 0),\n        ('post_syn_clf_type', 'Post-synaptic Classification', 1, 1)\n    ]",
+        "detail": ".history.metrics_analysis_20250223172621",
+        "documentation": {}
+    },
+    {
         "label": "synapse_size",
         "kind": 2,
         "importPath": ".history.synapse_analysis_20250223153819",
@@ -2688,6 +3733,321 @@
         "description": ".history.synapse_analysis_20250223153821",
         "peekOfCode": "def synapse_morphology(pre_mask, post_mask):\n    \"\"\"Calculate synapse morphology metrics.\"\"\"\n    synapse_mask = pre_mask | post_mask\n    labeled_synapse = measure.label(synapse_mask)\n    properties = measure.regionprops(labeled_synapse)\n    if properties:\n        major_axis_length = properties[0].major_axis_length\n        minor_axis_length = properties[0].minor_axis_length\n    else:\n        major_axis_length = 0",
         "detail": ".history.synapse_analysis_20250223153821",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_synapse_metrics",
+        "kind": 2,
+        "importPath": ".history.synapse_metrics_20250223170116",
+        "description": ".history.synapse_metrics_20250223170116",
+        "peekOfCode": "def calculate_synapse_metrics(synapses, path_):\n    metrics_data = []\n    for _, row in synapses.iterrows():\n        syn_id = row['syn_id']\n        img = np.load(f'{path_}{syn_id}_syn.npy')\n        pre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\n        post_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\n        size_metrics = synapse_size(pre_mask, post_mask)\n        shape_metrics = synapse_shape(pre_mask, post_mask)\n        intensity_metrics = synapse_intensity(img, pre_mask, post_mask)",
+        "detail": ".history.synapse_metrics_20250223170116",
+        "documentation": {}
+    },
+    {
+        "label": "path_",
+        "kind": 5,
+        "importPath": ".history.synapse_metrics_20250223170116",
+        "description": ".history.synapse_metrics_20250223170116",
+        "peekOfCode": "path_ = '../data/synpase_raw_em/'\nsynapses = pd.read_csv(f'{path_}synapse_data.csv', index_col=0)\nmetrics_df = calculate_synapse_metrics(synapses, path_)\n# Merge the metrics DataFrame with the original synapses DataFrame\nsynapses_with_metrics = pd.merge(synapses, metrics_df, on='syn_id')\n# Save the updated DataFrame to a new CSV file\nsynapses_with_metrics.to_csv(f'{path_}synapse_data_with_metrics.csv', index=False)",
+        "detail": ".history.synapse_metrics_20250223170116",
+        "documentation": {}
+    },
+    {
+        "label": "synapses",
+        "kind": 5,
+        "importPath": ".history.synapse_metrics_20250223170116",
+        "description": ".history.synapse_metrics_20250223170116",
+        "peekOfCode": "synapses = pd.read_csv(f'{path_}synapse_data.csv', index_col=0)\nmetrics_df = calculate_synapse_metrics(synapses, path_)\n# Merge the metrics DataFrame with the original synapses DataFrame\nsynapses_with_metrics = pd.merge(synapses, metrics_df, on='syn_id')\n# Save the updated DataFrame to a new CSV file\nsynapses_with_metrics.to_csv(f'{path_}synapse_data_with_metrics.csv', index=False)",
+        "detail": ".history.synapse_metrics_20250223170116",
+        "documentation": {}
+    },
+    {
+        "label": "metrics_df",
+        "kind": 5,
+        "importPath": ".history.synapse_metrics_20250223170116",
+        "description": ".history.synapse_metrics_20250223170116",
+        "peekOfCode": "metrics_df = calculate_synapse_metrics(synapses, path_)\n# Merge the metrics DataFrame with the original synapses DataFrame\nsynapses_with_metrics = pd.merge(synapses, metrics_df, on='syn_id')\n# Save the updated DataFrame to a new CSV file\nsynapses_with_metrics.to_csv(f'{path_}synapse_data_with_metrics.csv', index=False)",
+        "detail": ".history.synapse_metrics_20250223170116",
+        "documentation": {}
+    },
+    {
+        "label": "synapses_with_metrics",
+        "kind": 5,
+        "importPath": ".history.synapse_metrics_20250223170116",
+        "description": ".history.synapse_metrics_20250223170116",
+        "peekOfCode": "synapses_with_metrics = pd.merge(synapses, metrics_df, on='syn_id')\n# Save the updated DataFrame to a new CSV file\nsynapses_with_metrics.to_csv(f'{path_}synapse_data_with_metrics.csv', index=False)",
+        "detail": ".history.synapse_metrics_20250223170116",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_synapse_metrics",
+        "kind": 2,
+        "importPath": ".history.synapse_metrics_20250223170118",
+        "description": ".history.synapse_metrics_20250223170118",
+        "peekOfCode": "def calculate_synapse_metrics(synapses, path_):\n    metrics_data = []\n    for _, row in synapses.iterrows():\n        syn_id = row['syn_id']\n        img = np.load(f'{path_}{syn_id}_syn.npy')\n        pre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\n        post_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\n        size_metrics = synapse_size(pre_mask, post_mask)\n        shape_metrics = synapse_shape(pre_mask, post_mask)\n        intensity_metrics = synapse_intensity(img, pre_mask, post_mask)",
+        "detail": ".history.synapse_metrics_20250223170118",
+        "documentation": {}
+    },
+    {
+        "label": "path_",
+        "kind": 5,
+        "importPath": ".history.synapse_metrics_20250223170118",
+        "description": ".history.synapse_metrics_20250223170118",
+        "peekOfCode": "path_ = '../data/synpase_raw_em/'\nsynapses = pd.read_csv(f'{path_}synapse_data.csv', index_col=0)\nmetrics_df = calculate_synapse_metrics(synapses, path_)\n# Merge the metrics DataFrame with the original synapses DataFrame\nsynapses_with_metrics = pd.merge(synapses, metrics_df, on='syn_id')\n# Save the updated DataFrame to a new CSV file\nsynapses_with_metrics.to_csv(f'{path_}synapse_data_with_metrics.csv', index=False)",
+        "detail": ".history.synapse_metrics_20250223170118",
+        "documentation": {}
+    },
+    {
+        "label": "synapses",
+        "kind": 5,
+        "importPath": ".history.synapse_metrics_20250223170118",
+        "description": ".history.synapse_metrics_20250223170118",
+        "peekOfCode": "synapses = pd.read_csv(f'{path_}synapse_data.csv', index_col=0)\nmetrics_df = calculate_synapse_metrics(synapses, path_)\n# Merge the metrics DataFrame with the original synapses DataFrame\nsynapses_with_metrics = pd.merge(synapses, metrics_df, on='syn_id')\n# Save the updated DataFrame to a new CSV file\nsynapses_with_metrics.to_csv(f'{path_}synapse_data_with_metrics.csv', index=False)",
+        "detail": ".history.synapse_metrics_20250223170118",
+        "documentation": {}
+    },
+    {
+        "label": "metrics_df",
+        "kind": 5,
+        "importPath": ".history.synapse_metrics_20250223170118",
+        "description": ".history.synapse_metrics_20250223170118",
+        "peekOfCode": "metrics_df = calculate_synapse_metrics(synapses, path_)\n# Merge the metrics DataFrame with the original synapses DataFrame\nsynapses_with_metrics = pd.merge(synapses, metrics_df, on='syn_id')\n# Save the updated DataFrame to a new CSV file\nsynapses_with_metrics.to_csv(f'{path_}synapse_data_with_metrics.csv', index=False)",
+        "detail": ".history.synapse_metrics_20250223170118",
+        "documentation": {}
+    },
+    {
+        "label": "synapses_with_metrics",
+        "kind": 5,
+        "importPath": ".history.synapse_metrics_20250223170118",
+        "description": ".history.synapse_metrics_20250223170118",
+        "peekOfCode": "synapses_with_metrics = pd.merge(synapses, metrics_df, on='syn_id')\n# Save the updated DataFrame to a new CSV file\nsynapses_with_metrics.to_csv(f'{path_}synapse_data_with_metrics.csv', index=False)",
+        "detail": ".history.synapse_metrics_20250223170118",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_synapse_metrics",
+        "kind": 2,
+        "importPath": ".history.synapse_metrics_20250223170147",
+        "description": ".history.synapse_metrics_20250223170147",
+        "peekOfCode": "def calculate_synapse_metrics(synapses, path_):\n    metrics_data = []\n    for _, row in synapses.iterrows():\n        syn_id = row['syn_id']\n        img = np.load(f'{path_}{syn_id}_syn.npy')\n        pre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\n        post_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\n        size_metrics = synapse_size(pre_mask, post_mask)\n        shape_metrics = synapse_shape(pre_mask, post_mask)\n        intensity_metrics = synapse_intensity(img, pre_mask, post_mask)",
+        "detail": ".history.synapse_metrics_20250223170147",
+        "documentation": {}
+    },
+    {
+        "label": "path_",
+        "kind": 5,
+        "importPath": ".history.synapse_metrics_20250223170147",
+        "description": ".history.synapse_metrics_20250223170147",
+        "peekOfCode": "path_ = '../data/synpase_raw_em/'\nsynapses = pd.read_csv(f'{path_}synapse_data_metrics.csv', index_col=0)\nmetrics_df = calculate_synapse_metrics(synapses, path_)\n# Merge the metrics DataFrame with the original synapses DataFrame\nsynapses_with_metrics = pd.merge(synapses, metrics_df, on='syn_id')\n# Save the updated DataFrame to a new CSV file\nsynapses_with_metrics.to_csv(f'{path_}synapse_data_with_metrics.csv', index=False)",
+        "detail": ".history.synapse_metrics_20250223170147",
+        "documentation": {}
+    },
+    {
+        "label": "synapses",
+        "kind": 5,
+        "importPath": ".history.synapse_metrics_20250223170147",
+        "description": ".history.synapse_metrics_20250223170147",
+        "peekOfCode": "synapses = pd.read_csv(f'{path_}synapse_data_metrics.csv', index_col=0)\nmetrics_df = calculate_synapse_metrics(synapses, path_)\n# Merge the metrics DataFrame with the original synapses DataFrame\nsynapses_with_metrics = pd.merge(synapses, metrics_df, on='syn_id')\n# Save the updated DataFrame to a new CSV file\nsynapses_with_metrics.to_csv(f'{path_}synapse_data_with_metrics.csv', index=False)",
+        "detail": ".history.synapse_metrics_20250223170147",
+        "documentation": {}
+    },
+    {
+        "label": "metrics_df",
+        "kind": 5,
+        "importPath": ".history.synapse_metrics_20250223170147",
+        "description": ".history.synapse_metrics_20250223170147",
+        "peekOfCode": "metrics_df = calculate_synapse_metrics(synapses, path_)\n# Merge the metrics DataFrame with the original synapses DataFrame\nsynapses_with_metrics = pd.merge(synapses, metrics_df, on='syn_id')\n# Save the updated DataFrame to a new CSV file\nsynapses_with_metrics.to_csv(f'{path_}synapse_data_with_metrics.csv', index=False)",
+        "detail": ".history.synapse_metrics_20250223170147",
+        "documentation": {}
+    },
+    {
+        "label": "synapses_with_metrics",
+        "kind": 5,
+        "importPath": ".history.synapse_metrics_20250223170147",
+        "description": ".history.synapse_metrics_20250223170147",
+        "peekOfCode": "synapses_with_metrics = pd.merge(synapses, metrics_df, on='syn_id')\n# Save the updated DataFrame to a new CSV file\nsynapses_with_metrics.to_csv(f'{path_}synapse_data_with_metrics.csv', index=False)",
+        "detail": ".history.synapse_metrics_20250223170147",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_synapse_metrics",
+        "kind": 2,
+        "importPath": ".history.synapse_metrics_20250223170700",
+        "description": ".history.synapse_metrics_20250223170700",
+        "peekOfCode": "def calculate_synapse_metrics(synapses, path_):\n    metrics_data = []\n    for _, row in synapses.iterrows():\n        syn_id = row['syn_id']\n        img = np.load(f'{path_}{syn_id}_syn.npy')\n        pre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\n        post_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\n        size_metrics = synapse_size(pre_mask, post_mask)\n        shape_metrics = synapse_shape(pre_mask, post_mask)\n        intensity_metrics = synapse_intensity(img, pre_mask, post_mask)",
+        "detail": ".history.synapse_metrics_20250223170700",
+        "documentation": {}
+    },
+    {
+        "label": "path_",
+        "kind": 5,
+        "importPath": ".history.synapse_metrics_20250223170700",
+        "description": ".history.synapse_metrics_20250223170700",
+        "peekOfCode": "path_ = 'data/synpase_raw_em/'\nsynapses = pd.read_csv(f'{path_}synapse_data_metrics.csv', index_col=0)\nmetrics_df = calculate_synapse_metrics(synapses, path_)\n# Merge the metrics DataFrame with the original synapses DataFrame\nsynapses_with_metrics = pd.merge(synapses, metrics_df, on='syn_id')\n# Save the updated DataFrame to a new CSV file\nsynapses_with_metrics.to_csv(f'{path_}synapse_data_with_metrics.csv', index=False)",
+        "detail": ".history.synapse_metrics_20250223170700",
+        "documentation": {}
+    },
+    {
+        "label": "synapses",
+        "kind": 5,
+        "importPath": ".history.synapse_metrics_20250223170700",
+        "description": ".history.synapse_metrics_20250223170700",
+        "peekOfCode": "synapses = pd.read_csv(f'{path_}synapse_data_metrics.csv', index_col=0)\nmetrics_df = calculate_synapse_metrics(synapses, path_)\n# Merge the metrics DataFrame with the original synapses DataFrame\nsynapses_with_metrics = pd.merge(synapses, metrics_df, on='syn_id')\n# Save the updated DataFrame to a new CSV file\nsynapses_with_metrics.to_csv(f'{path_}synapse_data_with_metrics.csv', index=False)",
+        "detail": ".history.synapse_metrics_20250223170700",
+        "documentation": {}
+    },
+    {
+        "label": "metrics_df",
+        "kind": 5,
+        "importPath": ".history.synapse_metrics_20250223170700",
+        "description": ".history.synapse_metrics_20250223170700",
+        "peekOfCode": "metrics_df = calculate_synapse_metrics(synapses, path_)\n# Merge the metrics DataFrame with the original synapses DataFrame\nsynapses_with_metrics = pd.merge(synapses, metrics_df, on='syn_id')\n# Save the updated DataFrame to a new CSV file\nsynapses_with_metrics.to_csv(f'{path_}synapse_data_with_metrics.csv', index=False)",
+        "detail": ".history.synapse_metrics_20250223170700",
+        "documentation": {}
+    },
+    {
+        "label": "synapses_with_metrics",
+        "kind": 5,
+        "importPath": ".history.synapse_metrics_20250223170700",
+        "description": ".history.synapse_metrics_20250223170700",
+        "peekOfCode": "synapses_with_metrics = pd.merge(synapses, metrics_df, on='syn_id')\n# Save the updated DataFrame to a new CSV file\nsynapses_with_metrics.to_csv(f'{path_}synapse_data_with_metrics.csv', index=False)",
+        "detail": ".history.synapse_metrics_20250223170700",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_synapse_metrics",
+        "kind": 2,
+        "importPath": ".history.synapse_metrics_20250223170701",
+        "description": ".history.synapse_metrics_20250223170701",
+        "peekOfCode": "def calculate_synapse_metrics(synapses, path_):\n    metrics_data = []\n    for _, row in synapses.iterrows():\n        syn_id = row['syn_id']\n        img = np.load(f'{path_}{syn_id}_syn.npy')\n        pre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\n        post_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\n        size_metrics = synapse_size(pre_mask, post_mask)\n        shape_metrics = synapse_shape(pre_mask, post_mask)\n        intensity_metrics = synapse_intensity(img, pre_mask, post_mask)",
+        "detail": ".history.synapse_metrics_20250223170701",
+        "documentation": {}
+    },
+    {
+        "label": "path_",
+        "kind": 5,
+        "importPath": ".history.synapse_metrics_20250223170701",
+        "description": ".history.synapse_metrics_20250223170701",
+        "peekOfCode": "path_ = 'data/synpase_raw_em/'\nsynapses = pd.read_csv(f'{path_}synapse_data_metrics.csv', index_col=0)\nmetrics_df = calculate_synapse_metrics(synapses, path_)\n# Merge the metrics DataFrame with the original synapses DataFrame\nsynapses_with_metrics = pd.merge(synapses, metrics_df, on='syn_id')\n# Save the updated DataFrame to a new CSV file\nsynapses_with_metrics.to_csv(f'{path_}synapse_data_with_metrics.csv', index=False)",
+        "detail": ".history.synapse_metrics_20250223170701",
+        "documentation": {}
+    },
+    {
+        "label": "synapses",
+        "kind": 5,
+        "importPath": ".history.synapse_metrics_20250223170701",
+        "description": ".history.synapse_metrics_20250223170701",
+        "peekOfCode": "synapses = pd.read_csv(f'{path_}synapse_data_metrics.csv', index_col=0)\nmetrics_df = calculate_synapse_metrics(synapses, path_)\n# Merge the metrics DataFrame with the original synapses DataFrame\nsynapses_with_metrics = pd.merge(synapses, metrics_df, on='syn_id')\n# Save the updated DataFrame to a new CSV file\nsynapses_with_metrics.to_csv(f'{path_}synapse_data_with_metrics.csv', index=False)",
+        "detail": ".history.synapse_metrics_20250223170701",
+        "documentation": {}
+    },
+    {
+        "label": "metrics_df",
+        "kind": 5,
+        "importPath": ".history.synapse_metrics_20250223170701",
+        "description": ".history.synapse_metrics_20250223170701",
+        "peekOfCode": "metrics_df = calculate_synapse_metrics(synapses, path_)\n# Merge the metrics DataFrame with the original synapses DataFrame\nsynapses_with_metrics = pd.merge(synapses, metrics_df, on='syn_id')\n# Save the updated DataFrame to a new CSV file\nsynapses_with_metrics.to_csv(f'{path_}synapse_data_with_metrics.csv', index=False)",
+        "detail": ".history.synapse_metrics_20250223170701",
+        "documentation": {}
+    },
+    {
+        "label": "synapses_with_metrics",
+        "kind": 5,
+        "importPath": ".history.synapse_metrics_20250223170701",
+        "description": ".history.synapse_metrics_20250223170701",
+        "peekOfCode": "synapses_with_metrics = pd.merge(synapses, metrics_df, on='syn_id')\n# Save the updated DataFrame to a new CSV file\nsynapses_with_metrics.to_csv(f'{path_}synapse_data_with_metrics.csv', index=False)",
+        "detail": ".history.synapse_metrics_20250223170701",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_synapse_metrics",
+        "kind": 2,
+        "importPath": ".history.synapse_metrics_20250223170717",
+        "description": ".history.synapse_metrics_20250223170717",
+        "peekOfCode": "def calculate_synapse_metrics(synapses, path_):\n    metrics_data = []\n    for _, row in synapses.iterrows():\n        syn_id = row['syn_id']\n        img = np.load(f'{path_}{syn_id}_syn.npy')\n        pre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\n        post_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\n        size_metrics = synapse_size(pre_mask, post_mask)\n        shape_metrics = synapse_shape(pre_mask, post_mask)\n        intensity_metrics = synapse_intensity(img, pre_mask, post_mask)",
+        "detail": ".history.synapse_metrics_20250223170717",
+        "documentation": {}
+    },
+    {
+        "label": "path_",
+        "kind": 5,
+        "importPath": ".history.synapse_metrics_20250223170717",
+        "description": ".history.synapse_metrics_20250223170717",
+        "peekOfCode": "path_ = 'data/synpase_raw_em/'\nsynapses = pd.read_csv(f'{path_}synapse_data.csv', index_col=0)\nmetrics_df = calculate_synapse_metrics(synapses, path_)\n# Merge the metrics DataFrame with the original synapses DataFrame\nsynapses_with_metrics = pd.merge(synapses, metrics_df, on='syn_id')\n# Save the updated DataFrame to a new CSV file\nsynapses_with_metrics.to_csv(f'{path_}synapse_data_with_metrics.csv', index=False)",
+        "detail": ".history.synapse_metrics_20250223170717",
+        "documentation": {}
+    },
+    {
+        "label": "synapses",
+        "kind": 5,
+        "importPath": ".history.synapse_metrics_20250223170717",
+        "description": ".history.synapse_metrics_20250223170717",
+        "peekOfCode": "synapses = pd.read_csv(f'{path_}synapse_data.csv', index_col=0)\nmetrics_df = calculate_synapse_metrics(synapses, path_)\n# Merge the metrics DataFrame with the original synapses DataFrame\nsynapses_with_metrics = pd.merge(synapses, metrics_df, on='syn_id')\n# Save the updated DataFrame to a new CSV file\nsynapses_with_metrics.to_csv(f'{path_}synapse_data_with_metrics.csv', index=False)",
+        "detail": ".history.synapse_metrics_20250223170717",
+        "documentation": {}
+    },
+    {
+        "label": "metrics_df",
+        "kind": 5,
+        "importPath": ".history.synapse_metrics_20250223170717",
+        "description": ".history.synapse_metrics_20250223170717",
+        "peekOfCode": "metrics_df = calculate_synapse_metrics(synapses, path_)\n# Merge the metrics DataFrame with the original synapses DataFrame\nsynapses_with_metrics = pd.merge(synapses, metrics_df, on='syn_id')\n# Save the updated DataFrame to a new CSV file\nsynapses_with_metrics.to_csv(f'{path_}synapse_data_with_metrics.csv', index=False)",
+        "detail": ".history.synapse_metrics_20250223170717",
+        "documentation": {}
+    },
+    {
+        "label": "synapses_with_metrics",
+        "kind": 5,
+        "importPath": ".history.synapse_metrics_20250223170717",
+        "description": ".history.synapse_metrics_20250223170717",
+        "peekOfCode": "synapses_with_metrics = pd.merge(synapses, metrics_df, on='syn_id')\n# Save the updated DataFrame to a new CSV file\nsynapses_with_metrics.to_csv(f'{path_}synapse_data_with_metrics.csv', index=False)",
+        "detail": ".history.synapse_metrics_20250223170717",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_synapse_metrics",
+        "kind": 2,
+        "importPath": ".history.synapse_metrics_20250223170758",
+        "description": ".history.synapse_metrics_20250223170758",
+        "peekOfCode": "def calculate_synapse_metrics(synapses, path_):\n    metrics_data = []\n    for i, row in synapses.iterrows():\n        print(i)\n        syn_id = row['syn_id']\n        img = np.load(f'{path_}{syn_id}_syn.npy')\n        pre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\n        post_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\n        size_metrics = synapse_size(pre_mask, post_mask)\n        shape_metrics = synapse_shape(pre_mask, post_mask)",
+        "detail": ".history.synapse_metrics_20250223170758",
+        "documentation": {}
+    },
+    {
+        "label": "path_",
+        "kind": 5,
+        "importPath": ".history.synapse_metrics_20250223170758",
+        "description": ".history.synapse_metrics_20250223170758",
+        "peekOfCode": "path_ = 'data/synpase_raw_em/'\nsynapses = pd.read_csv(f'{path_}synapse_data.csv', index_col=0)\nmetrics_df = calculate_synapse_metrics(synapses, path_)\n# Merge the metrics DataFrame with the original synapses DataFrame\nsynapses_with_metrics = pd.merge(synapses, metrics_df, on='syn_id')\n# Save the updated DataFrame to a new CSV file\nsynapses_with_metrics.to_csv(f'{path_}synapse_data_with_metrics.csv', index=False)",
+        "detail": ".history.synapse_metrics_20250223170758",
+        "documentation": {}
+    },
+    {
+        "label": "synapses",
+        "kind": 5,
+        "importPath": ".history.synapse_metrics_20250223170758",
+        "description": ".history.synapse_metrics_20250223170758",
+        "peekOfCode": "synapses = pd.read_csv(f'{path_}synapse_data.csv', index_col=0)\nmetrics_df = calculate_synapse_metrics(synapses, path_)\n# Merge the metrics DataFrame with the original synapses DataFrame\nsynapses_with_metrics = pd.merge(synapses, metrics_df, on='syn_id')\n# Save the updated DataFrame to a new CSV file\nsynapses_with_metrics.to_csv(f'{path_}synapse_data_with_metrics.csv', index=False)",
+        "detail": ".history.synapse_metrics_20250223170758",
+        "documentation": {}
+    },
+    {
+        "label": "metrics_df",
+        "kind": 5,
+        "importPath": ".history.synapse_metrics_20250223170758",
+        "description": ".history.synapse_metrics_20250223170758",
+        "peekOfCode": "metrics_df = calculate_synapse_metrics(synapses, path_)\n# Merge the metrics DataFrame with the original synapses DataFrame\nsynapses_with_metrics = pd.merge(synapses, metrics_df, on='syn_id')\n# Save the updated DataFrame to a new CSV file\nsynapses_with_metrics.to_csv(f'{path_}synapse_data_with_metrics.csv', index=False)",
+        "detail": ".history.synapse_metrics_20250223170758",
+        "documentation": {}
+    },
+    {
+        "label": "synapses_with_metrics",
+        "kind": 5,
+        "importPath": ".history.synapse_metrics_20250223170758",
+        "description": ".history.synapse_metrics_20250223170758",
+        "peekOfCode": "synapses_with_metrics = pd.merge(synapses, metrics_df, on='syn_id')\n# Save the updated DataFrame to a new CSV file\nsynapses_with_metrics.to_csv(f'{path_}synapse_data_with_metrics.csv', index=False)",
+        "detail": ".history.synapse_metrics_20250223170758",
         "documentation": {}
     },
     {
@@ -3915,6 +5275,384 @@
         "documentation": {}
     },
     {
+        "label": "path_",
+        "kind": 5,
+        "importPath": ".history.Syn_props_demo_20250223162440",
+        "description": ".history.Syn_props_demo_20250223162440",
+        "peekOfCode": "path_ = 'data/synpase_raw_em/'\nsynapses = pd.read_csv(f'{path_}synapse_data.csv', index_col=0)\nprint(len(synapses))\nsynapses.head()\nsyn_id = synapses.iloc[0].syn_id\nimg = np.load(f'{path_}{syn_id}_syn.npy')\npre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\npost_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\n# Calculate metrics for a single synapse\nsize_metrics = synapse_size(pre_mask, post_mask)",
+        "detail": ".history.Syn_props_demo_20250223162440",
+        "documentation": {}
+    },
+    {
+        "label": "synapses",
+        "kind": 5,
+        "importPath": ".history.Syn_props_demo_20250223162440",
+        "description": ".history.Syn_props_demo_20250223162440",
+        "peekOfCode": "synapses = pd.read_csv(f'{path_}synapse_data.csv', index_col=0)\nprint(len(synapses))\nsynapses.head()\nsyn_id = synapses.iloc[0].syn_id\nimg = np.load(f'{path_}{syn_id}_syn.npy')\npre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\npost_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\n# Calculate metrics for a single synapse\nsize_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)",
+        "detail": ".history.Syn_props_demo_20250223162440",
+        "documentation": {}
+    },
+    {
+        "label": "syn_id",
+        "kind": 5,
+        "importPath": ".history.Syn_props_demo_20250223162440",
+        "description": ".history.Syn_props_demo_20250223162440",
+        "peekOfCode": "syn_id = synapses.iloc[0].syn_id\nimg = np.load(f'{path_}{syn_id}_syn.npy')\npre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\npost_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\n# Calculate metrics for a single synapse\nsize_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)",
+        "detail": ".history.Syn_props_demo_20250223162440",
+        "documentation": {}
+    },
+    {
+        "label": "img",
+        "kind": 5,
+        "importPath": ".history.Syn_props_demo_20250223162440",
+        "description": ".history.Syn_props_demo_20250223162440",
+        "peekOfCode": "img = np.load(f'{path_}{syn_id}_syn.npy')\npre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\npost_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\n# Calculate metrics for a single synapse\nsize_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask)",
+        "detail": ".history.Syn_props_demo_20250223162440",
+        "documentation": {}
+    },
+    {
+        "label": "pre_mask",
+        "kind": 5,
+        "importPath": ".history.Syn_props_demo_20250223162440",
+        "description": ".history.Syn_props_demo_20250223162440",
+        "peekOfCode": "pre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\npost_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\n# Calculate metrics for a single synapse\nsize_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask)\n# Create a dictionary with the metrics",
+        "detail": ".history.Syn_props_demo_20250223162440",
+        "documentation": {}
+    },
+    {
+        "label": "post_mask",
+        "kind": 5,
+        "importPath": ".history.Syn_props_demo_20250223162440",
+        "description": ".history.Syn_props_demo_20250223162440",
+        "peekOfCode": "post_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\n# Calculate metrics for a single synapse\nsize_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask)\n# Create a dictionary with the metrics\nmetrics_dict = {",
+        "detail": ".history.Syn_props_demo_20250223162440",
+        "documentation": {}
+    },
+    {
+        "label": "size_metrics",
+        "kind": 5,
+        "importPath": ".history.Syn_props_demo_20250223162440",
+        "description": ".history.Syn_props_demo_20250223162440",
+        "peekOfCode": "size_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask)\n# Create a dictionary with the metrics\nmetrics_dict = {\n    'Synapse Area': size_metrics[0],\n    'Pre-synaptic Area': size_metrics[1],",
+        "detail": ".history.Syn_props_demo_20250223162440",
+        "documentation": {}
+    },
+    {
+        "label": "shape_metrics",
+        "kind": 5,
+        "importPath": ".history.Syn_props_demo_20250223162440",
+        "description": ".history.Syn_props_demo_20250223162440",
+        "peekOfCode": "shape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask)\n# Create a dictionary with the metrics\nmetrics_dict = {\n    'Synapse Area': size_metrics[0],\n    'Pre-synaptic Area': size_metrics[1],\n    'Post-synaptic Area': size_metrics[2],",
+        "detail": ".history.Syn_props_demo_20250223162440",
+        "documentation": {}
+    },
+    {
+        "label": "intensity_metrics",
+        "kind": 5,
+        "importPath": ".history.Syn_props_demo_20250223162440",
+        "description": ".history.Syn_props_demo_20250223162440",
+        "peekOfCode": "intensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask)\n# Create a dictionary with the metrics\nmetrics_dict = {\n    'Synapse Area': size_metrics[0],\n    'Pre-synaptic Area': size_metrics[1],\n    'Post-synaptic Area': size_metrics[2],\n    'Pre-Post Area Ratio': size_metrics[3],",
+        "detail": ".history.Syn_props_demo_20250223162440",
+        "documentation": {}
+    },
+    {
+        "label": "distance",
+        "kind": 5,
+        "importPath": ".history.Syn_props_demo_20250223162440",
+        "description": ".history.Syn_props_demo_20250223162440",
+        "peekOfCode": "distance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask)\n# Create a dictionary with the metrics\nmetrics_dict = {\n    'Synapse Area': size_metrics[0],\n    'Pre-synaptic Area': size_metrics[1],\n    'Post-synaptic Area': size_metrics[2],\n    'Pre-Post Area Ratio': size_metrics[3],\n    'Perimeter': shape_metrics[0],",
+        "detail": ".history.Syn_props_demo_20250223162440",
+        "documentation": {}
+    },
+    {
+        "label": "coloc_metrics",
+        "kind": 5,
+        "importPath": ".history.Syn_props_demo_20250223162440",
+        "description": ".history.Syn_props_demo_20250223162440",
+        "peekOfCode": "coloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask)\n# Create a dictionary with the metrics\nmetrics_dict = {\n    'Synapse Area': size_metrics[0],\n    'Pre-synaptic Area': size_metrics[1],\n    'Post-synaptic Area': size_metrics[2],\n    'Pre-Post Area Ratio': size_metrics[3],\n    'Perimeter': shape_metrics[0],\n    'Circularity': shape_metrics[1],",
+        "detail": ".history.Syn_props_demo_20250223162440",
+        "documentation": {}
+    },
+    {
+        "label": "morphology_metrics",
+        "kind": 5,
+        "importPath": ".history.Syn_props_demo_20250223162440",
+        "description": ".history.Syn_props_demo_20250223162440",
+        "peekOfCode": "morphology_metrics = synapse_morphology(pre_mask, post_mask)\n# Create a dictionary with the metrics\nmetrics_dict = {\n    'Synapse Area': size_metrics[0],\n    'Pre-synaptic Area': size_metrics[1],\n    'Post-synaptic Area': size_metrics[2],\n    'Pre-Post Area Ratio': size_metrics[3],\n    'Perimeter': shape_metrics[0],\n    'Circularity': shape_metrics[1],\n    'Mean Intensity': intensity_metrics[0],",
+        "detail": ".history.Syn_props_demo_20250223162440",
+        "documentation": {}
+    },
+    {
+        "label": "metrics_dict",
+        "kind": 5,
+        "importPath": ".history.Syn_props_demo_20250223162440",
+        "description": ".history.Syn_props_demo_20250223162440",
+        "peekOfCode": "metrics_dict = {\n    'Synapse Area': size_metrics[0],\n    'Pre-synaptic Area': size_metrics[1],\n    'Post-synaptic Area': size_metrics[2],\n    'Pre-Post Area Ratio': size_metrics[3],\n    'Perimeter': shape_metrics[0],\n    'Circularity': shape_metrics[1],\n    'Mean Intensity': intensity_metrics[0],\n    'Median Intensity': intensity_metrics[1],\n    'Std Intensity': intensity_metrics[2],",
+        "detail": ".history.Syn_props_demo_20250223162440",
+        "documentation": {}
+    },
+    {
+        "label": "metrics_df",
+        "kind": 5,
+        "importPath": ".history.Syn_props_demo_20250223162440",
+        "description": ".history.Syn_props_demo_20250223162440",
+        "peekOfCode": "metrics_df = pd.DataFrame.from_dict(metrics_dict, orient='index', columns=['Value'])\n# Pretty print the DataFrame\nprint(\"Synapse Metrics:\")\nprint(metrics_df.to_string(index=True, header=False, float_format=lambda x: f\"{x:.2f}\"))\nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(6, 6))\nax1.imshow(img.T, cmap='gray')\nax2.imshow(img.T, cmap='gray')\nax2.imshow(pre_mask.T, alpha=0.5)\nax2.imshow(post_mask.T, alpha=0.5)\nplt.tight_layout()",
+        "detail": ".history.Syn_props_demo_20250223162440",
+        "documentation": {}
+    },
+    {
+        "label": "path_",
+        "kind": 5,
+        "importPath": ".history.Syn_props_demo_20250223165840",
+        "description": ".history.Syn_props_demo_20250223165840",
+        "peekOfCode": "path_ = 'data/synpase_raw_em/'\nsynapses = pd.read_csv(f'{path_}synapse_data.csv', index_col=0)\nprint(len(synapses))\nprint(synapses.head())\nsyn_id = synapses.iloc[0].syn_id\nimg = np.load(f'{path_}{syn_id}_syn.npy')\npre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\npost_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\n# Calculate metrics for a single synapse\nsize_metrics = synapse_size(pre_mask, post_mask)",
+        "detail": ".history.Syn_props_demo_20250223165840",
+        "documentation": {}
+    },
+    {
+        "label": "synapses",
+        "kind": 5,
+        "importPath": ".history.Syn_props_demo_20250223165840",
+        "description": ".history.Syn_props_demo_20250223165840",
+        "peekOfCode": "synapses = pd.read_csv(f'{path_}synapse_data.csv', index_col=0)\nprint(len(synapses))\nprint(synapses.head())\nsyn_id = synapses.iloc[0].syn_id\nimg = np.load(f'{path_}{syn_id}_syn.npy')\npre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\npost_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\n# Calculate metrics for a single synapse\nsize_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)",
+        "detail": ".history.Syn_props_demo_20250223165840",
+        "documentation": {}
+    },
+    {
+        "label": "syn_id",
+        "kind": 5,
+        "importPath": ".history.Syn_props_demo_20250223165840",
+        "description": ".history.Syn_props_demo_20250223165840",
+        "peekOfCode": "syn_id = synapses.iloc[0].syn_id\nimg = np.load(f'{path_}{syn_id}_syn.npy')\npre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\npost_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\n# Calculate metrics for a single synapse\nsize_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)",
+        "detail": ".history.Syn_props_demo_20250223165840",
+        "documentation": {}
+    },
+    {
+        "label": "img",
+        "kind": 5,
+        "importPath": ".history.Syn_props_demo_20250223165840",
+        "description": ".history.Syn_props_demo_20250223165840",
+        "peekOfCode": "img = np.load(f'{path_}{syn_id}_syn.npy')\npre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\npost_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\n# Calculate metrics for a single synapse\nsize_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask)",
+        "detail": ".history.Syn_props_demo_20250223165840",
+        "documentation": {}
+    },
+    {
+        "label": "pre_mask",
+        "kind": 5,
+        "importPath": ".history.Syn_props_demo_20250223165840",
+        "description": ".history.Syn_props_demo_20250223165840",
+        "peekOfCode": "pre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\npost_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\n# Calculate metrics for a single synapse\nsize_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask)\n# Create a dictionary with the metrics",
+        "detail": ".history.Syn_props_demo_20250223165840",
+        "documentation": {}
+    },
+    {
+        "label": "post_mask",
+        "kind": 5,
+        "importPath": ".history.Syn_props_demo_20250223165840",
+        "description": ".history.Syn_props_demo_20250223165840",
+        "peekOfCode": "post_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\n# Calculate metrics for a single synapse\nsize_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask)\n# Create a dictionary with the metrics\nmetrics_dict = {",
+        "detail": ".history.Syn_props_demo_20250223165840",
+        "documentation": {}
+    },
+    {
+        "label": "size_metrics",
+        "kind": 5,
+        "importPath": ".history.Syn_props_demo_20250223165840",
+        "description": ".history.Syn_props_demo_20250223165840",
+        "peekOfCode": "size_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask)\n# Create a dictionary with the metrics\nmetrics_dict = {\n    'Synapse Area': size_metrics[0],\n    'Pre-synaptic Area': size_metrics[1],",
+        "detail": ".history.Syn_props_demo_20250223165840",
+        "documentation": {}
+    },
+    {
+        "label": "shape_metrics",
+        "kind": 5,
+        "importPath": ".history.Syn_props_demo_20250223165840",
+        "description": ".history.Syn_props_demo_20250223165840",
+        "peekOfCode": "shape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask)\n# Create a dictionary with the metrics\nmetrics_dict = {\n    'Synapse Area': size_metrics[0],\n    'Pre-synaptic Area': size_metrics[1],\n    'Post-synaptic Area': size_metrics[2],",
+        "detail": ".history.Syn_props_demo_20250223165840",
+        "documentation": {}
+    },
+    {
+        "label": "intensity_metrics",
+        "kind": 5,
+        "importPath": ".history.Syn_props_demo_20250223165840",
+        "description": ".history.Syn_props_demo_20250223165840",
+        "peekOfCode": "intensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask)\n# Create a dictionary with the metrics\nmetrics_dict = {\n    'Synapse Area': size_metrics[0],\n    'Pre-synaptic Area': size_metrics[1],\n    'Post-synaptic Area': size_metrics[2],\n    'Pre-Post Area Ratio': size_metrics[3],",
+        "detail": ".history.Syn_props_demo_20250223165840",
+        "documentation": {}
+    },
+    {
+        "label": "distance",
+        "kind": 5,
+        "importPath": ".history.Syn_props_demo_20250223165840",
+        "description": ".history.Syn_props_demo_20250223165840",
+        "peekOfCode": "distance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask)\n# Create a dictionary with the metrics\nmetrics_dict = {\n    'Synapse Area': size_metrics[0],\n    'Pre-synaptic Area': size_metrics[1],\n    'Post-synaptic Area': size_metrics[2],\n    'Pre-Post Area Ratio': size_metrics[3],\n    'Perimeter': shape_metrics[0],",
+        "detail": ".history.Syn_props_demo_20250223165840",
+        "documentation": {}
+    },
+    {
+        "label": "coloc_metrics",
+        "kind": 5,
+        "importPath": ".history.Syn_props_demo_20250223165840",
+        "description": ".history.Syn_props_demo_20250223165840",
+        "peekOfCode": "coloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask)\n# Create a dictionary with the metrics\nmetrics_dict = {\n    'Synapse Area': size_metrics[0],\n    'Pre-synaptic Area': size_metrics[1],\n    'Post-synaptic Area': size_metrics[2],\n    'Pre-Post Area Ratio': size_metrics[3],\n    'Perimeter': shape_metrics[0],\n    'Circularity': shape_metrics[1],",
+        "detail": ".history.Syn_props_demo_20250223165840",
+        "documentation": {}
+    },
+    {
+        "label": "morphology_metrics",
+        "kind": 5,
+        "importPath": ".history.Syn_props_demo_20250223165840",
+        "description": ".history.Syn_props_demo_20250223165840",
+        "peekOfCode": "morphology_metrics = synapse_morphology(pre_mask, post_mask)\n# Create a dictionary with the metrics\nmetrics_dict = {\n    'Synapse Area': size_metrics[0],\n    'Pre-synaptic Area': size_metrics[1],\n    'Post-synaptic Area': size_metrics[2],\n    'Pre-Post Area Ratio': size_metrics[3],\n    'Perimeter': shape_metrics[0],\n    'Circularity': shape_metrics[1],\n    'Mean Intensity': intensity_metrics[0],",
+        "detail": ".history.Syn_props_demo_20250223165840",
+        "documentation": {}
+    },
+    {
+        "label": "metrics_dict",
+        "kind": 5,
+        "importPath": ".history.Syn_props_demo_20250223165840",
+        "description": ".history.Syn_props_demo_20250223165840",
+        "peekOfCode": "metrics_dict = {\n    'Synapse Area': size_metrics[0],\n    'Pre-synaptic Area': size_metrics[1],\n    'Post-synaptic Area': size_metrics[2],\n    'Pre-Post Area Ratio': size_metrics[3],\n    'Perimeter': shape_metrics[0],\n    'Circularity': shape_metrics[1],\n    'Mean Intensity': intensity_metrics[0],\n    'Median Intensity': intensity_metrics[1],\n    'Std Intensity': intensity_metrics[2],",
+        "detail": ".history.Syn_props_demo_20250223165840",
+        "documentation": {}
+    },
+    {
+        "label": "metrics_df",
+        "kind": 5,
+        "importPath": ".history.Syn_props_demo_20250223165840",
+        "description": ".history.Syn_props_demo_20250223165840",
+        "peekOfCode": "metrics_df = pd.DataFrame.from_dict(metrics_dict, orient='index', columns=['Value'])\n# Pretty print the DataFrame\nprint(\"Synapse Metrics:\")\nprint(metrics_df.to_string(index=True, header=False, float_format=lambda x: f\"{x:.2f}\"))\nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(6, 6))\nax1.imshow(img.T, cmap='gray')\nax2.imshow(img.T, cmap='gray')\nax2.imshow(pre_mask.T, alpha=0.5)\nax2.imshow(post_mask.T, alpha=0.5)\nplt.tight_layout()",
+        "detail": ".history.Syn_props_demo_20250223165840",
+        "documentation": {}
+    },
+    {
+        "label": "path_",
+        "kind": 5,
+        "importPath": ".history.Syn_props_demo_20250223165903",
+        "description": ".history.Syn_props_demo_20250223165903",
+        "peekOfCode": "path_ = 'data/synpase_raw_em/'\nsynapses = pd.read_csv(f'{path_}synapse_data.csv', index_col=0)\nprint(len(synapses))\nprint(synapses.columns)\nsyn_id = synapses.iloc[0].syn_id\nimg = np.load(f'{path_}{syn_id}_syn.npy')\npre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\npost_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\n# Calculate metrics for a single synapse\nsize_metrics = synapse_size(pre_mask, post_mask)",
+        "detail": ".history.Syn_props_demo_20250223165903",
+        "documentation": {}
+    },
+    {
+        "label": "synapses",
+        "kind": 5,
+        "importPath": ".history.Syn_props_demo_20250223165903",
+        "description": ".history.Syn_props_demo_20250223165903",
+        "peekOfCode": "synapses = pd.read_csv(f'{path_}synapse_data.csv', index_col=0)\nprint(len(synapses))\nprint(synapses.columns)\nsyn_id = synapses.iloc[0].syn_id\nimg = np.load(f'{path_}{syn_id}_syn.npy')\npre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\npost_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\n# Calculate metrics for a single synapse\nsize_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)",
+        "detail": ".history.Syn_props_demo_20250223165903",
+        "documentation": {}
+    },
+    {
+        "label": "syn_id",
+        "kind": 5,
+        "importPath": ".history.Syn_props_demo_20250223165903",
+        "description": ".history.Syn_props_demo_20250223165903",
+        "peekOfCode": "syn_id = synapses.iloc[0].syn_id\nimg = np.load(f'{path_}{syn_id}_syn.npy')\npre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\npost_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\n# Calculate metrics for a single synapse\nsize_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)",
+        "detail": ".history.Syn_props_demo_20250223165903",
+        "documentation": {}
+    },
+    {
+        "label": "img",
+        "kind": 5,
+        "importPath": ".history.Syn_props_demo_20250223165903",
+        "description": ".history.Syn_props_demo_20250223165903",
+        "peekOfCode": "img = np.load(f'{path_}{syn_id}_syn.npy')\npre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\npost_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\n# Calculate metrics for a single synapse\nsize_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask)",
+        "detail": ".history.Syn_props_demo_20250223165903",
+        "documentation": {}
+    },
+    {
+        "label": "pre_mask",
+        "kind": 5,
+        "importPath": ".history.Syn_props_demo_20250223165903",
+        "description": ".history.Syn_props_demo_20250223165903",
+        "peekOfCode": "pre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\npost_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\n# Calculate metrics for a single synapse\nsize_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask)\n# Create a dictionary with the metrics",
+        "detail": ".history.Syn_props_demo_20250223165903",
+        "documentation": {}
+    },
+    {
+        "label": "post_mask",
+        "kind": 5,
+        "importPath": ".history.Syn_props_demo_20250223165903",
+        "description": ".history.Syn_props_demo_20250223165903",
+        "peekOfCode": "post_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\n# Calculate metrics for a single synapse\nsize_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask)\n# Create a dictionary with the metrics\nmetrics_dict = {",
+        "detail": ".history.Syn_props_demo_20250223165903",
+        "documentation": {}
+    },
+    {
+        "label": "size_metrics",
+        "kind": 5,
+        "importPath": ".history.Syn_props_demo_20250223165903",
+        "description": ".history.Syn_props_demo_20250223165903",
+        "peekOfCode": "size_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask)\n# Create a dictionary with the metrics\nmetrics_dict = {\n    'Synapse Area': size_metrics[0],\n    'Pre-synaptic Area': size_metrics[1],",
+        "detail": ".history.Syn_props_demo_20250223165903",
+        "documentation": {}
+    },
+    {
+        "label": "shape_metrics",
+        "kind": 5,
+        "importPath": ".history.Syn_props_demo_20250223165903",
+        "description": ".history.Syn_props_demo_20250223165903",
+        "peekOfCode": "shape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask)\n# Create a dictionary with the metrics\nmetrics_dict = {\n    'Synapse Area': size_metrics[0],\n    'Pre-synaptic Area': size_metrics[1],\n    'Post-synaptic Area': size_metrics[2],",
+        "detail": ".history.Syn_props_demo_20250223165903",
+        "documentation": {}
+    },
+    {
+        "label": "intensity_metrics",
+        "kind": 5,
+        "importPath": ".history.Syn_props_demo_20250223165903",
+        "description": ".history.Syn_props_demo_20250223165903",
+        "peekOfCode": "intensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask)\n# Create a dictionary with the metrics\nmetrics_dict = {\n    'Synapse Area': size_metrics[0],\n    'Pre-synaptic Area': size_metrics[1],\n    'Post-synaptic Area': size_metrics[2],\n    'Pre-Post Area Ratio': size_metrics[3],",
+        "detail": ".history.Syn_props_demo_20250223165903",
+        "documentation": {}
+    },
+    {
+        "label": "distance",
+        "kind": 5,
+        "importPath": ".history.Syn_props_demo_20250223165903",
+        "description": ".history.Syn_props_demo_20250223165903",
+        "peekOfCode": "distance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask)\n# Create a dictionary with the metrics\nmetrics_dict = {\n    'Synapse Area': size_metrics[0],\n    'Pre-synaptic Area': size_metrics[1],\n    'Post-synaptic Area': size_metrics[2],\n    'Pre-Post Area Ratio': size_metrics[3],\n    'Perimeter': shape_metrics[0],",
+        "detail": ".history.Syn_props_demo_20250223165903",
+        "documentation": {}
+    },
+    {
+        "label": "coloc_metrics",
+        "kind": 5,
+        "importPath": ".history.Syn_props_demo_20250223165903",
+        "description": ".history.Syn_props_demo_20250223165903",
+        "peekOfCode": "coloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask)\n# Create a dictionary with the metrics\nmetrics_dict = {\n    'Synapse Area': size_metrics[0],\n    'Pre-synaptic Area': size_metrics[1],\n    'Post-synaptic Area': size_metrics[2],\n    'Pre-Post Area Ratio': size_metrics[3],\n    'Perimeter': shape_metrics[0],\n    'Circularity': shape_metrics[1],",
+        "detail": ".history.Syn_props_demo_20250223165903",
+        "documentation": {}
+    },
+    {
+        "label": "morphology_metrics",
+        "kind": 5,
+        "importPath": ".history.Syn_props_demo_20250223165903",
+        "description": ".history.Syn_props_demo_20250223165903",
+        "peekOfCode": "morphology_metrics = synapse_morphology(pre_mask, post_mask)\n# Create a dictionary with the metrics\nmetrics_dict = {\n    'Synapse Area': size_metrics[0],\n    'Pre-synaptic Area': size_metrics[1],\n    'Post-synaptic Area': size_metrics[2],\n    'Pre-Post Area Ratio': size_metrics[3],\n    'Perimeter': shape_metrics[0],\n    'Circularity': shape_metrics[1],\n    'Mean Intensity': intensity_metrics[0],",
+        "detail": ".history.Syn_props_demo_20250223165903",
+        "documentation": {}
+    },
+    {
+        "label": "metrics_dict",
+        "kind": 5,
+        "importPath": ".history.Syn_props_demo_20250223165903",
+        "description": ".history.Syn_props_demo_20250223165903",
+        "peekOfCode": "metrics_dict = {\n    'Synapse Area': size_metrics[0],\n    'Pre-synaptic Area': size_metrics[1],\n    'Post-synaptic Area': size_metrics[2],\n    'Pre-Post Area Ratio': size_metrics[3],\n    'Perimeter': shape_metrics[0],\n    'Circularity': shape_metrics[1],\n    'Mean Intensity': intensity_metrics[0],\n    'Median Intensity': intensity_metrics[1],\n    'Std Intensity': intensity_metrics[2],",
+        "detail": ".history.Syn_props_demo_20250223165903",
+        "documentation": {}
+    },
+    {
+        "label": "metrics_df",
+        "kind": 5,
+        "importPath": ".history.Syn_props_demo_20250223165903",
+        "description": ".history.Syn_props_demo_20250223165903",
+        "peekOfCode": "metrics_df = pd.DataFrame.from_dict(metrics_dict, orient='index', columns=['Value'])\n# Pretty print the DataFrame\nprint(\"Synapse Metrics:\")\nprint(metrics_df.to_string(index=True, header=False, float_format=lambda x: f\"{x:.2f}\"))\nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(6, 6))\nax1.imshow(img.T, cmap='gray')\nax2.imshow(img.T, cmap='gray')\nax2.imshow(pre_mask.T, alpha=0.5)\nax2.imshow(post_mask.T, alpha=0.5)\nplt.tight_layout()",
+        "detail": ".history.Syn_props_demo_20250223165903",
+        "documentation": {}
+    },
+    {
         "label": "generate_points",
         "kind": 2,
         "importPath": "notebooks.randomsynapsetest",
@@ -3957,6 +5695,51 @@
         "description": "notebooks.randomsynapsetest",
         "peekOfCode": "def run_experiments():\n    \"\"\"Run all experiments and create visualization.\"\"\"\n    # Define base experiments (will be run with both stick lengths)\n    base_experiments = [\n        ('uniform', 100, 'Uniform'),\n        ('uniform', 1000, 'Uniform'),\n        ('two_bunches', 100, 'Two Bunches'),\n        ('two_bunches', 1000, 'Two Bunches'),\n        ('three_clusters', 100, 'Three Clusters'),\n        ('three_clusters', 1000, 'Three Clusters')",
         "detail": "notebooks.randomsynapsetest",
+        "documentation": {}
+    },
+    {
+        "label": "load_metrics",
+        "kind": 2,
+        "importPath": "metrics_analysis",
+        "description": "metrics_analysis",
+        "peekOfCode": "def load_metrics():\n    \"\"\"Load pre-calculated metrics from CSV\"\"\"\n    metrics_df = pd.read_csv('data/synapse_data_with_metrics.csv')\n    # Select only numerical columns for clustering\n    feature_cols = metrics_df.select_dtypes(include=[np.number]).columns\n    feature_cols = feature_cols.drop(['syn_id']) if 'syn_id' in feature_cols else feature_cols\n    return metrics_df, feature_cols\ndef perform_clustering_analysis(metrics_df, feature_cols, n_clusters=3, method='pca'):\n    \"\"\"Perform dimensionality reduction and clustering on the metrics\"\"\"\n    X = metrics_df[feature_cols]",
+        "detail": "metrics_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "perform_clustering_analysis",
+        "kind": 2,
+        "importPath": "metrics_analysis",
+        "description": "metrics_analysis",
+        "peekOfCode": "def perform_clustering_analysis(metrics_df, feature_cols, n_clusters=3, method='pca'):\n    \"\"\"Perform dimensionality reduction and clustering on the metrics\"\"\"\n    X = metrics_df[feature_cols]\n    scaler = StandardScaler()\n    X_scaled = scaler.fit_transform(X)\n    # Dimensionality reduction\n    if method == 'pca':\n        reducer = PCA(n_components=2)\n        X_reduced = reducer.fit_transform(X_scaled)\n        explained_var = reducer.explained_variance_ratio_",
+        "detail": "metrics_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "plot_clusters",
+        "kind": 2,
+        "importPath": "metrics_analysis",
+        "description": "metrics_analysis",
+        "peekOfCode": "def plot_clusters(X_reduced, clusters, variance_ratio=None, method='pca'):\n    \"\"\"Plot the clustering results\"\"\"\n    plt.figure(figsize=(10, 8))\n    scatter = plt.scatter(X_reduced[:, 0], X_reduced[:, 1], c=clusters, cmap='viridis')\n    if method == 'pca':\n        plt.xlabel(f'PC1 ({variance_ratio[0]:.2%} variance explained)')\n        plt.ylabel(f'PC2 ({variance_ratio[1]:.2%} variance explained)')\n        title = 'Synapse Clusters (PCA)'\n    else:\n        plt.xlabel('UMAP1')",
+        "detail": "metrics_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "perform_umap",
+        "kind": 2,
+        "importPath": "metrics_analysis",
+        "description": "metrics_analysis",
+        "peekOfCode": "def perform_umap(metrics_df, feature_cols):\n    \"\"\"Perform UMAP dimensionality reduction\"\"\"\n    X = metrics_df[feature_cols]\n    scaler = StandardScaler()\n    X_scaled = scaler.fit_transform(X)\n    reducer = umap.UMAP(random_state=42)\n    X_reduced = reducer.fit_transform(X_scaled)\n    return X_reduced\ndef plot_cell_types(metrics_df, X_umap):\n    \"\"\"Plot UMAP colored by different cell type classifications\"\"\"",
+        "detail": "metrics_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "plot_cell_types",
+        "kind": 2,
+        "importPath": "metrics_analysis",
+        "description": "metrics_analysis",
+        "peekOfCode": "def plot_cell_types(metrics_df, X_umap):\n    \"\"\"Plot UMAP colored by different cell type classifications\"\"\"\n    fig, axes = plt.subplots(2, 2, figsize=(15, 15))\n    # Define the subplots data\n    plots = [\n        ('pre_syn_cell_type', 'Pre-synaptic Cell Type', 0, 0),\n        ('pre_syn_clf_type', 'Pre-synaptic Classification', 0, 1),\n        ('post_syn_cell_type', 'Post-synaptic Cell Type', 1, 0),\n        ('post_syn_clf_type', 'Post-synaptic Classification', 1, 1)\n    ]",
+        "detail": "metrics_analysis",
         "documentation": {}
     },
     {
@@ -4014,11 +5797,56 @@
         "documentation": {}
     },
     {
+        "label": "calculate_synapse_metrics",
+        "kind": 2,
+        "importPath": "synapse_metrics",
+        "description": "synapse_metrics",
+        "peekOfCode": "def calculate_synapse_metrics(synapses, path_):\n    metrics_data = []\n    for i, row in synapses.iterrows():\n        print(i)\n        syn_id = row['syn_id']\n        img = np.load(f'{path_}{syn_id}_syn.npy')\n        pre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\n        post_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\n        size_metrics = synapse_size(pre_mask, post_mask)\n        shape_metrics = synapse_shape(pre_mask, post_mask)",
+        "detail": "synapse_metrics",
+        "documentation": {}
+    },
+    {
+        "label": "path_",
+        "kind": 5,
+        "importPath": "synapse_metrics",
+        "description": "synapse_metrics",
+        "peekOfCode": "path_ = 'data/synpase_raw_em/'\nsynapses = pd.read_csv(f'{path_}synapse_data.csv', index_col=0)\nmetrics_df = calculate_synapse_metrics(synapses, path_)\n# Merge the metrics DataFrame with the original synapses DataFrame\nsynapses_with_metrics = pd.merge(synapses, metrics_df, on='syn_id')\n# Save the updated DataFrame to a new CSV file\nsynapses_with_metrics.to_csv(f'{path_}synapse_data_with_metrics.csv', index=False)",
+        "detail": "synapse_metrics",
+        "documentation": {}
+    },
+    {
+        "label": "synapses",
+        "kind": 5,
+        "importPath": "synapse_metrics",
+        "description": "synapse_metrics",
+        "peekOfCode": "synapses = pd.read_csv(f'{path_}synapse_data.csv', index_col=0)\nmetrics_df = calculate_synapse_metrics(synapses, path_)\n# Merge the metrics DataFrame with the original synapses DataFrame\nsynapses_with_metrics = pd.merge(synapses, metrics_df, on='syn_id')\n# Save the updated DataFrame to a new CSV file\nsynapses_with_metrics.to_csv(f'{path_}synapse_data_with_metrics.csv', index=False)",
+        "detail": "synapse_metrics",
+        "documentation": {}
+    },
+    {
+        "label": "metrics_df",
+        "kind": 5,
+        "importPath": "synapse_metrics",
+        "description": "synapse_metrics",
+        "peekOfCode": "metrics_df = calculate_synapse_metrics(synapses, path_)\n# Merge the metrics DataFrame with the original synapses DataFrame\nsynapses_with_metrics = pd.merge(synapses, metrics_df, on='syn_id')\n# Save the updated DataFrame to a new CSV file\nsynapses_with_metrics.to_csv(f'{path_}synapse_data_with_metrics.csv', index=False)",
+        "detail": "synapse_metrics",
+        "documentation": {}
+    },
+    {
+        "label": "synapses_with_metrics",
+        "kind": 5,
+        "importPath": "synapse_metrics",
+        "description": "synapse_metrics",
+        "peekOfCode": "synapses_with_metrics = pd.merge(synapses, metrics_df, on='syn_id')\n# Save the updated DataFrame to a new CSV file\nsynapses_with_metrics.to_csv(f'{path_}synapse_data_with_metrics.csv', index=False)",
+        "detail": "synapse_metrics",
+        "documentation": {}
+    },
+    {
         "label": "path_",
         "kind": 5,
         "importPath": "Syn_props_demo",
         "description": "Syn_props_demo",
-        "peekOfCode": "path_ = 'data/synpase_raw_em/'\nsynapses = pd.read_csv(f'{path_}synapse_data.csv', index_col=0)\nprint(len(synapses))\nsynapses.head()\nsyn_id = synapses.iloc[0].syn_id\nimg = np.load(f'{path_}{syn_id}_syn.npy')\npre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\npost_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\n# Calculate metrics for a single synapse\nsize_metrics = synapse_size(pre_mask, post_mask)",
+        "peekOfCode": "path_ = 'data/synpase_raw_em/'\nsynapses = pd.read_csv(f'{path_}synapse_data.csv', index_col=0)\nprint(len(synapses))\nprint(synapses.columns)\nsyn_id = synapses.iloc[0].syn_id\nimg = np.load(f'{path_}{syn_id}_syn.npy')\npre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\npost_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\n# Calculate metrics for a single synapse\nsize_metrics = synapse_size(pre_mask, post_mask)",
         "detail": "Syn_props_demo",
         "documentation": {}
     },
@@ -4027,7 +5855,7 @@
         "kind": 5,
         "importPath": "Syn_props_demo",
         "description": "Syn_props_demo",
-        "peekOfCode": "synapses = pd.read_csv(f'{path_}synapse_data.csv', index_col=0)\nprint(len(synapses))\nsynapses.head()\nsyn_id = synapses.iloc[0].syn_id\nimg = np.load(f'{path_}{syn_id}_syn.npy')\npre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\npost_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\n# Calculate metrics for a single synapse\nsize_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)",
+        "peekOfCode": "synapses = pd.read_csv(f'{path_}synapse_data.csv', index_col=0)\nprint(len(synapses))\nprint(synapses.columns)\nsyn_id = synapses.iloc[0].syn_id\nimg = np.load(f'{path_}{syn_id}_syn.npy')\npre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\npost_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\n# Calculate metrics for a single synapse\nsize_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)",
         "detail": "Syn_props_demo",
         "documentation": {}
     },

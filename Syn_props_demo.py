@@ -8,7 +8,7 @@ from synapse_analysis import synapse_size, synapse_shape, synapse_intensity, syn
 path_ = 'data/synpase_raw_em/'
 synapses = pd.read_csv(f'{path_}synapse_data.csv', index_col=0)
 print(len(synapses))
-synapses.head()
+print(synapses.columns)
 
 syn_id = synapses.iloc[0].syn_id
 img = np.load(f'{path_}{syn_id}_syn.npy')
