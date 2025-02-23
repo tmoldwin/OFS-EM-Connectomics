@@ -714,6 +714,615 @@
         "documentation": {}
     },
     {
+        "label": "measure",
+        "importPath": "skimage",
+        "description": "skimage",
+        "isExtraImport": true,
+        "detail": "skimage",
+        "documentation": {}
+    },
+    {
+        "label": "measure",
+        "importPath": "skimage",
+        "description": "skimage",
+        "isExtraImport": true,
+        "detail": "skimage",
+        "documentation": {}
+    },
+    {
+        "label": "measure",
+        "importPath": "skimage",
+        "description": "skimage",
+        "isExtraImport": true,
+        "detail": "skimage",
+        "documentation": {}
+    },
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_size",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_shape",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_distance",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_colocalization",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_morphology",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_size",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_shape",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_distance",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_colocalization",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_morphology",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_size",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_shape",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_distance",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_colocalization",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_morphology",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_size",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_shape",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_distance",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_colocalization",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_morphology",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_size",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_shape",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_distance",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_colocalization",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_morphology",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_size",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_shape",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_distance",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_colocalization",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_morphology",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_size",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_shape",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_distance",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_colocalization",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_morphology",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_size",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_shape",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_distance",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_colocalization",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_morphology",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_size",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_shape",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_distance",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_colocalization",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_morphology",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_size",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_shape",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_distance",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_colocalization",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_morphology",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_size",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_shape",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_distance",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_colocalization",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_morphology",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_size",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_shape",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_distance",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_colocalization",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_morphology",
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "isExtraImport": true,
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
         "label": "generate_points",
         "kind": 2,
         "importPath": ".history.notebooks.randomsynapsetest_20241211215634",
@@ -1974,6 +2583,1338 @@
         "documentation": {}
     },
     {
+        "label": "synapse_size",
+        "kind": 2,
+        "importPath": ".history.synapse_analysis_20250223153819",
+        "description": ".history.synapse_analysis_20250223153819",
+        "peekOfCode": "def synapse_size(pre_mask, post_mask):\n    \"\"\"Calculate synapse size metrics.\"\"\"\n    synapse_mask = pre_mask | post_mask\n    synapse_area = np.sum(synapse_mask)\n    pre_area = np.sum(pre_mask)\n    post_area = np.sum(post_mask)\n    pre_post_ratio = pre_area / post_area\n    return synapse_area, pre_area, post_area, pre_post_ratio\ndef synapse_shape(pre_mask, post_mask):\n    \"\"\"Calculate synapse shape metrics.\"\"\"",
+        "detail": ".history.synapse_analysis_20250223153819",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_shape",
+        "kind": 2,
+        "importPath": ".history.synapse_analysis_20250223153819",
+        "description": ".history.synapse_analysis_20250223153819",
+        "peekOfCode": "def synapse_shape(pre_mask, post_mask):\n    \"\"\"Calculate synapse shape metrics.\"\"\"\n    synapse_mask = pre_mask | post_mask\n    perimeter = measure.perimeter(synapse_mask)\n    circularity = 4 * np.pi * np.sum(synapse_mask) / (perimeter ** 2)\n    return perimeter, circularity\ndef synapse_intensity(image, pre_mask, post_mask):\n    \"\"\"Calculate synapse intensity metrics.\"\"\"\n    synapse_mask = pre_mask | post_mask\n    synapse_intensities = image[synapse_mask]",
+        "detail": ".history.synapse_analysis_20250223153819",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity",
+        "kind": 2,
+        "importPath": ".history.synapse_analysis_20250223153819",
+        "description": ".history.synapse_analysis_20250223153819",
+        "peekOfCode": "def synapse_intensity(image, pre_mask, post_mask):\n    \"\"\"Calculate synapse intensity metrics.\"\"\"\n    synapse_mask = pre_mask | post_mask\n    synapse_intensities = image[synapse_mask]\n    mean_intensity = np.mean(synapse_intensities)\n    median_intensity = np.median(synapse_intensities)\n    std_intensity = np.std(synapse_intensities)\n    return mean_intensity, median_intensity, std_intensity\ndef synapse_distance(pre_mask, post_mask):\n    \"\"\"Calculate distance between pre- and post-synaptic regions.\"\"\"",
+        "detail": ".history.synapse_analysis_20250223153819",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_distance",
+        "kind": 2,
+        "importPath": ".history.synapse_analysis_20250223153819",
+        "description": ".history.synapse_analysis_20250223153819",
+        "peekOfCode": "def synapse_distance(pre_mask, post_mask):\n    \"\"\"Calculate distance between pre- and post-synaptic regions.\"\"\"\n    pre_centroid = measure.centroid(pre_mask)\n    post_centroid = measure.centroid(post_mask)\n    distance = np.sqrt((pre_centroid[0] - post_centroid[0]) ** 2 +\n                       (pre_centroid[1] - post_centroid[1]) ** 2)\n    return distance\ndef synapse_colocalization(pre_mask, post_mask):\n    \"\"\"Calculate synapse co-localization metrics.\"\"\"\n    intersection = pre_mask & post_mask",
+        "detail": ".history.synapse_analysis_20250223153819",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_colocalization",
+        "kind": 2,
+        "importPath": ".history.synapse_analysis_20250223153819",
+        "description": ".history.synapse_analysis_20250223153819",
+        "peekOfCode": "def synapse_colocalization(pre_mask, post_mask):\n    \"\"\"Calculate synapse co-localization metrics.\"\"\"\n    intersection = pre_mask & post_mask\n    union = pre_mask | post_mask\n    jaccard_index = np.sum(intersection) / np.sum(union)\n    pre_overlap = np.sum(intersection) / np.sum(pre_mask)\n    post_overlap = np.sum(intersection) / np.sum(post_mask)\n    return jaccard_index, pre_overlap, post_overlap\ndef synapse_morphology(pre_mask, post_mask):\n    \"\"\"Calculate synapse morphology metrics.\"\"\"",
+        "detail": ".history.synapse_analysis_20250223153819",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_morphology",
+        "kind": 2,
+        "importPath": ".history.synapse_analysis_20250223153819",
+        "description": ".history.synapse_analysis_20250223153819",
+        "peekOfCode": "def synapse_morphology(pre_mask, post_mask):\n    \"\"\"Calculate synapse morphology metrics.\"\"\"\n    synapse_mask = pre_mask | post_mask\n    labeled_synapse = measure.label(synapse_mask)\n    properties = measure.regionprops(labeled_synapse)\n    if properties:\n        major_axis_length = properties[0].major_axis_length\n        minor_axis_length = properties[0].minor_axis_length\n    else:\n        major_axis_length = 0",
+        "detail": ".history.synapse_analysis_20250223153819",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_size",
+        "kind": 2,
+        "importPath": ".history.synapse_analysis_20250223153821",
+        "description": ".history.synapse_analysis_20250223153821",
+        "peekOfCode": "def synapse_size(pre_mask, post_mask):\n    \"\"\"Calculate synapse size metrics.\"\"\"\n    synapse_mask = pre_mask | post_mask\n    synapse_area = np.sum(synapse_mask)\n    pre_area = np.sum(pre_mask)\n    post_area = np.sum(post_mask)\n    pre_post_ratio = pre_area / post_area\n    return synapse_area, pre_area, post_area, pre_post_ratio\ndef synapse_shape(pre_mask, post_mask):\n    \"\"\"Calculate synapse shape metrics.\"\"\"",
+        "detail": ".history.synapse_analysis_20250223153821",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_shape",
+        "kind": 2,
+        "importPath": ".history.synapse_analysis_20250223153821",
+        "description": ".history.synapse_analysis_20250223153821",
+        "peekOfCode": "def synapse_shape(pre_mask, post_mask):\n    \"\"\"Calculate synapse shape metrics.\"\"\"\n    synapse_mask = pre_mask | post_mask\n    perimeter = measure.perimeter(synapse_mask)\n    circularity = 4 * np.pi * np.sum(synapse_mask) / (perimeter ** 2)\n    return perimeter, circularity\ndef synapse_intensity(image, pre_mask, post_mask):\n    \"\"\"Calculate synapse intensity metrics.\"\"\"\n    synapse_mask = pre_mask | post_mask\n    synapse_intensities = image[synapse_mask]",
+        "detail": ".history.synapse_analysis_20250223153821",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity",
+        "kind": 2,
+        "importPath": ".history.synapse_analysis_20250223153821",
+        "description": ".history.synapse_analysis_20250223153821",
+        "peekOfCode": "def synapse_intensity(image, pre_mask, post_mask):\n    \"\"\"Calculate synapse intensity metrics.\"\"\"\n    synapse_mask = pre_mask | post_mask\n    synapse_intensities = image[synapse_mask]\n    mean_intensity = np.mean(synapse_intensities)\n    median_intensity = np.median(synapse_intensities)\n    std_intensity = np.std(synapse_intensities)\n    return mean_intensity, median_intensity, std_intensity\ndef synapse_distance(pre_mask, post_mask):\n    \"\"\"Calculate distance between pre- and post-synaptic regions.\"\"\"",
+        "detail": ".history.synapse_analysis_20250223153821",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_distance",
+        "kind": 2,
+        "importPath": ".history.synapse_analysis_20250223153821",
+        "description": ".history.synapse_analysis_20250223153821",
+        "peekOfCode": "def synapse_distance(pre_mask, post_mask):\n    \"\"\"Calculate distance between pre- and post-synaptic regions.\"\"\"\n    pre_centroid = measure.centroid(pre_mask)\n    post_centroid = measure.centroid(post_mask)\n    distance = np.sqrt((pre_centroid[0] - post_centroid[0]) ** 2 +\n                       (pre_centroid[1] - post_centroid[1]) ** 2)\n    return distance\ndef synapse_colocalization(pre_mask, post_mask):\n    \"\"\"Calculate synapse co-localization metrics.\"\"\"\n    intersection = pre_mask & post_mask",
+        "detail": ".history.synapse_analysis_20250223153821",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_colocalization",
+        "kind": 2,
+        "importPath": ".history.synapse_analysis_20250223153821",
+        "description": ".history.synapse_analysis_20250223153821",
+        "peekOfCode": "def synapse_colocalization(pre_mask, post_mask):\n    \"\"\"Calculate synapse co-localization metrics.\"\"\"\n    intersection = pre_mask & post_mask\n    union = pre_mask | post_mask\n    jaccard_index = np.sum(intersection) / np.sum(union)\n    pre_overlap = np.sum(intersection) / np.sum(pre_mask)\n    post_overlap = np.sum(intersection) / np.sum(post_mask)\n    return jaccard_index, pre_overlap, post_overlap\ndef synapse_morphology(pre_mask, post_mask):\n    \"\"\"Calculate synapse morphology metrics.\"\"\"",
+        "detail": ".history.synapse_analysis_20250223153821",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_morphology",
+        "kind": 2,
+        "importPath": ".history.synapse_analysis_20250223153821",
+        "description": ".history.synapse_analysis_20250223153821",
+        "peekOfCode": "def synapse_morphology(pre_mask, post_mask):\n    \"\"\"Calculate synapse morphology metrics.\"\"\"\n    synapse_mask = pre_mask | post_mask\n    labeled_synapse = measure.label(synapse_mask)\n    properties = measure.regionprops(labeled_synapse)\n    if properties:\n        major_axis_length = properties[0].major_axis_length\n        minor_axis_length = properties[0].minor_axis_length\n    else:\n        major_axis_length = 0",
+        "detail": ".history.synapse_analysis_20250223153821",
+        "documentation": {}
+    },
+    {
+        "label": "path_",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223160809",
+        "description": ".history.Syn_props_20250223160809",
+        "peekOfCode": "path_ = '../data/synpase_raw_em/'\nsynapses = pd.read_csv(f'{path_}synapse_data.csv', index_col=0)\nprint(len(synapses))\nsynapses.head()\nsyn_id = synapses.iloc[0].syn_id\nimg = np.load(f'{path_}{syn_id}_syn.npy')\npre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\npost_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(6, 6))\nax1.imshow(img.T, cmap='gray')",
+        "detail": ".history.Syn_props_20250223160809",
+        "documentation": {}
+    },
+    {
+        "label": "synapses",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223160809",
+        "description": ".history.Syn_props_20250223160809",
+        "peekOfCode": "synapses = pd.read_csv(f'{path_}synapse_data.csv', index_col=0)\nprint(len(synapses))\nsynapses.head()\nsyn_id = synapses.iloc[0].syn_id\nimg = np.load(f'{path_}{syn_id}_syn.npy')\npre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\npost_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(6, 6))\nax1.imshow(img.T, cmap='gray')\nax2.imshow(img.T, cmap='gray')",
+        "detail": ".history.Syn_props_20250223160809",
+        "documentation": {}
+    },
+    {
+        "label": "syn_id",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223160809",
+        "description": ".history.Syn_props_20250223160809",
+        "peekOfCode": "syn_id = synapses.iloc[0].syn_id\nimg = np.load(f'{path_}{syn_id}_syn.npy')\npre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\npost_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(6, 6))\nax1.imshow(img.T, cmap='gray')\nax2.imshow(img.T, cmap='gray')\nax2.imshow(pre_mask.T, alpha=0.5)\nax2.imshow(post_mask.T, alpha=0.5)\nplt.tight_layout()",
+        "detail": ".history.Syn_props_20250223160809",
+        "documentation": {}
+    },
+    {
+        "label": "img",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223160809",
+        "description": ".history.Syn_props_20250223160809",
+        "peekOfCode": "img = np.load(f'{path_}{syn_id}_syn.npy')\npre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\npost_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(6, 6))\nax1.imshow(img.T, cmap='gray')\nax2.imshow(img.T, cmap='gray')\nax2.imshow(pre_mask.T, alpha=0.5)\nax2.imshow(post_mask.T, alpha=0.5)\nplt.tight_layout()",
+        "detail": ".history.Syn_props_20250223160809",
+        "documentation": {}
+    },
+    {
+        "label": "pre_mask",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223160809",
+        "description": ".history.Syn_props_20250223160809",
+        "peekOfCode": "pre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\npost_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(6, 6))\nax1.imshow(img.T, cmap='gray')\nax2.imshow(img.T, cmap='gray')\nax2.imshow(pre_mask.T, alpha=0.5)\nax2.imshow(post_mask.T, alpha=0.5)\nplt.tight_layout()",
+        "detail": ".history.Syn_props_20250223160809",
+        "documentation": {}
+    },
+    {
+        "label": "post_mask",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223160809",
+        "description": ".history.Syn_props_20250223160809",
+        "peekOfCode": "post_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(6, 6))\nax1.imshow(img.T, cmap='gray')\nax2.imshow(img.T, cmap='gray')\nax2.imshow(pre_mask.T, alpha=0.5)\nax2.imshow(post_mask.T, alpha=0.5)\nplt.tight_layout()",
+        "detail": ".history.Syn_props_20250223160809",
+        "documentation": {}
+    },
+    {
+        "label": "path_",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223160829",
+        "description": ".history.Syn_props_20250223160829",
+        "peekOfCode": "path_ = '../data/synpase_raw_em/'\nsynapses = pd.read_csv(f'{path_}synapse_data.csv', index_col=0)\nprint(len(synapses))\nsynapses.head()\nsyn_id = synapses.iloc[0].syn_id\nimg = np.load(f'{path_}{syn_id}_syn.npy')\npre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\npost_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(6, 6))\nax1.imshow(img.T, cmap='gray')",
+        "detail": ".history.Syn_props_20250223160829",
+        "documentation": {}
+    },
+    {
+        "label": "synapses",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223160829",
+        "description": ".history.Syn_props_20250223160829",
+        "peekOfCode": "synapses = pd.read_csv(f'{path_}synapse_data.csv', index_col=0)\nprint(len(synapses))\nsynapses.head()\nsyn_id = synapses.iloc[0].syn_id\nimg = np.load(f'{path_}{syn_id}_syn.npy')\npre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\npost_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(6, 6))\nax1.imshow(img.T, cmap='gray')\nax2.imshow(img.T, cmap='gray')",
+        "detail": ".history.Syn_props_20250223160829",
+        "documentation": {}
+    },
+    {
+        "label": "syn_id",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223160829",
+        "description": ".history.Syn_props_20250223160829",
+        "peekOfCode": "syn_id = synapses.iloc[0].syn_id\nimg = np.load(f'{path_}{syn_id}_syn.npy')\npre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\npost_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(6, 6))\nax1.imshow(img.T, cmap='gray')\nax2.imshow(img.T, cmap='gray')\nax2.imshow(pre_mask.T, alpha=0.5)\nax2.imshow(post_mask.T, alpha=0.5)\nplt.tight_layout()",
+        "detail": ".history.Syn_props_20250223160829",
+        "documentation": {}
+    },
+    {
+        "label": "img",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223160829",
+        "description": ".history.Syn_props_20250223160829",
+        "peekOfCode": "img = np.load(f'{path_}{syn_id}_syn.npy')\npre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\npost_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(6, 6))\nax1.imshow(img.T, cmap='gray')\nax2.imshow(img.T, cmap='gray')\nax2.imshow(pre_mask.T, alpha=0.5)\nax2.imshow(post_mask.T, alpha=0.5)\nplt.tight_layout()",
+        "detail": ".history.Syn_props_20250223160829",
+        "documentation": {}
+    },
+    {
+        "label": "pre_mask",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223160829",
+        "description": ".history.Syn_props_20250223160829",
+        "peekOfCode": "pre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\npost_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(6, 6))\nax1.imshow(img.T, cmap='gray')\nax2.imshow(img.T, cmap='gray')\nax2.imshow(pre_mask.T, alpha=0.5)\nax2.imshow(post_mask.T, alpha=0.5)\nplt.tight_layout()",
+        "detail": ".history.Syn_props_20250223160829",
+        "documentation": {}
+    },
+    {
+        "label": "post_mask",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223160829",
+        "description": ".history.Syn_props_20250223160829",
+        "peekOfCode": "post_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(6, 6))\nax1.imshow(img.T, cmap='gray')\nax2.imshow(img.T, cmap='gray')\nax2.imshow(pre_mask.T, alpha=0.5)\nax2.imshow(post_mask.T, alpha=0.5)\nplt.tight_layout()",
+        "detail": ".history.Syn_props_20250223160829",
+        "documentation": {}
+    },
+    {
+        "label": "path_",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223160909",
+        "description": ".history.Syn_props_20250223160909",
+        "peekOfCode": "path_ = '../data/synpase_raw_em/'\nsynapses = pd.read_csv(f'{path_}synapse_data.csv', index_col=0)\nprint(len(synapses))\nsynapses.head()\nsyn_id = synapses.iloc[0].syn_id\nimg = np.load(f'{path_}{syn_id}_syn.npy')\npre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\npost_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\nsize_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)",
+        "detail": ".history.Syn_props_20250223160909",
+        "documentation": {}
+    },
+    {
+        "label": "synapses",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223160909",
+        "description": ".history.Syn_props_20250223160909",
+        "peekOfCode": "synapses = pd.read_csv(f'{path_}synapse_data.csv', index_col=0)\nprint(len(synapses))\nsynapses.head()\nsyn_id = synapses.iloc[0].syn_id\nimg = np.load(f'{path_}{syn_id}_syn.npy')\npre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\npost_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\nsize_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)",
+        "detail": ".history.Syn_props_20250223160909",
+        "documentation": {}
+    },
+    {
+        "label": "syn_id",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223160909",
+        "description": ".history.Syn_props_20250223160909",
+        "peekOfCode": "syn_id = synapses.iloc[0].syn_id\nimg = np.load(f'{path_}{syn_id}_syn.npy')\npre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\npost_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\nsize_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask)",
+        "detail": ".history.Syn_props_20250223160909",
+        "documentation": {}
+    },
+    {
+        "label": "img",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223160909",
+        "description": ".history.Syn_props_20250223160909",
+        "peekOfCode": "img = np.load(f'{path_}{syn_id}_syn.npy')\npre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\npost_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\nsize_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask)\nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(6, 6))",
+        "detail": ".history.Syn_props_20250223160909",
+        "documentation": {}
+    },
+    {
+        "label": "pre_mask",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223160909",
+        "description": ".history.Syn_props_20250223160909",
+        "peekOfCode": "pre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\npost_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\nsize_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask)\nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(6, 6))\nax1.imshow(img.T, cmap='gray')",
+        "detail": ".history.Syn_props_20250223160909",
+        "documentation": {}
+    },
+    {
+        "label": "post_mask",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223160909",
+        "description": ".history.Syn_props_20250223160909",
+        "peekOfCode": "post_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\nsize_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask)\nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(6, 6))\nax1.imshow(img.T, cmap='gray')\nax2.imshow(img.T, cmap='gray')",
+        "detail": ".history.Syn_props_20250223160909",
+        "documentation": {}
+    },
+    {
+        "label": "size_metrics",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223160909",
+        "description": ".history.Syn_props_20250223160909",
+        "peekOfCode": "size_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask)\nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(6, 6))\nax1.imshow(img.T, cmap='gray')\nax2.imshow(img.T, cmap='gray')\nax2.imshow(pre_mask.T, alpha=0.5)",
+        "detail": ".history.Syn_props_20250223160909",
+        "documentation": {}
+    },
+    {
+        "label": "shape_metrics",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223160909",
+        "description": ".history.Syn_props_20250223160909",
+        "peekOfCode": "shape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask)\nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(6, 6))\nax1.imshow(img.T, cmap='gray')\nax2.imshow(img.T, cmap='gray')\nax2.imshow(pre_mask.T, alpha=0.5)\nax2.imshow(post_mask.T, alpha=0.5)",
+        "detail": ".history.Syn_props_20250223160909",
+        "documentation": {}
+    },
+    {
+        "label": "intensity_metrics",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223160909",
+        "description": ".history.Syn_props_20250223160909",
+        "peekOfCode": "intensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask)\nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(6, 6))\nax1.imshow(img.T, cmap='gray')\nax2.imshow(img.T, cmap='gray')\nax2.imshow(pre_mask.T, alpha=0.5)\nax2.imshow(post_mask.T, alpha=0.5)\nplt.tight_layout()",
+        "detail": ".history.Syn_props_20250223160909",
+        "documentation": {}
+    },
+    {
+        "label": "distance",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223160909",
+        "description": ".history.Syn_props_20250223160909",
+        "peekOfCode": "distance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask)\nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(6, 6))\nax1.imshow(img.T, cmap='gray')\nax2.imshow(img.T, cmap='gray')\nax2.imshow(pre_mask.T, alpha=0.5)\nax2.imshow(post_mask.T, alpha=0.5)\nplt.tight_layout()",
+        "detail": ".history.Syn_props_20250223160909",
+        "documentation": {}
+    },
+    {
+        "label": "coloc_metrics",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223160909",
+        "description": ".history.Syn_props_20250223160909",
+        "peekOfCode": "coloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask)\nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(6, 6))\nax1.imshow(img.T, cmap='gray')\nax2.imshow(img.T, cmap='gray')\nax2.imshow(pre_mask.T, alpha=0.5)\nax2.imshow(post_mask.T, alpha=0.5)\nplt.tight_layout()",
+        "detail": ".history.Syn_props_20250223160909",
+        "documentation": {}
+    },
+    {
+        "label": "morphology_metrics",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223160909",
+        "description": ".history.Syn_props_20250223160909",
+        "peekOfCode": "morphology_metrics = synapse_morphology(pre_mask, post_mask)\nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(6, 6))\nax1.imshow(img.T, cmap='gray')\nax2.imshow(img.T, cmap='gray')\nax2.imshow(pre_mask.T, alpha=0.5)\nax2.imshow(post_mask.T, alpha=0.5)\nplt.tight_layout()",
+        "detail": ".history.Syn_props_20250223160909",
+        "documentation": {}
+    },
+    {
+        "label": "path_",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223160938",
+        "description": ".history.Syn_props_20250223160938",
+        "peekOfCode": "path_ = '../data/synpase_raw_em/'\nsynapses = pd.read_csv(f'{path_}synapse_data.csv', index_col=0)\nprint(len(synapses))\nsynapses.head()\nsyn_id = synapses.iloc[0].syn_id\nimg = np.load(f'{path_}{syn_id}_syn.npy')\npre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\npost_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\nsize_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)",
+        "detail": ".history.Syn_props_20250223160938",
+        "documentation": {}
+    },
+    {
+        "label": "synapses",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223160938",
+        "description": ".history.Syn_props_20250223160938",
+        "peekOfCode": "synapses = pd.read_csv(f'{path_}synapse_data.csv', index_col=0)\nprint(len(synapses))\nsynapses.head()\nsyn_id = synapses.iloc[0].syn_id\nimg = np.load(f'{path_}{syn_id}_syn.npy')\npre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\npost_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\nsize_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)",
+        "detail": ".history.Syn_props_20250223160938",
+        "documentation": {}
+    },
+    {
+        "label": "syn_id",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223160938",
+        "description": ".history.Syn_props_20250223160938",
+        "peekOfCode": "syn_id = synapses.iloc[0].syn_id\nimg = np.load(f'{path_}{syn_id}_syn.npy')\npre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\npost_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\nsize_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask) ",
+        "detail": ".history.Syn_props_20250223160938",
+        "documentation": {}
+    },
+    {
+        "label": "img",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223160938",
+        "description": ".history.Syn_props_20250223160938",
+        "peekOfCode": "img = np.load(f'{path_}{syn_id}_syn.npy')\npre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\npost_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\nsize_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask) \nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(6, 6))",
+        "detail": ".history.Syn_props_20250223160938",
+        "documentation": {}
+    },
+    {
+        "label": "pre_mask",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223160938",
+        "description": ".history.Syn_props_20250223160938",
+        "peekOfCode": "pre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\npost_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\nsize_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask) \nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(6, 6))\nax1.imshow(img.T, cmap='gray')",
+        "detail": ".history.Syn_props_20250223160938",
+        "documentation": {}
+    },
+    {
+        "label": "post_mask",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223160938",
+        "description": ".history.Syn_props_20250223160938",
+        "peekOfCode": "post_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\nsize_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask) \nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(6, 6))\nax1.imshow(img.T, cmap='gray')\nax2.imshow(img.T, cmap='gray')",
+        "detail": ".history.Syn_props_20250223160938",
+        "documentation": {}
+    },
+    {
+        "label": "size_metrics",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223160938",
+        "description": ".history.Syn_props_20250223160938",
+        "peekOfCode": "size_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask) \nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(6, 6))\nax1.imshow(img.T, cmap='gray')\nax2.imshow(img.T, cmap='gray')\nax2.imshow(pre_mask.T, alpha=0.5)",
+        "detail": ".history.Syn_props_20250223160938",
+        "documentation": {}
+    },
+    {
+        "label": "shape_metrics",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223160938",
+        "description": ".history.Syn_props_20250223160938",
+        "peekOfCode": "shape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask) \nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(6, 6))\nax1.imshow(img.T, cmap='gray')\nax2.imshow(img.T, cmap='gray')\nax2.imshow(pre_mask.T, alpha=0.5)\nax2.imshow(post_mask.T, alpha=0.5)",
+        "detail": ".history.Syn_props_20250223160938",
+        "documentation": {}
+    },
+    {
+        "label": "intensity_metrics",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223160938",
+        "description": ".history.Syn_props_20250223160938",
+        "peekOfCode": "intensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask) \nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(6, 6))\nax1.imshow(img.T, cmap='gray')\nax2.imshow(img.T, cmap='gray')\nax2.imshow(pre_mask.T, alpha=0.5)\nax2.imshow(post_mask.T, alpha=0.5)\nplt.tight_layout()",
+        "detail": ".history.Syn_props_20250223160938",
+        "documentation": {}
+    },
+    {
+        "label": "distance",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223160938",
+        "description": ".history.Syn_props_20250223160938",
+        "peekOfCode": "distance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask) \nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(6, 6))\nax1.imshow(img.T, cmap='gray')\nax2.imshow(img.T, cmap='gray')\nax2.imshow(pre_mask.T, alpha=0.5)\nax2.imshow(post_mask.T, alpha=0.5)\nplt.tight_layout()",
+        "detail": ".history.Syn_props_20250223160938",
+        "documentation": {}
+    },
+    {
+        "label": "coloc_metrics",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223160938",
+        "description": ".history.Syn_props_20250223160938",
+        "peekOfCode": "coloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask) \nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(6, 6))\nax1.imshow(img.T, cmap='gray')\nax2.imshow(img.T, cmap='gray')\nax2.imshow(pre_mask.T, alpha=0.5)\nax2.imshow(post_mask.T, alpha=0.5)\nplt.tight_layout()",
+        "detail": ".history.Syn_props_20250223160938",
+        "documentation": {}
+    },
+    {
+        "label": "morphology_metrics",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223160938",
+        "description": ".history.Syn_props_20250223160938",
+        "peekOfCode": "morphology_metrics = synapse_morphology(pre_mask, post_mask) \nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(6, 6))\nax1.imshow(img.T, cmap='gray')\nax2.imshow(img.T, cmap='gray')\nax2.imshow(pre_mask.T, alpha=0.5)\nax2.imshow(post_mask.T, alpha=0.5)\nplt.tight_layout()",
+        "detail": ".history.Syn_props_20250223160938",
+        "documentation": {}
+    },
+    {
+        "label": "path_",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223160939",
+        "description": ".history.Syn_props_20250223160939",
+        "peekOfCode": "path_ = '../data/synpase_raw_em/'\nsynapses = pd.read_csv(f'{path_}synapse_data.csv', index_col=0)\nprint(len(synapses))\nsynapses.head()\nsyn_id = synapses.iloc[0].syn_id\nimg = np.load(f'{path_}{syn_id}_syn.npy')\npre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\npost_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\nsize_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)",
+        "detail": ".history.Syn_props_20250223160939",
+        "documentation": {}
+    },
+    {
+        "label": "synapses",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223160939",
+        "description": ".history.Syn_props_20250223160939",
+        "peekOfCode": "synapses = pd.read_csv(f'{path_}synapse_data.csv', index_col=0)\nprint(len(synapses))\nsynapses.head()\nsyn_id = synapses.iloc[0].syn_id\nimg = np.load(f'{path_}{syn_id}_syn.npy')\npre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\npost_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\nsize_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)",
+        "detail": ".history.Syn_props_20250223160939",
+        "documentation": {}
+    },
+    {
+        "label": "syn_id",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223160939",
+        "description": ".history.Syn_props_20250223160939",
+        "peekOfCode": "syn_id = synapses.iloc[0].syn_id\nimg = np.load(f'{path_}{syn_id}_syn.npy')\npre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\npost_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\nsize_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask) ",
+        "detail": ".history.Syn_props_20250223160939",
+        "documentation": {}
+    },
+    {
+        "label": "img",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223160939",
+        "description": ".history.Syn_props_20250223160939",
+        "peekOfCode": "img = np.load(f'{path_}{syn_id}_syn.npy')\npre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\npost_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\nsize_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask) \nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(6, 6))",
+        "detail": ".history.Syn_props_20250223160939",
+        "documentation": {}
+    },
+    {
+        "label": "pre_mask",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223160939",
+        "description": ".history.Syn_props_20250223160939",
+        "peekOfCode": "pre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\npost_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\nsize_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask) \nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(6, 6))\nax1.imshow(img.T, cmap='gray')",
+        "detail": ".history.Syn_props_20250223160939",
+        "documentation": {}
+    },
+    {
+        "label": "post_mask",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223160939",
+        "description": ".history.Syn_props_20250223160939",
+        "peekOfCode": "post_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\nsize_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask) \nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(6, 6))\nax1.imshow(img.T, cmap='gray')\nax2.imshow(img.T, cmap='gray')",
+        "detail": ".history.Syn_props_20250223160939",
+        "documentation": {}
+    },
+    {
+        "label": "size_metrics",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223160939",
+        "description": ".history.Syn_props_20250223160939",
+        "peekOfCode": "size_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask) \nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(6, 6))\nax1.imshow(img.T, cmap='gray')\nax2.imshow(img.T, cmap='gray')\nax2.imshow(pre_mask.T, alpha=0.5)",
+        "detail": ".history.Syn_props_20250223160939",
+        "documentation": {}
+    },
+    {
+        "label": "shape_metrics",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223160939",
+        "description": ".history.Syn_props_20250223160939",
+        "peekOfCode": "shape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask) \nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(6, 6))\nax1.imshow(img.T, cmap='gray')\nax2.imshow(img.T, cmap='gray')\nax2.imshow(pre_mask.T, alpha=0.5)\nax2.imshow(post_mask.T, alpha=0.5)",
+        "detail": ".history.Syn_props_20250223160939",
+        "documentation": {}
+    },
+    {
+        "label": "intensity_metrics",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223160939",
+        "description": ".history.Syn_props_20250223160939",
+        "peekOfCode": "intensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask) \nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(6, 6))\nax1.imshow(img.T, cmap='gray')\nax2.imshow(img.T, cmap='gray')\nax2.imshow(pre_mask.T, alpha=0.5)\nax2.imshow(post_mask.T, alpha=0.5)\nplt.tight_layout()",
+        "detail": ".history.Syn_props_20250223160939",
+        "documentation": {}
+    },
+    {
+        "label": "distance",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223160939",
+        "description": ".history.Syn_props_20250223160939",
+        "peekOfCode": "distance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask) \nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(6, 6))\nax1.imshow(img.T, cmap='gray')\nax2.imshow(img.T, cmap='gray')\nax2.imshow(pre_mask.T, alpha=0.5)\nax2.imshow(post_mask.T, alpha=0.5)\nplt.tight_layout()",
+        "detail": ".history.Syn_props_20250223160939",
+        "documentation": {}
+    },
+    {
+        "label": "coloc_metrics",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223160939",
+        "description": ".history.Syn_props_20250223160939",
+        "peekOfCode": "coloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask) \nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(6, 6))\nax1.imshow(img.T, cmap='gray')\nax2.imshow(img.T, cmap='gray')\nax2.imshow(pre_mask.T, alpha=0.5)\nax2.imshow(post_mask.T, alpha=0.5)\nplt.tight_layout()",
+        "detail": ".history.Syn_props_20250223160939",
+        "documentation": {}
+    },
+    {
+        "label": "morphology_metrics",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223160939",
+        "description": ".history.Syn_props_20250223160939",
+        "peekOfCode": "morphology_metrics = synapse_morphology(pre_mask, post_mask) \nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(6, 6))\nax1.imshow(img.T, cmap='gray')\nax2.imshow(img.T, cmap='gray')\nax2.imshow(pre_mask.T, alpha=0.5)\nax2.imshow(post_mask.T, alpha=0.5)\nplt.tight_layout()",
+        "detail": ".history.Syn_props_20250223160939",
+        "documentation": {}
+    },
+    {
+        "label": "path_",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223160947",
+        "description": ".history.Syn_props_20250223160947",
+        "peekOfCode": "path_ = '../data/synpase_raw_em/'\nsynapses = pd.read_csv(f'{path_}synapse_data.csv', index_col=0)\nprint(len(synapses))\nsynapses.head()\nsyn_id = synapses.iloc[0].syn_id\nimg = np.load(f'{path_}{syn_id}_syn.npy')\npre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\npost_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\nsize_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)",
+        "detail": ".history.Syn_props_20250223160947",
+        "documentation": {}
+    },
+    {
+        "label": "synapses",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223160947",
+        "description": ".history.Syn_props_20250223160947",
+        "peekOfCode": "synapses = pd.read_csv(f'{path_}synapse_data.csv', index_col=0)\nprint(len(synapses))\nsynapses.head()\nsyn_id = synapses.iloc[0].syn_id\nimg = np.load(f'{path_}{syn_id}_syn.npy')\npre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\npost_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\nsize_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)",
+        "detail": ".history.Syn_props_20250223160947",
+        "documentation": {}
+    },
+    {
+        "label": "syn_id",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223160947",
+        "description": ".history.Syn_props_20250223160947",
+        "peekOfCode": "syn_id = synapses.iloc[0].syn_id\nimg = np.load(f'{path_}{syn_id}_syn.npy')\npre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\npost_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\nsize_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask) ",
+        "detail": ".history.Syn_props_20250223160947",
+        "documentation": {}
+    },
+    {
+        "label": "img",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223160947",
+        "description": ".history.Syn_props_20250223160947",
+        "peekOfCode": "img = np.load(f'{path_}{syn_id}_syn.npy')\npre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\npost_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\nsize_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask) \nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(6, 6))",
+        "detail": ".history.Syn_props_20250223160947",
+        "documentation": {}
+    },
+    {
+        "label": "pre_mask",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223160947",
+        "description": ".history.Syn_props_20250223160947",
+        "peekOfCode": "pre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\npost_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\nsize_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask) \nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(6, 6))\nax1.imshow(img.T, cmap='gray')",
+        "detail": ".history.Syn_props_20250223160947",
+        "documentation": {}
+    },
+    {
+        "label": "post_mask",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223160947",
+        "description": ".history.Syn_props_20250223160947",
+        "peekOfCode": "post_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\nsize_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask) \nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(6, 6))\nax1.imshow(img.T, cmap='gray')\nax2.imshow(img.T, cmap='gray')",
+        "detail": ".history.Syn_props_20250223160947",
+        "documentation": {}
+    },
+    {
+        "label": "size_metrics",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223160947",
+        "description": ".history.Syn_props_20250223160947",
+        "peekOfCode": "size_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask) \nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(6, 6))\nax1.imshow(img.T, cmap='gray')\nax2.imshow(img.T, cmap='gray')\nax2.imshow(pre_mask.T, alpha=0.5)",
+        "detail": ".history.Syn_props_20250223160947",
+        "documentation": {}
+    },
+    {
+        "label": "shape_metrics",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223160947",
+        "description": ".history.Syn_props_20250223160947",
+        "peekOfCode": "shape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask) \nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(6, 6))\nax1.imshow(img.T, cmap='gray')\nax2.imshow(img.T, cmap='gray')\nax2.imshow(pre_mask.T, alpha=0.5)\nax2.imshow(post_mask.T, alpha=0.5)",
+        "detail": ".history.Syn_props_20250223160947",
+        "documentation": {}
+    },
+    {
+        "label": "intensity_metrics",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223160947",
+        "description": ".history.Syn_props_20250223160947",
+        "peekOfCode": "intensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask) \nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(6, 6))\nax1.imshow(img.T, cmap='gray')\nax2.imshow(img.T, cmap='gray')\nax2.imshow(pre_mask.T, alpha=0.5)\nax2.imshow(post_mask.T, alpha=0.5)\nplt.tight_layout()",
+        "detail": ".history.Syn_props_20250223160947",
+        "documentation": {}
+    },
+    {
+        "label": "distance",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223160947",
+        "description": ".history.Syn_props_20250223160947",
+        "peekOfCode": "distance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask) \nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(6, 6))\nax1.imshow(img.T, cmap='gray')\nax2.imshow(img.T, cmap='gray')\nax2.imshow(pre_mask.T, alpha=0.5)\nax2.imshow(post_mask.T, alpha=0.5)\nplt.tight_layout()",
+        "detail": ".history.Syn_props_20250223160947",
+        "documentation": {}
+    },
+    {
+        "label": "coloc_metrics",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223160947",
+        "description": ".history.Syn_props_20250223160947",
+        "peekOfCode": "coloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask) \nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(6, 6))\nax1.imshow(img.T, cmap='gray')\nax2.imshow(img.T, cmap='gray')\nax2.imshow(pre_mask.T, alpha=0.5)\nax2.imshow(post_mask.T, alpha=0.5)\nplt.tight_layout()",
+        "detail": ".history.Syn_props_20250223160947",
+        "documentation": {}
+    },
+    {
+        "label": "morphology_metrics",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223160947",
+        "description": ".history.Syn_props_20250223160947",
+        "peekOfCode": "morphology_metrics = synapse_morphology(pre_mask, post_mask) \nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(6, 6))\nax1.imshow(img.T, cmap='gray')\nax2.imshow(img.T, cmap='gray')\nax2.imshow(pre_mask.T, alpha=0.5)\nax2.imshow(post_mask.T, alpha=0.5)\nplt.tight_layout()",
+        "detail": ".history.Syn_props_20250223160947",
+        "documentation": {}
+    },
+    {
+        "label": "path_",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223160949",
+        "description": ".history.Syn_props_20250223160949",
+        "peekOfCode": "path_ = '../data/synpase_raw_em/'\nsynapses = pd.read_csv(f'{path_}synapse_data.csv', index_col=0)\nprint(len(synapses))\nsynapses.head()\nsyn_id = synapses.iloc[0].syn_id\nimg = np.load(f'{path_}{syn_id}_syn.npy')\npre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\npost_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\nsize_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)",
+        "detail": ".history.Syn_props_20250223160949",
+        "documentation": {}
+    },
+    {
+        "label": "synapses",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223160949",
+        "description": ".history.Syn_props_20250223160949",
+        "peekOfCode": "synapses = pd.read_csv(f'{path_}synapse_data.csv', index_col=0)\nprint(len(synapses))\nsynapses.head()\nsyn_id = synapses.iloc[0].syn_id\nimg = np.load(f'{path_}{syn_id}_syn.npy')\npre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\npost_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\nsize_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)",
+        "detail": ".history.Syn_props_20250223160949",
+        "documentation": {}
+    },
+    {
+        "label": "syn_id",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223160949",
+        "description": ".history.Syn_props_20250223160949",
+        "peekOfCode": "syn_id = synapses.iloc[0].syn_id\nimg = np.load(f'{path_}{syn_id}_syn.npy')\npre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\npost_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\nsize_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask) ",
+        "detail": ".history.Syn_props_20250223160949",
+        "documentation": {}
+    },
+    {
+        "label": "img",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223160949",
+        "description": ".history.Syn_props_20250223160949",
+        "peekOfCode": "img = np.load(f'{path_}{syn_id}_syn.npy')\npre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\npost_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\nsize_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask) \nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(6, 6))",
+        "detail": ".history.Syn_props_20250223160949",
+        "documentation": {}
+    },
+    {
+        "label": "pre_mask",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223160949",
+        "description": ".history.Syn_props_20250223160949",
+        "peekOfCode": "pre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\npost_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\nsize_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask) \nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(6, 6))\nax1.imshow(img.T, cmap='gray')",
+        "detail": ".history.Syn_props_20250223160949",
+        "documentation": {}
+    },
+    {
+        "label": "post_mask",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223160949",
+        "description": ".history.Syn_props_20250223160949",
+        "peekOfCode": "post_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\nsize_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask) \nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(6, 6))\nax1.imshow(img.T, cmap='gray')\nax2.imshow(img.T, cmap='gray')",
+        "detail": ".history.Syn_props_20250223160949",
+        "documentation": {}
+    },
+    {
+        "label": "size_metrics",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223160949",
+        "description": ".history.Syn_props_20250223160949",
+        "peekOfCode": "size_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask) \nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(6, 6))\nax1.imshow(img.T, cmap='gray')\nax2.imshow(img.T, cmap='gray')\nax2.imshow(pre_mask.T, alpha=0.5)",
+        "detail": ".history.Syn_props_20250223160949",
+        "documentation": {}
+    },
+    {
+        "label": "shape_metrics",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223160949",
+        "description": ".history.Syn_props_20250223160949",
+        "peekOfCode": "shape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask) \nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(6, 6))\nax1.imshow(img.T, cmap='gray')\nax2.imshow(img.T, cmap='gray')\nax2.imshow(pre_mask.T, alpha=0.5)\nax2.imshow(post_mask.T, alpha=0.5)",
+        "detail": ".history.Syn_props_20250223160949",
+        "documentation": {}
+    },
+    {
+        "label": "intensity_metrics",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223160949",
+        "description": ".history.Syn_props_20250223160949",
+        "peekOfCode": "intensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask) \nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(6, 6))\nax1.imshow(img.T, cmap='gray')\nax2.imshow(img.T, cmap='gray')\nax2.imshow(pre_mask.T, alpha=0.5)\nax2.imshow(post_mask.T, alpha=0.5)\nplt.tight_layout()",
+        "detail": ".history.Syn_props_20250223160949",
+        "documentation": {}
+    },
+    {
+        "label": "distance",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223160949",
+        "description": ".history.Syn_props_20250223160949",
+        "peekOfCode": "distance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask) \nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(6, 6))\nax1.imshow(img.T, cmap='gray')\nax2.imshow(img.T, cmap='gray')\nax2.imshow(pre_mask.T, alpha=0.5)\nax2.imshow(post_mask.T, alpha=0.5)\nplt.tight_layout()",
+        "detail": ".history.Syn_props_20250223160949",
+        "documentation": {}
+    },
+    {
+        "label": "coloc_metrics",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223160949",
+        "description": ".history.Syn_props_20250223160949",
+        "peekOfCode": "coloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask) \nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(6, 6))\nax1.imshow(img.T, cmap='gray')\nax2.imshow(img.T, cmap='gray')\nax2.imshow(pre_mask.T, alpha=0.5)\nax2.imshow(post_mask.T, alpha=0.5)\nplt.tight_layout()",
+        "detail": ".history.Syn_props_20250223160949",
+        "documentation": {}
+    },
+    {
+        "label": "morphology_metrics",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223160949",
+        "description": ".history.Syn_props_20250223160949",
+        "peekOfCode": "morphology_metrics = synapse_morphology(pre_mask, post_mask) \nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(6, 6))\nax1.imshow(img.T, cmap='gray')\nax2.imshow(img.T, cmap='gray')\nax2.imshow(pre_mask.T, alpha=0.5)\nax2.imshow(post_mask.T, alpha=0.5)\nplt.tight_layout()",
+        "detail": ".history.Syn_props_20250223160949",
+        "documentation": {}
+    },
+    {
+        "label": "path_",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223162000",
+        "description": ".history.Syn_props_20250223162000",
+        "peekOfCode": "path_ = data/synpase_raw_em/'\nsynapses = pd.read_csv(f'{path_}synapse_data.csv', index_col=0)\nprint(len(synapses))\nsynapses.head()\nsyn_id = synapses.iloc[0].syn_id\nimg = np.load(f'{path_}{syn_id}_syn.npy')\npre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\npost_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\nsize_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)",
+        "detail": ".history.Syn_props_20250223162000",
+        "documentation": {}
+    },
+    {
+        "label": "synapses",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223162000",
+        "description": ".history.Syn_props_20250223162000",
+        "peekOfCode": "synapses = pd.read_csv(f'{path_}synapse_data.csv', index_col=0)\nprint(len(synapses))\nsynapses.head()\nsyn_id = synapses.iloc[0].syn_id\nimg = np.load(f'{path_}{syn_id}_syn.npy')\npre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\npost_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\nsize_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)",
+        "detail": ".history.Syn_props_20250223162000",
+        "documentation": {}
+    },
+    {
+        "label": "syn_id",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223162000",
+        "description": ".history.Syn_props_20250223162000",
+        "peekOfCode": "syn_id = synapses.iloc[0].syn_id\nimg = np.load(f'{path_}{syn_id}_syn.npy')\npre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\npost_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\nsize_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask) ",
+        "detail": ".history.Syn_props_20250223162000",
+        "documentation": {}
+    },
+    {
+        "label": "img",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223162000",
+        "description": ".history.Syn_props_20250223162000",
+        "peekOfCode": "img = np.load(f'{path_}{syn_id}_syn.npy')\npre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\npost_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\nsize_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask) \nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(6, 6))",
+        "detail": ".history.Syn_props_20250223162000",
+        "documentation": {}
+    },
+    {
+        "label": "pre_mask",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223162000",
+        "description": ".history.Syn_props_20250223162000",
+        "peekOfCode": "pre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\npost_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\nsize_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask) \nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(6, 6))\nax1.imshow(img.T, cmap='gray')",
+        "detail": ".history.Syn_props_20250223162000",
+        "documentation": {}
+    },
+    {
+        "label": "post_mask",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223162000",
+        "description": ".history.Syn_props_20250223162000",
+        "peekOfCode": "post_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\nsize_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask) \nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(6, 6))\nax1.imshow(img.T, cmap='gray')\nax2.imshow(img.T, cmap='gray')",
+        "detail": ".history.Syn_props_20250223162000",
+        "documentation": {}
+    },
+    {
+        "label": "size_metrics",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223162000",
+        "description": ".history.Syn_props_20250223162000",
+        "peekOfCode": "size_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask) \nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(6, 6))\nax1.imshow(img.T, cmap='gray')\nax2.imshow(img.T, cmap='gray')\nax2.imshow(pre_mask.T, alpha=0.5)",
+        "detail": ".history.Syn_props_20250223162000",
+        "documentation": {}
+    },
+    {
+        "label": "shape_metrics",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223162000",
+        "description": ".history.Syn_props_20250223162000",
+        "peekOfCode": "shape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask) \nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(6, 6))\nax1.imshow(img.T, cmap='gray')\nax2.imshow(img.T, cmap='gray')\nax2.imshow(pre_mask.T, alpha=0.5)\nax2.imshow(post_mask.T, alpha=0.5)",
+        "detail": ".history.Syn_props_20250223162000",
+        "documentation": {}
+    },
+    {
+        "label": "intensity_metrics",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223162000",
+        "description": ".history.Syn_props_20250223162000",
+        "peekOfCode": "intensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask) \nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(6, 6))\nax1.imshow(img.T, cmap='gray')\nax2.imshow(img.T, cmap='gray')\nax2.imshow(pre_mask.T, alpha=0.5)\nax2.imshow(post_mask.T, alpha=0.5)\nplt.tight_layout()",
+        "detail": ".history.Syn_props_20250223162000",
+        "documentation": {}
+    },
+    {
+        "label": "distance",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223162000",
+        "description": ".history.Syn_props_20250223162000",
+        "peekOfCode": "distance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask) \nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(6, 6))\nax1.imshow(img.T, cmap='gray')\nax2.imshow(img.T, cmap='gray')\nax2.imshow(pre_mask.T, alpha=0.5)\nax2.imshow(post_mask.T, alpha=0.5)\nplt.tight_layout()",
+        "detail": ".history.Syn_props_20250223162000",
+        "documentation": {}
+    },
+    {
+        "label": "coloc_metrics",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223162000",
+        "description": ".history.Syn_props_20250223162000",
+        "peekOfCode": "coloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask) \nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(6, 6))\nax1.imshow(img.T, cmap='gray')\nax2.imshow(img.T, cmap='gray')\nax2.imshow(pre_mask.T, alpha=0.5)\nax2.imshow(post_mask.T, alpha=0.5)\nplt.tight_layout()",
+        "detail": ".history.Syn_props_20250223162000",
+        "documentation": {}
+    },
+    {
+        "label": "morphology_metrics",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223162000",
+        "description": ".history.Syn_props_20250223162000",
+        "peekOfCode": "morphology_metrics = synapse_morphology(pre_mask, post_mask) \nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(6, 6))\nax1.imshow(img.T, cmap='gray')\nax2.imshow(img.T, cmap='gray')\nax2.imshow(pre_mask.T, alpha=0.5)\nax2.imshow(post_mask.T, alpha=0.5)\nplt.tight_layout()",
+        "detail": ".history.Syn_props_20250223162000",
+        "documentation": {}
+    },
+    {
+        "label": "path_",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223162001",
+        "description": ".history.Syn_props_20250223162001",
+        "peekOfCode": "path_ = data/synpase_raw_em/'\nsynapses = pd.read_csv(f'{path_}synapse_data.csv', index_col=0)\nprint(len(synapses))\nsynapses.head()\nsyn_id = synapses.iloc[0].syn_id\nimg = np.load(f'{path_}{syn_id}_syn.npy')\npre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\npost_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\nsize_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)",
+        "detail": ".history.Syn_props_20250223162001",
+        "documentation": {}
+    },
+    {
+        "label": "synapses",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223162001",
+        "description": ".history.Syn_props_20250223162001",
+        "peekOfCode": "synapses = pd.read_csv(f'{path_}synapse_data.csv', index_col=0)\nprint(len(synapses))\nsynapses.head()\nsyn_id = synapses.iloc[0].syn_id\nimg = np.load(f'{path_}{syn_id}_syn.npy')\npre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\npost_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\nsize_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)",
+        "detail": ".history.Syn_props_20250223162001",
+        "documentation": {}
+    },
+    {
+        "label": "syn_id",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223162001",
+        "description": ".history.Syn_props_20250223162001",
+        "peekOfCode": "syn_id = synapses.iloc[0].syn_id\nimg = np.load(f'{path_}{syn_id}_syn.npy')\npre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\npost_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\nsize_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask) ",
+        "detail": ".history.Syn_props_20250223162001",
+        "documentation": {}
+    },
+    {
+        "label": "img",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223162001",
+        "description": ".history.Syn_props_20250223162001",
+        "peekOfCode": "img = np.load(f'{path_}{syn_id}_syn.npy')\npre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\npost_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\nsize_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask) \nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(6, 6))",
+        "detail": ".history.Syn_props_20250223162001",
+        "documentation": {}
+    },
+    {
+        "label": "pre_mask",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223162001",
+        "description": ".history.Syn_props_20250223162001",
+        "peekOfCode": "pre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\npost_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\nsize_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask) \nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(6, 6))\nax1.imshow(img.T, cmap='gray')",
+        "detail": ".history.Syn_props_20250223162001",
+        "documentation": {}
+    },
+    {
+        "label": "post_mask",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223162001",
+        "description": ".history.Syn_props_20250223162001",
+        "peekOfCode": "post_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\nsize_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask) \nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(6, 6))\nax1.imshow(img.T, cmap='gray')\nax2.imshow(img.T, cmap='gray')",
+        "detail": ".history.Syn_props_20250223162001",
+        "documentation": {}
+    },
+    {
+        "label": "size_metrics",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223162001",
+        "description": ".history.Syn_props_20250223162001",
+        "peekOfCode": "size_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask) \nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(6, 6))\nax1.imshow(img.T, cmap='gray')\nax2.imshow(img.T, cmap='gray')\nax2.imshow(pre_mask.T, alpha=0.5)",
+        "detail": ".history.Syn_props_20250223162001",
+        "documentation": {}
+    },
+    {
+        "label": "shape_metrics",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223162001",
+        "description": ".history.Syn_props_20250223162001",
+        "peekOfCode": "shape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask) \nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(6, 6))\nax1.imshow(img.T, cmap='gray')\nax2.imshow(img.T, cmap='gray')\nax2.imshow(pre_mask.T, alpha=0.5)\nax2.imshow(post_mask.T, alpha=0.5)",
+        "detail": ".history.Syn_props_20250223162001",
+        "documentation": {}
+    },
+    {
+        "label": "intensity_metrics",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223162001",
+        "description": ".history.Syn_props_20250223162001",
+        "peekOfCode": "intensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask) \nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(6, 6))\nax1.imshow(img.T, cmap='gray')\nax2.imshow(img.T, cmap='gray')\nax2.imshow(pre_mask.T, alpha=0.5)\nax2.imshow(post_mask.T, alpha=0.5)\nplt.tight_layout()",
+        "detail": ".history.Syn_props_20250223162001",
+        "documentation": {}
+    },
+    {
+        "label": "distance",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223162001",
+        "description": ".history.Syn_props_20250223162001",
+        "peekOfCode": "distance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask) \nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(6, 6))\nax1.imshow(img.T, cmap='gray')\nax2.imshow(img.T, cmap='gray')\nax2.imshow(pre_mask.T, alpha=0.5)\nax2.imshow(post_mask.T, alpha=0.5)\nplt.tight_layout()",
+        "detail": ".history.Syn_props_20250223162001",
+        "documentation": {}
+    },
+    {
+        "label": "coloc_metrics",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223162001",
+        "description": ".history.Syn_props_20250223162001",
+        "peekOfCode": "coloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask) \nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(6, 6))\nax1.imshow(img.T, cmap='gray')\nax2.imshow(img.T, cmap='gray')\nax2.imshow(pre_mask.T, alpha=0.5)\nax2.imshow(post_mask.T, alpha=0.5)\nplt.tight_layout()",
+        "detail": ".history.Syn_props_20250223162001",
+        "documentation": {}
+    },
+    {
+        "label": "morphology_metrics",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223162001",
+        "description": ".history.Syn_props_20250223162001",
+        "peekOfCode": "morphology_metrics = synapse_morphology(pre_mask, post_mask) \nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(6, 6))\nax1.imshow(img.T, cmap='gray')\nax2.imshow(img.T, cmap='gray')\nax2.imshow(pre_mask.T, alpha=0.5)\nax2.imshow(post_mask.T, alpha=0.5)\nplt.tight_layout()",
+        "detail": ".history.Syn_props_20250223162001",
+        "documentation": {}
+    },
+    {
+        "label": "path_",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223162020",
+        "description": ".history.Syn_props_20250223162020",
+        "peekOfCode": "path_ = 'data/synpase_raw_em/'\nsynapses = pd.read_csv(f'{path_}synapse_data.csv', index_col=0)\nprint(len(synapses))\nsynapses.head()\nsyn_id = synapses.iloc[0].syn_id\nimg = np.load(f'{path_}{syn_id}_syn.npy')\npre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\npost_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\nsize_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)",
+        "detail": ".history.Syn_props_20250223162020",
+        "documentation": {}
+    },
+    {
+        "label": "synapses",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223162020",
+        "description": ".history.Syn_props_20250223162020",
+        "peekOfCode": "synapses = pd.read_csv(f'{path_}synapse_data.csv', index_col=0)\nprint(len(synapses))\nsynapses.head()\nsyn_id = synapses.iloc[0].syn_id\nimg = np.load(f'{path_}{syn_id}_syn.npy')\npre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\npost_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\nsize_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)",
+        "detail": ".history.Syn_props_20250223162020",
+        "documentation": {}
+    },
+    {
+        "label": "syn_id",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223162020",
+        "description": ".history.Syn_props_20250223162020",
+        "peekOfCode": "syn_id = synapses.iloc[0].syn_id\nimg = np.load(f'{path_}{syn_id}_syn.npy')\npre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\npost_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\nsize_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask) ",
+        "detail": ".history.Syn_props_20250223162020",
+        "documentation": {}
+    },
+    {
+        "label": "img",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223162020",
+        "description": ".history.Syn_props_20250223162020",
+        "peekOfCode": "img = np.load(f'{path_}{syn_id}_syn.npy')\npre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\npost_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\nsize_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask) \nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(6, 6))",
+        "detail": ".history.Syn_props_20250223162020",
+        "documentation": {}
+    },
+    {
+        "label": "pre_mask",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223162020",
+        "description": ".history.Syn_props_20250223162020",
+        "peekOfCode": "pre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\npost_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\nsize_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask) \nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(6, 6))\nax1.imshow(img.T, cmap='gray')",
+        "detail": ".history.Syn_props_20250223162020",
+        "documentation": {}
+    },
+    {
+        "label": "post_mask",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223162020",
+        "description": ".history.Syn_props_20250223162020",
+        "peekOfCode": "post_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\nsize_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask) \nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(6, 6))\nax1.imshow(img.T, cmap='gray')\nax2.imshow(img.T, cmap='gray')",
+        "detail": ".history.Syn_props_20250223162020",
+        "documentation": {}
+    },
+    {
+        "label": "size_metrics",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223162020",
+        "description": ".history.Syn_props_20250223162020",
+        "peekOfCode": "size_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask) \nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(6, 6))\nax1.imshow(img.T, cmap='gray')\nax2.imshow(img.T, cmap='gray')\nax2.imshow(pre_mask.T, alpha=0.5)",
+        "detail": ".history.Syn_props_20250223162020",
+        "documentation": {}
+    },
+    {
+        "label": "shape_metrics",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223162020",
+        "description": ".history.Syn_props_20250223162020",
+        "peekOfCode": "shape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask) \nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(6, 6))\nax1.imshow(img.T, cmap='gray')\nax2.imshow(img.T, cmap='gray')\nax2.imshow(pre_mask.T, alpha=0.5)\nax2.imshow(post_mask.T, alpha=0.5)",
+        "detail": ".history.Syn_props_20250223162020",
+        "documentation": {}
+    },
+    {
+        "label": "intensity_metrics",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223162020",
+        "description": ".history.Syn_props_20250223162020",
+        "peekOfCode": "intensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask) \nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(6, 6))\nax1.imshow(img.T, cmap='gray')\nax2.imshow(img.T, cmap='gray')\nax2.imshow(pre_mask.T, alpha=0.5)\nax2.imshow(post_mask.T, alpha=0.5)\nplt.tight_layout()",
+        "detail": ".history.Syn_props_20250223162020",
+        "documentation": {}
+    },
+    {
+        "label": "distance",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223162020",
+        "description": ".history.Syn_props_20250223162020",
+        "peekOfCode": "distance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask) \nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(6, 6))\nax1.imshow(img.T, cmap='gray')\nax2.imshow(img.T, cmap='gray')\nax2.imshow(pre_mask.T, alpha=0.5)\nax2.imshow(post_mask.T, alpha=0.5)\nplt.tight_layout()",
+        "detail": ".history.Syn_props_20250223162020",
+        "documentation": {}
+    },
+    {
+        "label": "coloc_metrics",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223162020",
+        "description": ".history.Syn_props_20250223162020",
+        "peekOfCode": "coloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask) \nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(6, 6))\nax1.imshow(img.T, cmap='gray')\nax2.imshow(img.T, cmap='gray')\nax2.imshow(pre_mask.T, alpha=0.5)\nax2.imshow(post_mask.T, alpha=0.5)\nplt.tight_layout()",
+        "detail": ".history.Syn_props_20250223162020",
+        "documentation": {}
+    },
+    {
+        "label": "morphology_metrics",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223162020",
+        "description": ".history.Syn_props_20250223162020",
+        "peekOfCode": "morphology_metrics = synapse_morphology(pre_mask, post_mask) \nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(6, 6))\nax1.imshow(img.T, cmap='gray')\nax2.imshow(img.T, cmap='gray')\nax2.imshow(pre_mask.T, alpha=0.5)\nax2.imshow(post_mask.T, alpha=0.5)\nplt.tight_layout()",
+        "detail": ".history.Syn_props_20250223162020",
+        "documentation": {}
+    },
+    {
+        "label": "path_",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223162426",
+        "description": ".history.Syn_props_20250223162426",
+        "peekOfCode": "path_ = 'data/synpase_raw_em/'\nsynapses = pd.read_csv(f'{path_}synapse_data.csv', index_col=0)\nprint(len(synapses))\nsynapses.head()\nsyn_id = synapses.iloc[0].syn_id\nimg = np.load(f'{path_}{syn_id}_syn.npy')\npre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\npost_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\n# Calculate metrics for a single synapse\nsize_metrics = synapse_size(pre_mask, post_mask)",
+        "detail": ".history.Syn_props_20250223162426",
+        "documentation": {}
+    },
+    {
+        "label": "synapses",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223162426",
+        "description": ".history.Syn_props_20250223162426",
+        "peekOfCode": "synapses = pd.read_csv(f'{path_}synapse_data.csv', index_col=0)\nprint(len(synapses))\nsynapses.head()\nsyn_id = synapses.iloc[0].syn_id\nimg = np.load(f'{path_}{syn_id}_syn.npy')\npre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\npost_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\n# Calculate metrics for a single synapse\nsize_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)",
+        "detail": ".history.Syn_props_20250223162426",
+        "documentation": {}
+    },
+    {
+        "label": "syn_id",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223162426",
+        "description": ".history.Syn_props_20250223162426",
+        "peekOfCode": "syn_id = synapses.iloc[0].syn_id\nimg = np.load(f'{path_}{syn_id}_syn.npy')\npre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\npost_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\n# Calculate metrics for a single synapse\nsize_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)",
+        "detail": ".history.Syn_props_20250223162426",
+        "documentation": {}
+    },
+    {
+        "label": "img",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223162426",
+        "description": ".history.Syn_props_20250223162426",
+        "peekOfCode": "img = np.load(f'{path_}{syn_id}_syn.npy')\npre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\npost_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\n# Calculate metrics for a single synapse\nsize_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask)",
+        "detail": ".history.Syn_props_20250223162426",
+        "documentation": {}
+    },
+    {
+        "label": "pre_mask",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223162426",
+        "description": ".history.Syn_props_20250223162426",
+        "peekOfCode": "pre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\npost_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\n# Calculate metrics for a single synapse\nsize_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask)\n# Create a dictionary with the metrics",
+        "detail": ".history.Syn_props_20250223162426",
+        "documentation": {}
+    },
+    {
+        "label": "post_mask",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223162426",
+        "description": ".history.Syn_props_20250223162426",
+        "peekOfCode": "post_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\n# Calculate metrics for a single synapse\nsize_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask)\n# Create a dictionary with the metrics\nmetrics_dict = {",
+        "detail": ".history.Syn_props_20250223162426",
+        "documentation": {}
+    },
+    {
+        "label": "size_metrics",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223162426",
+        "description": ".history.Syn_props_20250223162426",
+        "peekOfCode": "size_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask)\n# Create a dictionary with the metrics\nmetrics_dict = {\n    'Synapse Area': size_metrics[0],\n    'Pre-synaptic Area': size_metrics[1],",
+        "detail": ".history.Syn_props_20250223162426",
+        "documentation": {}
+    },
+    {
+        "label": "shape_metrics",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223162426",
+        "description": ".history.Syn_props_20250223162426",
+        "peekOfCode": "shape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask)\n# Create a dictionary with the metrics\nmetrics_dict = {\n    'Synapse Area': size_metrics[0],\n    'Pre-synaptic Area': size_metrics[1],\n    'Post-synaptic Area': size_metrics[2],",
+        "detail": ".history.Syn_props_20250223162426",
+        "documentation": {}
+    },
+    {
+        "label": "intensity_metrics",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223162426",
+        "description": ".history.Syn_props_20250223162426",
+        "peekOfCode": "intensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask)\n# Create a dictionary with the metrics\nmetrics_dict = {\n    'Synapse Area': size_metrics[0],\n    'Pre-synaptic Area': size_metrics[1],\n    'Post-synaptic Area': size_metrics[2],\n    'Pre-Post Area Ratio': size_metrics[3],",
+        "detail": ".history.Syn_props_20250223162426",
+        "documentation": {}
+    },
+    {
+        "label": "distance",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223162426",
+        "description": ".history.Syn_props_20250223162426",
+        "peekOfCode": "distance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask)\n# Create a dictionary with the metrics\nmetrics_dict = {\n    'Synapse Area': size_metrics[0],\n    'Pre-synaptic Area': size_metrics[1],\n    'Post-synaptic Area': size_metrics[2],\n    'Pre-Post Area Ratio': size_metrics[3],\n    'Perimeter': shape_metrics[0],",
+        "detail": ".history.Syn_props_20250223162426",
+        "documentation": {}
+    },
+    {
+        "label": "coloc_metrics",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223162426",
+        "description": ".history.Syn_props_20250223162426",
+        "peekOfCode": "coloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask)\n# Create a dictionary with the metrics\nmetrics_dict = {\n    'Synapse Area': size_metrics[0],\n    'Pre-synaptic Area': size_metrics[1],\n    'Post-synaptic Area': size_metrics[2],\n    'Pre-Post Area Ratio': size_metrics[3],\n    'Perimeter': shape_metrics[0],\n    'Circularity': shape_metrics[1],",
+        "detail": ".history.Syn_props_20250223162426",
+        "documentation": {}
+    },
+    {
+        "label": "morphology_metrics",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223162426",
+        "description": ".history.Syn_props_20250223162426",
+        "peekOfCode": "morphology_metrics = synapse_morphology(pre_mask, post_mask)\n# Create a dictionary with the metrics\nmetrics_dict = {\n    'Synapse Area': size_metrics[0],\n    'Pre-synaptic Area': size_metrics[1],\n    'Post-synaptic Area': size_metrics[2],\n    'Pre-Post Area Ratio': size_metrics[3],\n    'Perimeter': shape_metrics[0],\n    'Circularity': shape_metrics[1],\n    'Mean Intensity': intensity_metrics[0],",
+        "detail": ".history.Syn_props_20250223162426",
+        "documentation": {}
+    },
+    {
+        "label": "metrics_dict",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223162426",
+        "description": ".history.Syn_props_20250223162426",
+        "peekOfCode": "metrics_dict = {\n    'Synapse Area': size_metrics[0],\n    'Pre-synaptic Area': size_metrics[1],\n    'Post-synaptic Area': size_metrics[2],\n    'Pre-Post Area Ratio': size_metrics[3],\n    'Perimeter': shape_metrics[0],\n    'Circularity': shape_metrics[1],\n    'Mean Intensity': intensity_metrics[0],\n    'Median Intensity': intensity_metrics[1],\n    'Std Intensity': intensity_metrics[2],",
+        "detail": ".history.Syn_props_20250223162426",
+        "documentation": {}
+    },
+    {
+        "label": "metrics_df",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223162426",
+        "description": ".history.Syn_props_20250223162426",
+        "peekOfCode": "metrics_df = pd.DataFrame.from_dict(metrics_dict, orient='index', columns=['Value'])\n# Pretty print the DataFrame\nprint(\"Synapse Metrics:\")\nprint(metrics_df.to_string(index=True, header=False, float_format=lambda x: f\"{x:.2f}\"))\nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(6, 6))\nax1.imshow(img.T, cmap='gray')\nax2.imshow(img.T, cmap='gray')\nax2.imshow(pre_mask.T, alpha=0.5)\nax2.imshow(post_mask.T, alpha=0.5)\nplt.tight_layout()",
+        "detail": ".history.Syn_props_20250223162426",
+        "documentation": {}
+    },
+    {
+        "label": "path_",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223162441",
+        "description": ".history.Syn_props_20250223162441",
+        "peekOfCode": "path_ = 'data/synpase_raw_em/'\nsynapses = pd.read_csv(f'{path_}synapse_data.csv', index_col=0)\nprint(len(synapses))\nsynapses.head()\nsyn_id = synapses.iloc[0].syn_id\nimg = np.load(f'{path_}{syn_id}_syn.npy')\npre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\npost_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\n# Calculate metrics for a single synapse\nsize_metrics = synapse_size(pre_mask, post_mask)",
+        "detail": ".history.Syn_props_20250223162441",
+        "documentation": {}
+    },
+    {
+        "label": "synapses",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223162441",
+        "description": ".history.Syn_props_20250223162441",
+        "peekOfCode": "synapses = pd.read_csv(f'{path_}synapse_data.csv', index_col=0)\nprint(len(synapses))\nsynapses.head()\nsyn_id = synapses.iloc[0].syn_id\nimg = np.load(f'{path_}{syn_id}_syn.npy')\npre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\npost_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\n# Calculate metrics for a single synapse\nsize_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)",
+        "detail": ".history.Syn_props_20250223162441",
+        "documentation": {}
+    },
+    {
+        "label": "syn_id",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223162441",
+        "description": ".history.Syn_props_20250223162441",
+        "peekOfCode": "syn_id = synapses.iloc[0].syn_id\nimg = np.load(f'{path_}{syn_id}_syn.npy')\npre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\npost_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\n# Calculate metrics for a single synapse\nsize_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)",
+        "detail": ".history.Syn_props_20250223162441",
+        "documentation": {}
+    },
+    {
+        "label": "img",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223162441",
+        "description": ".history.Syn_props_20250223162441",
+        "peekOfCode": "img = np.load(f'{path_}{syn_id}_syn.npy')\npre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\npost_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\n# Calculate metrics for a single synapse\nsize_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask)",
+        "detail": ".history.Syn_props_20250223162441",
+        "documentation": {}
+    },
+    {
+        "label": "pre_mask",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223162441",
+        "description": ".history.Syn_props_20250223162441",
+        "peekOfCode": "pre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\npost_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\n# Calculate metrics for a single synapse\nsize_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask)\n# Create a dictionary with the metrics",
+        "detail": ".history.Syn_props_20250223162441",
+        "documentation": {}
+    },
+    {
+        "label": "post_mask",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223162441",
+        "description": ".history.Syn_props_20250223162441",
+        "peekOfCode": "post_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\n# Calculate metrics for a single synapse\nsize_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask)\n# Create a dictionary with the metrics\nmetrics_dict = {",
+        "detail": ".history.Syn_props_20250223162441",
+        "documentation": {}
+    },
+    {
+        "label": "size_metrics",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223162441",
+        "description": ".history.Syn_props_20250223162441",
+        "peekOfCode": "size_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask)\n# Create a dictionary with the metrics\nmetrics_dict = {\n    'Synapse Area': size_metrics[0],\n    'Pre-synaptic Area': size_metrics[1],",
+        "detail": ".history.Syn_props_20250223162441",
+        "documentation": {}
+    },
+    {
+        "label": "shape_metrics",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223162441",
+        "description": ".history.Syn_props_20250223162441",
+        "peekOfCode": "shape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask)\n# Create a dictionary with the metrics\nmetrics_dict = {\n    'Synapse Area': size_metrics[0],\n    'Pre-synaptic Area': size_metrics[1],\n    'Post-synaptic Area': size_metrics[2],",
+        "detail": ".history.Syn_props_20250223162441",
+        "documentation": {}
+    },
+    {
+        "label": "intensity_metrics",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223162441",
+        "description": ".history.Syn_props_20250223162441",
+        "peekOfCode": "intensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask)\n# Create a dictionary with the metrics\nmetrics_dict = {\n    'Synapse Area': size_metrics[0],\n    'Pre-synaptic Area': size_metrics[1],\n    'Post-synaptic Area': size_metrics[2],\n    'Pre-Post Area Ratio': size_metrics[3],",
+        "detail": ".history.Syn_props_20250223162441",
+        "documentation": {}
+    },
+    {
+        "label": "distance",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223162441",
+        "description": ".history.Syn_props_20250223162441",
+        "peekOfCode": "distance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask)\n# Create a dictionary with the metrics\nmetrics_dict = {\n    'Synapse Area': size_metrics[0],\n    'Pre-synaptic Area': size_metrics[1],\n    'Post-synaptic Area': size_metrics[2],\n    'Pre-Post Area Ratio': size_metrics[3],\n    'Perimeter': shape_metrics[0],",
+        "detail": ".history.Syn_props_20250223162441",
+        "documentation": {}
+    },
+    {
+        "label": "coloc_metrics",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223162441",
+        "description": ".history.Syn_props_20250223162441",
+        "peekOfCode": "coloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask)\n# Create a dictionary with the metrics\nmetrics_dict = {\n    'Synapse Area': size_metrics[0],\n    'Pre-synaptic Area': size_metrics[1],\n    'Post-synaptic Area': size_metrics[2],\n    'Pre-Post Area Ratio': size_metrics[3],\n    'Perimeter': shape_metrics[0],\n    'Circularity': shape_metrics[1],",
+        "detail": ".history.Syn_props_20250223162441",
+        "documentation": {}
+    },
+    {
+        "label": "morphology_metrics",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223162441",
+        "description": ".history.Syn_props_20250223162441",
+        "peekOfCode": "morphology_metrics = synapse_morphology(pre_mask, post_mask)\n# Create a dictionary with the metrics\nmetrics_dict = {\n    'Synapse Area': size_metrics[0],\n    'Pre-synaptic Area': size_metrics[1],\n    'Post-synaptic Area': size_metrics[2],\n    'Pre-Post Area Ratio': size_metrics[3],\n    'Perimeter': shape_metrics[0],\n    'Circularity': shape_metrics[1],\n    'Mean Intensity': intensity_metrics[0],",
+        "detail": ".history.Syn_props_20250223162441",
+        "documentation": {}
+    },
+    {
+        "label": "metrics_dict",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223162441",
+        "description": ".history.Syn_props_20250223162441",
+        "peekOfCode": "metrics_dict = {\n    'Synapse Area': size_metrics[0],\n    'Pre-synaptic Area': size_metrics[1],\n    'Post-synaptic Area': size_metrics[2],\n    'Pre-Post Area Ratio': size_metrics[3],\n    'Perimeter': shape_metrics[0],\n    'Circularity': shape_metrics[1],\n    'Mean Intensity': intensity_metrics[0],\n    'Median Intensity': intensity_metrics[1],\n    'Std Intensity': intensity_metrics[2],",
+        "detail": ".history.Syn_props_20250223162441",
+        "documentation": {}
+    },
+    {
+        "label": "metrics_df",
+        "kind": 5,
+        "importPath": ".history.Syn_props_20250223162441",
+        "description": ".history.Syn_props_20250223162441",
+        "peekOfCode": "metrics_df = pd.DataFrame.from_dict(metrics_dict, orient='index', columns=['Value'])\n# Pretty print the DataFrame\nprint(\"Synapse Metrics:\")\nprint(metrics_df.to_string(index=True, header=False, float_format=lambda x: f\"{x:.2f}\"))\nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(6, 6))\nax1.imshow(img.T, cmap='gray')\nax2.imshow(img.T, cmap='gray')\nax2.imshow(pre_mask.T, alpha=0.5)\nax2.imshow(post_mask.T, alpha=0.5)\nplt.tight_layout()",
+        "detail": ".history.Syn_props_20250223162441",
+        "documentation": {}
+    },
+    {
         "label": "generate_points",
         "kind": 2,
         "importPath": "notebooks.randomsynapsetest",
@@ -2016,6 +3957,186 @@
         "description": "notebooks.randomsynapsetest",
         "peekOfCode": "def run_experiments():\n    \"\"\"Run all experiments and create visualization.\"\"\"\n    # Define base experiments (will be run with both stick lengths)\n    base_experiments = [\n        ('uniform', 100, 'Uniform'),\n        ('uniform', 1000, 'Uniform'),\n        ('two_bunches', 100, 'Two Bunches'),\n        ('two_bunches', 1000, 'Two Bunches'),\n        ('three_clusters', 100, 'Three Clusters'),\n        ('three_clusters', 1000, 'Three Clusters')",
         "detail": "notebooks.randomsynapsetest",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_size",
+        "kind": 2,
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "peekOfCode": "def synapse_size(pre_mask, post_mask):\n    \"\"\"Calculate synapse size metrics.\"\"\"\n    synapse_mask = pre_mask | post_mask\n    synapse_area = np.sum(synapse_mask)\n    pre_area = np.sum(pre_mask)\n    post_area = np.sum(post_mask)\n    pre_post_ratio = pre_area / post_area\n    return synapse_area, pre_area, post_area, pre_post_ratio\ndef synapse_shape(pre_mask, post_mask):\n    \"\"\"Calculate synapse shape metrics.\"\"\"",
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_shape",
+        "kind": 2,
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "peekOfCode": "def synapse_shape(pre_mask, post_mask):\n    \"\"\"Calculate synapse shape metrics.\"\"\"\n    synapse_mask = pre_mask | post_mask\n    perimeter = measure.perimeter(synapse_mask)\n    circularity = 4 * np.pi * np.sum(synapse_mask) / (perimeter ** 2)\n    return perimeter, circularity\ndef synapse_intensity(image, pre_mask, post_mask):\n    \"\"\"Calculate synapse intensity metrics.\"\"\"\n    synapse_mask = pre_mask | post_mask\n    synapse_intensities = image[synapse_mask]",
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_intensity",
+        "kind": 2,
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "peekOfCode": "def synapse_intensity(image, pre_mask, post_mask):\n    \"\"\"Calculate synapse intensity metrics.\"\"\"\n    synapse_mask = pre_mask | post_mask\n    synapse_intensities = image[synapse_mask]\n    mean_intensity = np.mean(synapse_intensities)\n    median_intensity = np.median(synapse_intensities)\n    std_intensity = np.std(synapse_intensities)\n    return mean_intensity, median_intensity, std_intensity\ndef synapse_distance(pre_mask, post_mask):\n    \"\"\"Calculate distance between pre- and post-synaptic regions.\"\"\"",
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_distance",
+        "kind": 2,
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "peekOfCode": "def synapse_distance(pre_mask, post_mask):\n    \"\"\"Calculate distance between pre- and post-synaptic regions.\"\"\"\n    pre_centroid = measure.centroid(pre_mask)\n    post_centroid = measure.centroid(post_mask)\n    distance = np.sqrt((pre_centroid[0] - post_centroid[0]) ** 2 +\n                       (pre_centroid[1] - post_centroid[1]) ** 2)\n    return distance\ndef synapse_colocalization(pre_mask, post_mask):\n    \"\"\"Calculate synapse co-localization metrics.\"\"\"\n    intersection = pre_mask & post_mask",
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_colocalization",
+        "kind": 2,
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "peekOfCode": "def synapse_colocalization(pre_mask, post_mask):\n    \"\"\"Calculate synapse co-localization metrics.\"\"\"\n    intersection = pre_mask & post_mask\n    union = pre_mask | post_mask\n    jaccard_index = np.sum(intersection) / np.sum(union)\n    pre_overlap = np.sum(intersection) / np.sum(pre_mask)\n    post_overlap = np.sum(intersection) / np.sum(post_mask)\n    return jaccard_index, pre_overlap, post_overlap\ndef synapse_morphology(pre_mask, post_mask):\n    \"\"\"Calculate synapse morphology metrics.\"\"\"",
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "synapse_morphology",
+        "kind": 2,
+        "importPath": "synapse_analysis",
+        "description": "synapse_analysis",
+        "peekOfCode": "def synapse_morphology(pre_mask, post_mask):\n    \"\"\"Calculate synapse morphology metrics.\"\"\"\n    synapse_mask = pre_mask | post_mask\n    labeled_synapse = measure.label(synapse_mask)\n    properties = measure.regionprops(labeled_synapse)\n    if properties:\n        major_axis_length = properties[0].major_axis_length\n        minor_axis_length = properties[0].minor_axis_length\n    else:\n        major_axis_length = 0",
+        "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "path_",
+        "kind": 5,
+        "importPath": "Syn_props_demo",
+        "description": "Syn_props_demo",
+        "peekOfCode": "path_ = 'data/synpase_raw_em/'\nsynapses = pd.read_csv(f'{path_}synapse_data.csv', index_col=0)\nprint(len(synapses))\nsynapses.head()\nsyn_id = synapses.iloc[0].syn_id\nimg = np.load(f'{path_}{syn_id}_syn.npy')\npre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\npost_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\n# Calculate metrics for a single synapse\nsize_metrics = synapse_size(pre_mask, post_mask)",
+        "detail": "Syn_props_demo",
+        "documentation": {}
+    },
+    {
+        "label": "synapses",
+        "kind": 5,
+        "importPath": "Syn_props_demo",
+        "description": "Syn_props_demo",
+        "peekOfCode": "synapses = pd.read_csv(f'{path_}synapse_data.csv', index_col=0)\nprint(len(synapses))\nsynapses.head()\nsyn_id = synapses.iloc[0].syn_id\nimg = np.load(f'{path_}{syn_id}_syn.npy')\npre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\npost_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\n# Calculate metrics for a single synapse\nsize_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)",
+        "detail": "Syn_props_demo",
+        "documentation": {}
+    },
+    {
+        "label": "syn_id",
+        "kind": 5,
+        "importPath": "Syn_props_demo",
+        "description": "Syn_props_demo",
+        "peekOfCode": "syn_id = synapses.iloc[0].syn_id\nimg = np.load(f'{path_}{syn_id}_syn.npy')\npre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\npost_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\n# Calculate metrics for a single synapse\nsize_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)",
+        "detail": "Syn_props_demo",
+        "documentation": {}
+    },
+    {
+        "label": "img",
+        "kind": 5,
+        "importPath": "Syn_props_demo",
+        "description": "Syn_props_demo",
+        "peekOfCode": "img = np.load(f'{path_}{syn_id}_syn.npy')\npre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\npost_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\n# Calculate metrics for a single synapse\nsize_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask)",
+        "detail": "Syn_props_demo",
+        "documentation": {}
+    },
+    {
+        "label": "pre_mask",
+        "kind": 5,
+        "importPath": "Syn_props_demo",
+        "description": "Syn_props_demo",
+        "peekOfCode": "pre_mask = np.load(f'{path_}{syn_id}_pre_syn_n_mask.npy')\npost_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\n# Calculate metrics for a single synapse\nsize_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask)\n# Create a dictionary with the metrics",
+        "detail": "Syn_props_demo",
+        "documentation": {}
+    },
+    {
+        "label": "post_mask",
+        "kind": 5,
+        "importPath": "Syn_props_demo",
+        "description": "Syn_props_demo",
+        "peekOfCode": "post_mask = np.load(f'{path_}{syn_id}_post_syn_n_mask.npy')\n# Calculate metrics for a single synapse\nsize_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask)\n# Create a dictionary with the metrics\nmetrics_dict = {",
+        "detail": "Syn_props_demo",
+        "documentation": {}
+    },
+    {
+        "label": "size_metrics",
+        "kind": 5,
+        "importPath": "Syn_props_demo",
+        "description": "Syn_props_demo",
+        "peekOfCode": "size_metrics = synapse_size(pre_mask, post_mask)\nshape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask)\n# Create a dictionary with the metrics\nmetrics_dict = {\n    'Synapse Area': size_metrics[0],\n    'Pre-synaptic Area': size_metrics[1],",
+        "detail": "Syn_props_demo",
+        "documentation": {}
+    },
+    {
+        "label": "shape_metrics",
+        "kind": 5,
+        "importPath": "Syn_props_demo",
+        "description": "Syn_props_demo",
+        "peekOfCode": "shape_metrics = synapse_shape(pre_mask, post_mask)\nintensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask)\n# Create a dictionary with the metrics\nmetrics_dict = {\n    'Synapse Area': size_metrics[0],\n    'Pre-synaptic Area': size_metrics[1],\n    'Post-synaptic Area': size_metrics[2],",
+        "detail": "Syn_props_demo",
+        "documentation": {}
+    },
+    {
+        "label": "intensity_metrics",
+        "kind": 5,
+        "importPath": "Syn_props_demo",
+        "description": "Syn_props_demo",
+        "peekOfCode": "intensity_metrics = synapse_intensity(img, pre_mask, post_mask)\ndistance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask)\n# Create a dictionary with the metrics\nmetrics_dict = {\n    'Synapse Area': size_metrics[0],\n    'Pre-synaptic Area': size_metrics[1],\n    'Post-synaptic Area': size_metrics[2],\n    'Pre-Post Area Ratio': size_metrics[3],",
+        "detail": "Syn_props_demo",
+        "documentation": {}
+    },
+    {
+        "label": "distance",
+        "kind": 5,
+        "importPath": "Syn_props_demo",
+        "description": "Syn_props_demo",
+        "peekOfCode": "distance = synapse_distance(pre_mask, post_mask)\ncoloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask)\n# Create a dictionary with the metrics\nmetrics_dict = {\n    'Synapse Area': size_metrics[0],\n    'Pre-synaptic Area': size_metrics[1],\n    'Post-synaptic Area': size_metrics[2],\n    'Pre-Post Area Ratio': size_metrics[3],\n    'Perimeter': shape_metrics[0],",
+        "detail": "Syn_props_demo",
+        "documentation": {}
+    },
+    {
+        "label": "coloc_metrics",
+        "kind": 5,
+        "importPath": "Syn_props_demo",
+        "description": "Syn_props_demo",
+        "peekOfCode": "coloc_metrics = synapse_colocalization(pre_mask, post_mask)\nmorphology_metrics = synapse_morphology(pre_mask, post_mask)\n# Create a dictionary with the metrics\nmetrics_dict = {\n    'Synapse Area': size_metrics[0],\n    'Pre-synaptic Area': size_metrics[1],\n    'Post-synaptic Area': size_metrics[2],\n    'Pre-Post Area Ratio': size_metrics[3],\n    'Perimeter': shape_metrics[0],\n    'Circularity': shape_metrics[1],",
+        "detail": "Syn_props_demo",
+        "documentation": {}
+    },
+    {
+        "label": "morphology_metrics",
+        "kind": 5,
+        "importPath": "Syn_props_demo",
+        "description": "Syn_props_demo",
+        "peekOfCode": "morphology_metrics = synapse_morphology(pre_mask, post_mask)\n# Create a dictionary with the metrics\nmetrics_dict = {\n    'Synapse Area': size_metrics[0],\n    'Pre-synaptic Area': size_metrics[1],\n    'Post-synaptic Area': size_metrics[2],\n    'Pre-Post Area Ratio': size_metrics[3],\n    'Perimeter': shape_metrics[0],\n    'Circularity': shape_metrics[1],\n    'Mean Intensity': intensity_metrics[0],",
+        "detail": "Syn_props_demo",
+        "documentation": {}
+    },
+    {
+        "label": "metrics_dict",
+        "kind": 5,
+        "importPath": "Syn_props_demo",
+        "description": "Syn_props_demo",
+        "peekOfCode": "metrics_dict = {\n    'Synapse Area': size_metrics[0],\n    'Pre-synaptic Area': size_metrics[1],\n    'Post-synaptic Area': size_metrics[2],\n    'Pre-Post Area Ratio': size_metrics[3],\n    'Perimeter': shape_metrics[0],\n    'Circularity': shape_metrics[1],\n    'Mean Intensity': intensity_metrics[0],\n    'Median Intensity': intensity_metrics[1],\n    'Std Intensity': intensity_metrics[2],",
+        "detail": "Syn_props_demo",
+        "documentation": {}
+    },
+    {
+        "label": "metrics_df",
+        "kind": 5,
+        "importPath": "Syn_props_demo",
+        "description": "Syn_props_demo",
+        "peekOfCode": "metrics_df = pd.DataFrame.from_dict(metrics_dict, orient='index', columns=['Value'])\n# Pretty print the DataFrame\nprint(\"Synapse Metrics:\")\nprint(metrics_df.to_string(index=True, header=False, float_format=lambda x: f\"{x:.2f}\"))\nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(6, 6))\nax1.imshow(img.T, cmap='gray')\nax2.imshow(img.T, cmap='gray')\nax2.imshow(pre_mask.T, alpha=0.5)\nax2.imshow(post_mask.T, alpha=0.5)\nplt.tight_layout()",
+        "detail": "Syn_props_demo",
         "documentation": {}
     }
 ]
