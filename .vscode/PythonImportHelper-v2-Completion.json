@@ -787,6 +787,182 @@
         "documentation": {}
     },
     {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
         "label": "PCA",
         "importPath": "sklearn.decomposition",
         "description": "sklearn.decomposition",
@@ -1018,6 +1194,1494 @@
         "description": "skimage",
         "isExtraImport": true,
         "detail": "skimage",
+        "documentation": {}
+    },
+    {
+        "label": "KFold",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "cross_val_score",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "KFold",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "cross_val_score",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "KFold",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "cross_val_score",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "KFold",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "cross_val_score",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "KFold",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "cross_val_score",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "KFold",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "cross_val_score",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "KFold",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "StratifiedKFold",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "cross_val_score",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "KFold",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "StratifiedKFold",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "cross_val_score",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "KFold",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "StratifiedKFold",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "cross_val_score",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "KFold",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "StratifiedKFold",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "cross_val_score",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "KFold",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "StratifiedKFold",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "cross_val_score",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "KFold",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "StratifiedKFold",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "cross_val_score",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "KFold",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "StratifiedKFold",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "cross_val_score",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "KFold",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "StratifiedKFold",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "cross_val_score",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "KFold",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "StratifiedKFold",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "cross_val_score",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "KFold",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "StratifiedKFold",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "cross_val_score",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "KFold",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "StratifiedKFold",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "cross_val_score",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "KFold",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "StratifiedKFold",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "cross_val_score",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "KFold",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "StratifiedKFold",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "cross_val_score",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "KFold",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "StratifiedKFold",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "cross_val_score",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "KFold",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "StratifiedKFold",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "cross_val_score",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "KFold",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "StratifiedKFold",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "cross_val_score",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "RandomForestClassifier",
+        "importPath": "sklearn.ensemble",
+        "description": "sklearn.ensemble",
+        "isExtraImport": true,
+        "detail": "sklearn.ensemble",
+        "documentation": {}
+    },
+    {
+        "label": "RandomForestClassifier",
+        "importPath": "sklearn.ensemble",
+        "description": "sklearn.ensemble",
+        "isExtraImport": true,
+        "detail": "sklearn.ensemble",
+        "documentation": {}
+    },
+    {
+        "label": "RandomForestClassifier",
+        "importPath": "sklearn.ensemble",
+        "description": "sklearn.ensemble",
+        "isExtraImport": true,
+        "detail": "sklearn.ensemble",
+        "documentation": {}
+    },
+    {
+        "label": "RandomForestClassifier",
+        "importPath": "sklearn.ensemble",
+        "description": "sklearn.ensemble",
+        "isExtraImport": true,
+        "detail": "sklearn.ensemble",
+        "documentation": {}
+    },
+    {
+        "label": "RandomForestClassifier",
+        "importPath": "sklearn.ensemble",
+        "description": "sklearn.ensemble",
+        "isExtraImport": true,
+        "detail": "sklearn.ensemble",
+        "documentation": {}
+    },
+    {
+        "label": "RandomForestClassifier",
+        "importPath": "sklearn.ensemble",
+        "description": "sklearn.ensemble",
+        "isExtraImport": true,
+        "detail": "sklearn.ensemble",
+        "documentation": {}
+    },
+    {
+        "label": "RandomForestClassifier",
+        "importPath": "sklearn.ensemble",
+        "description": "sklearn.ensemble",
+        "isExtraImport": true,
+        "detail": "sklearn.ensemble",
+        "documentation": {}
+    },
+    {
+        "label": "RandomForestClassifier",
+        "importPath": "sklearn.ensemble",
+        "description": "sklearn.ensemble",
+        "isExtraImport": true,
+        "detail": "sklearn.ensemble",
+        "documentation": {}
+    },
+    {
+        "label": "RandomForestClassifier",
+        "importPath": "sklearn.ensemble",
+        "description": "sklearn.ensemble",
+        "isExtraImport": true,
+        "detail": "sklearn.ensemble",
+        "documentation": {}
+    },
+    {
+        "label": "RandomForestClassifier",
+        "importPath": "sklearn.ensemble",
+        "description": "sklearn.ensemble",
+        "isExtraImport": true,
+        "detail": "sklearn.ensemble",
+        "documentation": {}
+    },
+    {
+        "label": "RandomForestClassifier",
+        "importPath": "sklearn.ensemble",
+        "description": "sklearn.ensemble",
+        "isExtraImport": true,
+        "detail": "sklearn.ensemble",
+        "documentation": {}
+    },
+    {
+        "label": "RandomForestClassifier",
+        "importPath": "sklearn.ensemble",
+        "description": "sklearn.ensemble",
+        "isExtraImport": true,
+        "detail": "sklearn.ensemble",
+        "documentation": {}
+    },
+    {
+        "label": "RandomForestClassifier",
+        "importPath": "sklearn.ensemble",
+        "description": "sklearn.ensemble",
+        "isExtraImport": true,
+        "detail": "sklearn.ensemble",
+        "documentation": {}
+    },
+    {
+        "label": "RandomForestClassifier",
+        "importPath": "sklearn.ensemble",
+        "description": "sklearn.ensemble",
+        "isExtraImport": true,
+        "detail": "sklearn.ensemble",
+        "documentation": {}
+    },
+    {
+        "label": "RandomForestClassifier",
+        "importPath": "sklearn.ensemble",
+        "description": "sklearn.ensemble",
+        "isExtraImport": true,
+        "detail": "sklearn.ensemble",
+        "documentation": {}
+    },
+    {
+        "label": "RandomForestClassifier",
+        "importPath": "sklearn.ensemble",
+        "description": "sklearn.ensemble",
+        "isExtraImport": true,
+        "detail": "sklearn.ensemble",
+        "documentation": {}
+    },
+    {
+        "label": "RandomForestClassifier",
+        "importPath": "sklearn.ensemble",
+        "description": "sklearn.ensemble",
+        "isExtraImport": true,
+        "detail": "sklearn.ensemble",
+        "documentation": {}
+    },
+    {
+        "label": "RandomForestClassifier",
+        "importPath": "sklearn.ensemble",
+        "description": "sklearn.ensemble",
+        "isExtraImport": true,
+        "detail": "sklearn.ensemble",
+        "documentation": {}
+    },
+    {
+        "label": "RandomForestClassifier",
+        "importPath": "sklearn.ensemble",
+        "description": "sklearn.ensemble",
+        "isExtraImport": true,
+        "detail": "sklearn.ensemble",
+        "documentation": {}
+    },
+    {
+        "label": "RandomForestClassifier",
+        "importPath": "sklearn.ensemble",
+        "description": "sklearn.ensemble",
+        "isExtraImport": true,
+        "detail": "sklearn.ensemble",
+        "documentation": {}
+    },
+    {
+        "label": "RandomForestClassifier",
+        "importPath": "sklearn.ensemble",
+        "description": "sklearn.ensemble",
+        "isExtraImport": true,
+        "detail": "sklearn.ensemble",
+        "documentation": {}
+    },
+    {
+        "label": "RandomForestClassifier",
+        "importPath": "sklearn.ensemble",
+        "description": "sklearn.ensemble",
+        "isExtraImport": true,
+        "detail": "sklearn.ensemble",
+        "documentation": {}
+    },
+    {
+        "label": "SVC",
+        "importPath": "sklearn.svm",
+        "description": "sklearn.svm",
+        "isExtraImport": true,
+        "detail": "sklearn.svm",
+        "documentation": {}
+    },
+    {
+        "label": "SVC",
+        "importPath": "sklearn.svm",
+        "description": "sklearn.svm",
+        "isExtraImport": true,
+        "detail": "sklearn.svm",
+        "documentation": {}
+    },
+    {
+        "label": "SVC",
+        "importPath": "sklearn.svm",
+        "description": "sklearn.svm",
+        "isExtraImport": true,
+        "detail": "sklearn.svm",
+        "documentation": {}
+    },
+    {
+        "label": "SVC",
+        "importPath": "sklearn.svm",
+        "description": "sklearn.svm",
+        "isExtraImport": true,
+        "detail": "sklearn.svm",
+        "documentation": {}
+    },
+    {
+        "label": "SVC",
+        "importPath": "sklearn.svm",
+        "description": "sklearn.svm",
+        "isExtraImport": true,
+        "detail": "sklearn.svm",
+        "documentation": {}
+    },
+    {
+        "label": "SVC",
+        "importPath": "sklearn.svm",
+        "description": "sklearn.svm",
+        "isExtraImport": true,
+        "detail": "sklearn.svm",
+        "documentation": {}
+    },
+    {
+        "label": "SVC",
+        "importPath": "sklearn.svm",
+        "description": "sklearn.svm",
+        "isExtraImport": true,
+        "detail": "sklearn.svm",
+        "documentation": {}
+    },
+    {
+        "label": "SVC",
+        "importPath": "sklearn.svm",
+        "description": "sklearn.svm",
+        "isExtraImport": true,
+        "detail": "sklearn.svm",
+        "documentation": {}
+    },
+    {
+        "label": "SVC",
+        "importPath": "sklearn.svm",
+        "description": "sklearn.svm",
+        "isExtraImport": true,
+        "detail": "sklearn.svm",
+        "documentation": {}
+    },
+    {
+        "label": "SVC",
+        "importPath": "sklearn.svm",
+        "description": "sklearn.svm",
+        "isExtraImport": true,
+        "detail": "sklearn.svm",
+        "documentation": {}
+    },
+    {
+        "label": "SVC",
+        "importPath": "sklearn.svm",
+        "description": "sklearn.svm",
+        "isExtraImport": true,
+        "detail": "sklearn.svm",
+        "documentation": {}
+    },
+    {
+        "label": "SVC",
+        "importPath": "sklearn.svm",
+        "description": "sklearn.svm",
+        "isExtraImport": true,
+        "detail": "sklearn.svm",
+        "documentation": {}
+    },
+    {
+        "label": "SVC",
+        "importPath": "sklearn.svm",
+        "description": "sklearn.svm",
+        "isExtraImport": true,
+        "detail": "sklearn.svm",
+        "documentation": {}
+    },
+    {
+        "label": "SVC",
+        "importPath": "sklearn.svm",
+        "description": "sklearn.svm",
+        "isExtraImport": true,
+        "detail": "sklearn.svm",
+        "documentation": {}
+    },
+    {
+        "label": "SVC",
+        "importPath": "sklearn.svm",
+        "description": "sklearn.svm",
+        "isExtraImport": true,
+        "detail": "sklearn.svm",
+        "documentation": {}
+    },
+    {
+        "label": "SVC",
+        "importPath": "sklearn.svm",
+        "description": "sklearn.svm",
+        "isExtraImport": true,
+        "detail": "sklearn.svm",
+        "documentation": {}
+    },
+    {
+        "label": "SVC",
+        "importPath": "sklearn.svm",
+        "description": "sklearn.svm",
+        "isExtraImport": true,
+        "detail": "sklearn.svm",
+        "documentation": {}
+    },
+    {
+        "label": "SVC",
+        "importPath": "sklearn.svm",
+        "description": "sklearn.svm",
+        "isExtraImport": true,
+        "detail": "sklearn.svm",
+        "documentation": {}
+    },
+    {
+        "label": "SVC",
+        "importPath": "sklearn.svm",
+        "description": "sklearn.svm",
+        "isExtraImport": true,
+        "detail": "sklearn.svm",
+        "documentation": {}
+    },
+    {
+        "label": "SVC",
+        "importPath": "sklearn.svm",
+        "description": "sklearn.svm",
+        "isExtraImport": true,
+        "detail": "sklearn.svm",
+        "documentation": {}
+    },
+    {
+        "label": "SVC",
+        "importPath": "sklearn.svm",
+        "description": "sklearn.svm",
+        "isExtraImport": true,
+        "detail": "sklearn.svm",
+        "documentation": {}
+    },
+    {
+        "label": "SVC",
+        "importPath": "sklearn.svm",
+        "description": "sklearn.svm",
+        "isExtraImport": true,
+        "detail": "sklearn.svm",
+        "documentation": {}
+    },
+    {
+        "label": "MLPClassifier",
+        "importPath": "sklearn.neural_network",
+        "description": "sklearn.neural_network",
+        "isExtraImport": true,
+        "detail": "sklearn.neural_network",
+        "documentation": {}
+    },
+    {
+        "label": "MLPClassifier",
+        "importPath": "sklearn.neural_network",
+        "description": "sklearn.neural_network",
+        "isExtraImport": true,
+        "detail": "sklearn.neural_network",
+        "documentation": {}
+    },
+    {
+        "label": "MLPClassifier",
+        "importPath": "sklearn.neural_network",
+        "description": "sklearn.neural_network",
+        "isExtraImport": true,
+        "detail": "sklearn.neural_network",
+        "documentation": {}
+    },
+    {
+        "label": "MLPClassifier",
+        "importPath": "sklearn.neural_network",
+        "description": "sklearn.neural_network",
+        "isExtraImport": true,
+        "detail": "sklearn.neural_network",
+        "documentation": {}
+    },
+    {
+        "label": "MLPClassifier",
+        "importPath": "sklearn.neural_network",
+        "description": "sklearn.neural_network",
+        "isExtraImport": true,
+        "detail": "sklearn.neural_network",
+        "documentation": {}
+    },
+    {
+        "label": "MLPClassifier",
+        "importPath": "sklearn.neural_network",
+        "description": "sklearn.neural_network",
+        "isExtraImport": true,
+        "detail": "sklearn.neural_network",
+        "documentation": {}
+    },
+    {
+        "label": "MLPClassifier",
+        "importPath": "sklearn.neural_network",
+        "description": "sklearn.neural_network",
+        "isExtraImport": true,
+        "detail": "sklearn.neural_network",
+        "documentation": {}
+    },
+    {
+        "label": "MLPClassifier",
+        "importPath": "sklearn.neural_network",
+        "description": "sklearn.neural_network",
+        "isExtraImport": true,
+        "detail": "sklearn.neural_network",
+        "documentation": {}
+    },
+    {
+        "label": "MLPClassifier",
+        "importPath": "sklearn.neural_network",
+        "description": "sklearn.neural_network",
+        "isExtraImport": true,
+        "detail": "sklearn.neural_network",
+        "documentation": {}
+    },
+    {
+        "label": "MLPClassifier",
+        "importPath": "sklearn.neural_network",
+        "description": "sklearn.neural_network",
+        "isExtraImport": true,
+        "detail": "sklearn.neural_network",
+        "documentation": {}
+    },
+    {
+        "label": "MLPClassifier",
+        "importPath": "sklearn.neural_network",
+        "description": "sklearn.neural_network",
+        "isExtraImport": true,
+        "detail": "sklearn.neural_network",
+        "documentation": {}
+    },
+    {
+        "label": "MLPClassifier",
+        "importPath": "sklearn.neural_network",
+        "description": "sklearn.neural_network",
+        "isExtraImport": true,
+        "detail": "sklearn.neural_network",
+        "documentation": {}
+    },
+    {
+        "label": "MLPClassifier",
+        "importPath": "sklearn.neural_network",
+        "description": "sklearn.neural_network",
+        "isExtraImport": true,
+        "detail": "sklearn.neural_network",
+        "documentation": {}
+    },
+    {
+        "label": "MLPClassifier",
+        "importPath": "sklearn.neural_network",
+        "description": "sklearn.neural_network",
+        "isExtraImport": true,
+        "detail": "sklearn.neural_network",
+        "documentation": {}
+    },
+    {
+        "label": "MLPClassifier",
+        "importPath": "sklearn.neural_network",
+        "description": "sklearn.neural_network",
+        "isExtraImport": true,
+        "detail": "sklearn.neural_network",
+        "documentation": {}
+    },
+    {
+        "label": "MLPClassifier",
+        "importPath": "sklearn.neural_network",
+        "description": "sklearn.neural_network",
+        "isExtraImport": true,
+        "detail": "sklearn.neural_network",
+        "documentation": {}
+    },
+    {
+        "label": "MLPClassifier",
+        "importPath": "sklearn.neural_network",
+        "description": "sklearn.neural_network",
+        "isExtraImport": true,
+        "detail": "sklearn.neural_network",
+        "documentation": {}
+    },
+    {
+        "label": "MLPClassifier",
+        "importPath": "sklearn.neural_network",
+        "description": "sklearn.neural_network",
+        "isExtraImport": true,
+        "detail": "sklearn.neural_network",
+        "documentation": {}
+    },
+    {
+        "label": "MLPClassifier",
+        "importPath": "sklearn.neural_network",
+        "description": "sklearn.neural_network",
+        "isExtraImport": true,
+        "detail": "sklearn.neural_network",
+        "documentation": {}
+    },
+    {
+        "label": "MLPClassifier",
+        "importPath": "sklearn.neural_network",
+        "description": "sklearn.neural_network",
+        "isExtraImport": true,
+        "detail": "sklearn.neural_network",
+        "documentation": {}
+    },
+    {
+        "label": "MLPClassifier",
+        "importPath": "sklearn.neural_network",
+        "description": "sklearn.neural_network",
+        "isExtraImport": true,
+        "detail": "sklearn.neural_network",
+        "documentation": {}
+    },
+    {
+        "label": "MLPClassifier",
+        "importPath": "sklearn.neural_network",
+        "description": "sklearn.neural_network",
+        "isExtraImport": true,
+        "detail": "sklearn.neural_network",
+        "documentation": {}
+    },
+    {
+        "label": "classification_report",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "confusion_matrix",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "classification_report",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "confusion_matrix",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "classification_report",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "confusion_matrix",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "classification_report",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "confusion_matrix",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "classification_report",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "confusion_matrix",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "classification_report",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "confusion_matrix",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "classification_report",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "confusion_matrix",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "balanced_accuracy_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "classification_report",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "confusion_matrix",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "balanced_accuracy_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "classification_report",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "confusion_matrix",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "balanced_accuracy_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "classification_report",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "confusion_matrix",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "balanced_accuracy_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "classification_report",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "confusion_matrix",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "balanced_accuracy_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "classification_report",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "confusion_matrix",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "balanced_accuracy_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "classification_report",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "confusion_matrix",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "balanced_accuracy_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "classification_report",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "confusion_matrix",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "balanced_accuracy_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "classification_report",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "confusion_matrix",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "balanced_accuracy_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "classification_report",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "confusion_matrix",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "balanced_accuracy_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "classification_report",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "confusion_matrix",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "balanced_accuracy_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "classification_report",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "confusion_matrix",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "balanced_accuracy_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "classification_report",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "confusion_matrix",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "balanced_accuracy_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "classification_report",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "confusion_matrix",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "balanced_accuracy_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "classification_report",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "confusion_matrix",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "balanced_accuracy_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "classification_report",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "confusion_matrix",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "balanced_accuracy_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
         "documentation": {}
     },
     {
@@ -3736,6 +5400,573 @@
         "documentation": {}
     },
     {
+        "label": "load_and_prepare_data",
+        "kind": 2,
+        "importPath": ".history.synapse_classification_20250223185739",
+        "description": ".history.synapse_classification_20250223185739",
+        "peekOfCode": "def load_and_prepare_data():\n    \"\"\"Load data and prepare features/labels for E/I classification\"\"\"\n    df = pd.read_csv('data/synapse_data_with_metrics.csv')\n    # Create E/I labels from cell types\n    df['is_excitatory'] = df['pre_syn_clf_type'].str.contains('E', case=False)\n    # Select numerical features for classification\n    feature_cols = df.select_dtypes(include=[np.number]).columns\n    feature_cols = feature_cols.drop(['syn_id', 'is_excitatory'])\n    X = df[feature_cols]\n    y = df['is_excitatory']",
+        "detail": ".history.synapse_classification_20250223185739",
+        "documentation": {}
+    },
+    {
+        "label": "evaluate_classifiers",
+        "kind": 2,
+        "importPath": ".history.synapse_classification_20250223185739",
+        "description": ".history.synapse_classification_20250223185739",
+        "peekOfCode": "def evaluate_classifiers(X, y, n_splits=5):\n    \"\"\"Evaluate multiple classifiers using k-fold cross validation\"\"\"\n    # Initialize classifiers\n    classifiers = {\n        'Random Forest': RandomForestClassifier(random_state=42),\n        'SVM': SVC(random_state=42),\n        'Neural Net': MLPClassifier(random_state=42, max_iter=1000)\n    }\n    # Scale features\n    scaler = StandardScaler()",
+        "detail": ".history.synapse_classification_20250223185739",
+        "documentation": {}
+    },
+    {
+        "label": "plot_results",
+        "kind": 2,
+        "importPath": ".history.synapse_classification_20250223185739",
+        "description": ".history.synapse_classification_20250223185739",
+        "peekOfCode": "def plot_results(results):\n    \"\"\"Plot cross validation results\"\"\"\n    plt.figure(figsize=(10, 6))\n    plt.boxplot(results.values(), labels=results.keys())\n    plt.title('Classifier Performance Comparison')\n    plt.ylabel('Accuracy')\n    plt.xticks(rotation=45)\n    plt.tight_layout()\n    plt.show()\nif __name__ == \"__main__\":",
+        "detail": ".history.synapse_classification_20250223185739",
+        "documentation": {}
+    },
+    {
+        "label": "load_and_prepare_data",
+        "kind": 2,
+        "importPath": ".history.synapse_classification_20250223185740",
+        "description": ".history.synapse_classification_20250223185740",
+        "peekOfCode": "def load_and_prepare_data():\n    \"\"\"Load data and prepare features/labels for E/I classification\"\"\"\n    df = pd.read_csv('data/synapse_data_with_metrics.csv')\n    # Create E/I labels from cell types\n    df['is_excitatory'] = df['pre_syn_clf_type'].str.contains('E', case=False)\n    # Select numerical features for classification\n    feature_cols = df.select_dtypes(include=[np.number]).columns\n    feature_cols = feature_cols.drop(['syn_id', 'is_excitatory'])\n    X = df[feature_cols]\n    y = df['is_excitatory']",
+        "detail": ".history.synapse_classification_20250223185740",
+        "documentation": {}
+    },
+    {
+        "label": "evaluate_classifiers",
+        "kind": 2,
+        "importPath": ".history.synapse_classification_20250223185740",
+        "description": ".history.synapse_classification_20250223185740",
+        "peekOfCode": "def evaluate_classifiers(X, y, n_splits=5):\n    \"\"\"Evaluate multiple classifiers using k-fold cross validation\"\"\"\n    # Initialize classifiers\n    classifiers = {\n        'Random Forest': RandomForestClassifier(random_state=42),\n        'SVM': SVC(random_state=42),\n        'Neural Net': MLPClassifier(random_state=42, max_iter=1000)\n    }\n    # Scale features\n    scaler = StandardScaler()",
+        "detail": ".history.synapse_classification_20250223185740",
+        "documentation": {}
+    },
+    {
+        "label": "plot_results",
+        "kind": 2,
+        "importPath": ".history.synapse_classification_20250223185740",
+        "description": ".history.synapse_classification_20250223185740",
+        "peekOfCode": "def plot_results(results):\n    \"\"\"Plot cross validation results\"\"\"\n    plt.figure(figsize=(10, 6))\n    plt.boxplot(results.values(), labels=results.keys())\n    plt.title('Classifier Performance Comparison')\n    plt.ylabel('Accuracy')\n    plt.xticks(rotation=45)\n    plt.tight_layout()\n    plt.show()\nif __name__ == \"__main__\":",
+        "detail": ".history.synapse_classification_20250223185740",
+        "documentation": {}
+    },
+    {
+        "label": "load_and_prepare_data",
+        "kind": 2,
+        "importPath": ".history.synapse_classification_20250223185831",
+        "description": ".history.synapse_classification_20250223185831",
+        "peekOfCode": "def load_and_prepare_data():\n    \"\"\"Load data and prepare features/labels for E/I classification\"\"\"\n    df = pd.read_csv('data/synapse_data_with_metrics.csv')\n    # Select numerical features for classification first\n    feature_cols = df.select_dtypes(include=[np.number]).columns\n    feature_cols = feature_cols.drop(['syn_id']) if 'syn_id' in feature_cols else feature_cols\n    # Create E/I labels from cell types\n    df['is_excitatory'] = df['pre_syn_clf_type'].str.contains('E', case=False)\n    X = df[feature_cols]\n    y = df['is_excitatory']",
+        "detail": ".history.synapse_classification_20250223185831",
+        "documentation": {}
+    },
+    {
+        "label": "evaluate_classifiers",
+        "kind": 2,
+        "importPath": ".history.synapse_classification_20250223185831",
+        "description": ".history.synapse_classification_20250223185831",
+        "peekOfCode": "def evaluate_classifiers(X, y, n_splits=5):\n    \"\"\"Evaluate multiple classifiers using k-fold cross validation\"\"\"\n    # Initialize classifiers\n    classifiers = {\n        'Random Forest': RandomForestClassifier(random_state=42),\n        'SVM': SVC(random_state=42),\n        'Neural Net': MLPClassifier(random_state=42, max_iter=1000)\n    }\n    # Scale features\n    scaler = StandardScaler()",
+        "detail": ".history.synapse_classification_20250223185831",
+        "documentation": {}
+    },
+    {
+        "label": "plot_results",
+        "kind": 2,
+        "importPath": ".history.synapse_classification_20250223185831",
+        "description": ".history.synapse_classification_20250223185831",
+        "peekOfCode": "def plot_results(results):\n    \"\"\"Plot cross validation results\"\"\"\n    plt.figure(figsize=(10, 6))\n    plt.boxplot(results.values(), labels=results.keys())\n    plt.title('Classifier Performance Comparison')\n    plt.ylabel('Accuracy')\n    plt.xticks(rotation=45)\n    plt.tight_layout()\n    plt.show()\nif __name__ == \"__main__\":",
+        "detail": ".history.synapse_classification_20250223185831",
+        "documentation": {}
+    },
+    {
+        "label": "load_and_prepare_data",
+        "kind": 2,
+        "importPath": ".history.synapse_classification_20250223190017",
+        "description": ".history.synapse_classification_20250223190017",
+        "peekOfCode": "def load_and_prepare_data():\n    \"\"\"Load data and prepare features/labels for E/I classification\"\"\"\n    df = pd.read_csv('data/synapse_data_with_metrics.csv')\n    # Select numerical features for classification first\n    feature_cols = df.select_dtypes(include=[np.number]).columns\n    feature_cols = feature_cols.drop(['syn_id']) if 'syn_id' in feature_cols else feature_cols\n    # Create E/I labels from cell types\n    df['is_excitatory'] = df['pre_syn_clf_type'].str.contains('E', case=False)\n    X = df[feature_cols]\n    y = df['is_excitatory']",
+        "detail": ".history.synapse_classification_20250223190017",
+        "documentation": {}
+    },
+    {
+        "label": "evaluate_classifiers",
+        "kind": 2,
+        "importPath": ".history.synapse_classification_20250223190017",
+        "description": ".history.synapse_classification_20250223190017",
+        "peekOfCode": "def evaluate_classifiers(X, y, n_splits=5):\n    \"\"\"Evaluate multiple classifiers using k-fold cross validation\"\"\"\n    # Initialize classifiers\n    classifiers = {\n        'Random Forest': RandomForestClassifier(random_state=42),\n        'SVM': SVC(random_state=42),\n        'Neural Net': MLPClassifier(random_state=42, max_iter=1000)\n    }\n    # Scale features\n    scaler = StandardScaler()",
+        "detail": ".history.synapse_classification_20250223190017",
+        "documentation": {}
+    },
+    {
+        "label": "plot_results",
+        "kind": 2,
+        "importPath": ".history.synapse_classification_20250223190017",
+        "description": ".history.synapse_classification_20250223190017",
+        "peekOfCode": "def plot_results(results, confusion_matrices):\n    \"\"\"Plot cross validation results and confusion matrices\"\"\"\n    n_classifiers = len(results)\n    fig, axes = plt.subplots(2, n_classifiers, figsize=(15, 10))\n    # Plot accuracy boxplots\n    axes[0, 1].boxplot(results.values(), labels=results.keys())\n    axes[0, 1].set_title('Classifier Performance Comparison')\n    axes[0, 1].set_ylabel('Accuracy')\n    axes[0, 1].set_xticklabels(results.keys(), rotation=45)\n    # Hide other plots in top row",
+        "detail": ".history.synapse_classification_20250223190017",
+        "documentation": {}
+    },
+    {
+        "label": "load_and_prepare_data",
+        "kind": 2,
+        "importPath": ".history.synapse_classification_20250223190020",
+        "description": ".history.synapse_classification_20250223190020",
+        "peekOfCode": "def load_and_prepare_data():\n    \"\"\"Load data and prepare features/labels for E/I classification\"\"\"\n    df = pd.read_csv('data/synapse_data_with_metrics.csv')\n    # Select numerical features for classification first\n    feature_cols = df.select_dtypes(include=[np.number]).columns\n    feature_cols = feature_cols.drop(['syn_id']) if 'syn_id' in feature_cols else feature_cols\n    # Create E/I labels from cell types\n    df['is_excitatory'] = df['pre_syn_clf_type'].str.contains('E', case=False)\n    X = df[feature_cols]\n    y = df['is_excitatory']",
+        "detail": ".history.synapse_classification_20250223190020",
+        "documentation": {}
+    },
+    {
+        "label": "evaluate_classifiers",
+        "kind": 2,
+        "importPath": ".history.synapse_classification_20250223190020",
+        "description": ".history.synapse_classification_20250223190020",
+        "peekOfCode": "def evaluate_classifiers(X, y, n_splits=5):\n    \"\"\"Evaluate multiple classifiers using k-fold cross validation\"\"\"\n    # Initialize classifiers\n    classifiers = {\n        'Random Forest': RandomForestClassifier(random_state=42),\n        'SVM': SVC(random_state=42),\n        'Neural Net': MLPClassifier(random_state=42, max_iter=1000)\n    }\n    # Scale features\n    scaler = StandardScaler()",
+        "detail": ".history.synapse_classification_20250223190020",
+        "documentation": {}
+    },
+    {
+        "label": "plot_results",
+        "kind": 2,
+        "importPath": ".history.synapse_classification_20250223190020",
+        "description": ".history.synapse_classification_20250223190020",
+        "peekOfCode": "def plot_results(results, confusion_matrices):\n    \"\"\"Plot cross validation results and confusion matrices\"\"\"\n    n_classifiers = len(results)\n    fig, axes = plt.subplots(2, n_classifiers, figsize=(15, 10))\n    # Plot accuracy boxplots\n    axes[0, 1].boxplot(results.values(), labels=results.keys())\n    axes[0, 1].set_title('Classifier Performance Comparison')\n    axes[0, 1].set_ylabel('Accuracy')\n    axes[0, 1].set_xticklabels(results.keys(), rotation=45)\n    # Hide other plots in top row",
+        "detail": ".history.synapse_classification_20250223190020",
+        "documentation": {}
+    },
+    {
+        "label": "load_and_prepare_data",
+        "kind": 2,
+        "importPath": ".history.synapse_classification_20250223190139",
+        "description": ".history.synapse_classification_20250223190139",
+        "peekOfCode": "def load_and_prepare_data():\n    \"\"\"Load data and prepare features/labels for E/I classification\"\"\"\n    df = pd.read_csv('data/synapse_data_with_metrics.csv')\n    # Select numerical features for classification first\n    feature_cols = df.select_dtypes(include=[np.number]).columns\n    feature_cols = feature_cols.drop(['syn_id']) if 'syn_id' in feature_cols else feature_cols\n    # Create E/I labels from cell types\n    df['is_excitatory'] = df['pre_syn_clf_type'].str.contains('E', case=False)\n    X = df[feature_cols]\n    y = df['is_excitatory']",
+        "detail": ".history.synapse_classification_20250223190139",
+        "documentation": {}
+    },
+    {
+        "label": "evaluate_classifiers",
+        "kind": 2,
+        "importPath": ".history.synapse_classification_20250223190139",
+        "description": ".history.synapse_classification_20250223190139",
+        "peekOfCode": "def evaluate_classifiers(X, y, n_splits=5):\n    \"\"\"Evaluate multiple classifiers using k-fold cross validation\"\"\"\n    # Initialize classifiers\n    classifiers = {\n        'Random Forest': RandomForestClassifier(random_state=42),\n        'SVM': SVC(random_state=42),\n        'Neural Net': MLPClassifier(random_state=42, max_iter=1000)\n    }\n    # Scale features\n    scaler = StandardScaler()",
+        "detail": ".history.synapse_classification_20250223190139",
+        "documentation": {}
+    },
+    {
+        "label": "plot_results",
+        "kind": 2,
+        "importPath": ".history.synapse_classification_20250223190139",
+        "description": ".history.synapse_classification_20250223190139",
+        "peekOfCode": "def plot_results(results, confusion_matrices):\n    \"\"\"Plot cross validation results and confusion matrices\"\"\"\n    n_classifiers = len(results)\n    fig, axes = plt.subplots(2, n_classifiers, figsize=(15, 10))\n    # Plot accuracy boxplots\n    axes[0, 1].boxplot(results.values(), labels=results.keys())\n    axes[0, 1].set_title('Classifier Performance Comparison')\n    axes[0, 1].set_ylabel('Accuracy')\n    axes[0, 1].set_xticklabels(results.keys(), rotation=45)\n    # Hide other plots in top row",
+        "detail": ".history.synapse_classification_20250223190139",
+        "documentation": {}
+    },
+    {
+        "label": "load_and_prepare_data",
+        "kind": 2,
+        "importPath": ".history.synapse_classification_20250223190712",
+        "description": ".history.synapse_classification_20250223190712",
+        "peekOfCode": "def load_and_prepare_data():\n    \"\"\"Load data and prepare features/labels for E/I classification\"\"\"\n    df = pd.read_csv('data/synapse_data_with_metrics.csv')\n    # Select numerical features for classification first\n    feature_cols = df.select_dtypes(include=[np.number]).columns\n    feature_cols = feature_cols.drop(['syn_id']) if 'syn_id' in feature_cols else feature_cols\n    # Create E/I labels from cell types\n    df['is_excitatory'] = df['pre_syn_clf_type'].str.contains('E', case=False)\n    X = df[feature_cols]\n    y = df['is_excitatory']",
+        "detail": ".history.synapse_classification_20250223190712",
+        "documentation": {}
+    },
+    {
+        "label": "evaluate_classifiers",
+        "kind": 2,
+        "importPath": ".history.synapse_classification_20250223190712",
+        "description": ".history.synapse_classification_20250223190712",
+        "peekOfCode": "def evaluate_classifiers(X, y, n_splits=5):\n    \"\"\"Evaluate multiple classifiers using k-fold cross validation\"\"\"\n    classifiers = {\n        'Random Forest': RandomForestClassifier(random_state=42, class_weight='balanced'),\n        'SVM': SVC(random_state=42, class_weight='balanced'),\n        'Neural Net': MLPClassifier(random_state=42, max_iter=1000)\n    }\n    scaler = StandardScaler()\n    X_scaled = scaler.fit_transform(X)\n    kf = StratifiedKFold(n_splits=n_splits, shuffle=True, random_state=42)",
+        "detail": ".history.synapse_classification_20250223190712",
+        "documentation": {}
+    },
+    {
+        "label": "plot_results",
+        "kind": 2,
+        "importPath": ".history.synapse_classification_20250223190712",
+        "description": ".history.synapse_classification_20250223190712",
+        "peekOfCode": "def plot_results(results, confusion_matrices):\n    \"\"\"Plot cross validation results and confusion matrices\"\"\"\n    n_classifiers = len(results)\n    fig, axes = plt.subplots(2, n_classifiers, figsize=(15, 10))\n    # Plot accuracy boxplots\n    axes[0, 1].boxplot(results.values(), labels=results.keys())\n    axes[0, 1].set_title('Classifier Performance Comparison')\n    axes[0, 1].set_ylabel('Accuracy')\n    axes[0, 1].set_xticklabels(results.keys(), rotation=45)\n    # Hide other plots in top row",
+        "detail": ".history.synapse_classification_20250223190712",
+        "documentation": {}
+    },
+    {
+        "label": "load_and_prepare_data",
+        "kind": 2,
+        "importPath": ".history.synapse_classification_20250223190806",
+        "description": ".history.synapse_classification_20250223190806",
+        "peekOfCode": "def load_and_prepare_data():\n    \"\"\"Load data and prepare features/labels for E/I classification\"\"\"\n    df = pd.read_csv('data/synapse_data_with_metrics.csv')\n    # Select numerical features for classification first\n    feature_cols = df.select_dtypes(include=[np.number]).columns\n    feature_cols = feature_cols.drop(['syn_id']) if 'syn_id' in feature_cols else feature_cols\n    # Create E/I labels from cell types\n    df['is_excitatory'] = df['pre_syn_clf_type'].str.contains('E', case=False)\n    X = df[feature_cols]\n    y = df['is_excitatory']",
+        "detail": ".history.synapse_classification_20250223190806",
+        "documentation": {}
+    },
+    {
+        "label": "evaluate_classifiers",
+        "kind": 2,
+        "importPath": ".history.synapse_classification_20250223190806",
+        "description": ".history.synapse_classification_20250223190806",
+        "peekOfCode": "def evaluate_classifiers(X, y, n_splits=5):\n    \"\"\"Evaluate multiple classifiers using k-fold cross validation\"\"\"\n    classifiers = {\n        'Random Forest': RandomForestClassifier(random_state=42, class_weight='balanced'),\n        'SVM': SVC(random_state=42, class_weight='balanced'),\n        'Neural Net': MLPClassifier(random_state=42, max_iter=1000)\n    }\n    scaler = StandardScaler()\n    X_scaled = scaler.fit_transform(X)\n    kf = StratifiedKFold(n_splits=n_splits, shuffle=True, random_state=42)",
+        "detail": ".history.synapse_classification_20250223190806",
+        "documentation": {}
+    },
+    {
+        "label": "plot_results",
+        "kind": 2,
+        "importPath": ".history.synapse_classification_20250223190806",
+        "description": ".history.synapse_classification_20250223190806",
+        "peekOfCode": "def plot_results(results, confusion_matrices):\n    \"\"\"Plot cross validation results and confusion matrices\"\"\"\n    n_classifiers = len(results)\n    fig, axes = plt.subplots(2, n_classifiers, figsize=(15, 10))\n    # Plot accuracy boxplots\n    axes[0, 1].boxplot(results.values(), labels=results.keys())\n    axes[0, 1].set_title('Classifier Performance Comparison')\n    axes[0, 1].set_ylabel('Accuracy')\n    axes[0, 1].set_xticklabels(results.keys(), rotation=45)\n    # Hide other plots in top row",
+        "detail": ".history.synapse_classification_20250223190806",
+        "documentation": {}
+    },
+    {
+        "label": "load_and_prepare_data",
+        "kind": 2,
+        "importPath": ".history.synapse_classification_20250223190906",
+        "description": ".history.synapse_classification_20250223190906",
+        "peekOfCode": "def load_and_prepare_data():\n    \"\"\"Load data and prepare features/labels for E/I classification\"\"\"\n    df = pd.read_csv('data/synapse_data_with_metrics.csv')\n    # Print class distribution to understand imbalance\n    print(\"\\nClass distribution:\")\n    print(df['pre_syn_clf_type'].value_counts())\n    # Select numerical features for classification\n    feature_cols = df.select_dtypes(include=[np.number]).columns\n    feature_cols = feature_cols.drop(['syn_id']) if 'syn_id' in feature_cols else feature_cols\n    # Create E/I labels from cell types",
+        "detail": ".history.synapse_classification_20250223190906",
+        "documentation": {}
+    },
+    {
+        "label": "evaluate_classifiers",
+        "kind": 2,
+        "importPath": ".history.synapse_classification_20250223190906",
+        "description": ".history.synapse_classification_20250223190906",
+        "peekOfCode": "def evaluate_classifiers(X, y, n_splits=5):\n    \"\"\"Evaluate multiple classifiers using k-fold cross validation\"\"\"\n    classifiers = {\n        'Random Forest': RandomForestClassifier(random_state=42, \n                                              class_weight='balanced',\n                                              n_estimators=200,\n                                              max_depth=5),\n        'SVM': SVC(random_state=42, \n                   class_weight='balanced',\n                   kernel='rbf',",
+        "detail": ".history.synapse_classification_20250223190906",
+        "documentation": {}
+    },
+    {
+        "label": "plot_results",
+        "kind": 2,
+        "importPath": ".history.synapse_classification_20250223190906",
+        "description": ".history.synapse_classification_20250223190906",
+        "peekOfCode": "def plot_results(results, confusion_matrices):\n    \"\"\"Plot cross validation results and confusion matrices\"\"\"\n    n_classifiers = len(results)\n    fig, axes = plt.subplots(2, n_classifiers, figsize=(15, 10))\n    # Plot accuracy boxplots\n    axes[0, 1].boxplot(results.values(), labels=results.keys())\n    axes[0, 1].set_title('Classifier Performance Comparison')\n    axes[0, 1].set_ylabel('Accuracy')\n    axes[0, 1].set_xticklabels(results.keys(), rotation=45)\n    # Hide other plots in top row",
+        "detail": ".history.synapse_classification_20250223190906",
+        "documentation": {}
+    },
+    {
+        "label": "load_and_prepare_data",
+        "kind": 2,
+        "importPath": ".history.synapse_classification_20250223190907",
+        "description": ".history.synapse_classification_20250223190907",
+        "peekOfCode": "def load_and_prepare_data():\n    \"\"\"Load data and prepare features/labels for E/I classification\"\"\"\n    df = pd.read_csv('data/synapse_data_with_metrics.csv')\n    # Print class distribution to understand imbalance\n    print(\"\\nClass distribution:\")\n    print(df['pre_syn_clf_type'].value_counts())\n    # Select numerical features for classification\n    feature_cols = df.select_dtypes(include=[np.number]).columns\n    feature_cols = feature_cols.drop(['syn_id']) if 'syn_id' in feature_cols else feature_cols\n    # Create E/I labels from cell types",
+        "detail": ".history.synapse_classification_20250223190907",
+        "documentation": {}
+    },
+    {
+        "label": "evaluate_classifiers",
+        "kind": 2,
+        "importPath": ".history.synapse_classification_20250223190907",
+        "description": ".history.synapse_classification_20250223190907",
+        "peekOfCode": "def evaluate_classifiers(X, y, n_splits=5):\n    \"\"\"Evaluate multiple classifiers using k-fold cross validation\"\"\"\n    classifiers = {\n        'Random Forest': RandomForestClassifier(random_state=42, \n                                              class_weight='balanced',\n                                              n_estimators=200,\n                                              max_depth=5),\n        'SVM': SVC(random_state=42, \n                   class_weight='balanced',\n                   kernel='rbf',",
+        "detail": ".history.synapse_classification_20250223190907",
+        "documentation": {}
+    },
+    {
+        "label": "plot_results",
+        "kind": 2,
+        "importPath": ".history.synapse_classification_20250223190907",
+        "description": ".history.synapse_classification_20250223190907",
+        "peekOfCode": "def plot_results(results, confusion_matrices):\n    \"\"\"Plot cross validation results and confusion matrices\"\"\"\n    n_classifiers = len(results)\n    fig, axes = plt.subplots(2, n_classifiers, figsize=(15, 10))\n    # Plot accuracy boxplots\n    axes[0, 1].boxplot(results.values(), labels=results.keys())\n    axes[0, 1].set_title('Classifier Performance Comparison')\n    axes[0, 1].set_ylabel('Accuracy')\n    axes[0, 1].set_xticklabels(results.keys(), rotation=45)\n    # Hide other plots in top row",
+        "detail": ".history.synapse_classification_20250223190907",
+        "documentation": {}
+    },
+    {
+        "label": "load_and_prepare_data",
+        "kind": 2,
+        "importPath": ".history.synapse_classification_20250223190908",
+        "description": ".history.synapse_classification_20250223190908",
+        "peekOfCode": "def load_and_prepare_data():\n    \"\"\"Load data and prepare features/labels for E/I classification\"\"\"\n    df = pd.read_csv('data/synapse_data_with_metrics.csv')\n    # Print class distribution to understand imbalance\n    print(\"\\nClass distribution:\")\n    print(df['pre_syn_clf_type'].value_counts())\n    # Select numerical features for classification\n    feature_cols = df.select_dtypes(include=[np.number]).columns\n    feature_cols = feature_cols.drop(['syn_id']) if 'syn_id' in feature_cols else feature_cols\n    # Create E/I labels from cell types",
+        "detail": ".history.synapse_classification_20250223190908",
+        "documentation": {}
+    },
+    {
+        "label": "evaluate_classifiers",
+        "kind": 2,
+        "importPath": ".history.synapse_classification_20250223190908",
+        "description": ".history.synapse_classification_20250223190908",
+        "peekOfCode": "def evaluate_classifiers(X, y, n_splits=5):\n    \"\"\"Evaluate multiple classifiers using k-fold cross validation\"\"\"\n    classifiers = {\n        'Random Forest': RandomForestClassifier(random_state=42, \n                                              class_weight='balanced',\n                                              n_estimators=200,\n                                              max_depth=5),\n        'SVM': SVC(random_state=42, \n                   class_weight='balanced',\n                   kernel='rbf',",
+        "detail": ".history.synapse_classification_20250223190908",
+        "documentation": {}
+    },
+    {
+        "label": "plot_results",
+        "kind": 2,
+        "importPath": ".history.synapse_classification_20250223190908",
+        "description": ".history.synapse_classification_20250223190908",
+        "peekOfCode": "def plot_results(results, confusion_matrices):\n    \"\"\"Plot cross validation results and confusion matrices\"\"\"\n    n_classifiers = len(results)\n    fig, axes = plt.subplots(2, n_classifiers, figsize=(15, 10))\n    # Plot accuracy boxplots\n    axes[0, 1].boxplot(results.values(), labels=results.keys())\n    axes[0, 1].set_title('Classifier Performance Comparison')\n    axes[0, 1].set_ylabel('Accuracy')\n    axes[0, 1].set_xticklabels(results.keys(), rotation=45)\n    # Hide other plots in top row",
+        "detail": ".history.synapse_classification_20250223190908",
+        "documentation": {}
+    },
+    {
+        "label": "load_and_prepare_data",
+        "kind": 2,
+        "importPath": ".history.synapse_classification_20250223191115",
+        "description": ".history.synapse_classification_20250223191115",
+        "peekOfCode": "def load_and_prepare_data():\n    \"\"\"Load data and prepare features/labels for E/I classification\"\"\"\n    df = pd.read_csv('data/synapse_data_with_metrics.csv')\n    # Print class distribution to understand imbalance\n    print(\"\\nClass distribution:\")\n    print(df['pre_syn_clf_type'].value_counts())\n    # Select numerical features for classification\n    feature_cols = df.select_dtypes(include=[np.number]).columns\n    feature_cols = feature_cols.drop(['syn_id']) if 'syn_id' in feature_cols else feature_cols\n    # Create E/I labels from cell types",
+        "detail": ".history.synapse_classification_20250223191115",
+        "documentation": {}
+    },
+    {
+        "label": "evaluate_classifiers",
+        "kind": 2,
+        "importPath": ".history.synapse_classification_20250223191115",
+        "description": ".history.synapse_classification_20250223191115",
+        "peekOfCode": "def evaluate_classifiers(X, y, n_splits=5):\n    \"\"\"Evaluate multiple classifiers using k-fold cross validation\"\"\"\n    classifiers = {\n        'Random Forest': RandomForestClassifier(random_state=42, \n                                              n_estimators=200,\n                                              max_depth=5),\n        'SVM': SVC(random_state=42, \n                   kernel='rbf',\n                   probability=True),\n        'Neural Net': MLPClassifier(random_state=42,",
+        "detail": ".history.synapse_classification_20250223191115",
+        "documentation": {}
+    },
+    {
+        "label": "plot_results",
+        "kind": 2,
+        "importPath": ".history.synapse_classification_20250223191115",
+        "description": ".history.synapse_classification_20250223191115",
+        "peekOfCode": "def plot_results(results, confusion_matrices):\n    \"\"\"Plot cross validation results and confusion matrices\"\"\"\n    n_classifiers = len(results)\n    fig, axes = plt.subplots(2, n_classifiers, figsize=(15, 10))\n    # Plot accuracy boxplots\n    axes[0, 1].boxplot(results.values(), labels=results.keys())\n    axes[0, 1].set_title('Classifier Performance Comparison')\n    axes[0, 1].set_ylabel('Accuracy')\n    axes[0, 1].set_xticklabels(results.keys(), rotation=45)\n    # Hide other plots in top row",
+        "detail": ".history.synapse_classification_20250223191115",
+        "documentation": {}
+    },
+    {
+        "label": "load_and_prepare_data",
+        "kind": 2,
+        "importPath": ".history.synapse_classification_20250223191116",
+        "description": ".history.synapse_classification_20250223191116",
+        "peekOfCode": "def load_and_prepare_data():\n    \"\"\"Load data and prepare features/labels for E/I classification\"\"\"\n    df = pd.read_csv('data/synapse_data_with_metrics.csv')\n    # Print class distribution to understand imbalance\n    print(\"\\nClass distribution:\")\n    print(df['pre_syn_clf_type'].value_counts())\n    # Select numerical features for classification\n    feature_cols = df.select_dtypes(include=[np.number]).columns\n    feature_cols = feature_cols.drop(['syn_id']) if 'syn_id' in feature_cols else feature_cols\n    # Create E/I labels from cell types",
+        "detail": ".history.synapse_classification_20250223191116",
+        "documentation": {}
+    },
+    {
+        "label": "evaluate_classifiers",
+        "kind": 2,
+        "importPath": ".history.synapse_classification_20250223191116",
+        "description": ".history.synapse_classification_20250223191116",
+        "peekOfCode": "def evaluate_classifiers(X, y, n_splits=5):\n    \"\"\"Evaluate multiple classifiers using k-fold cross validation\"\"\"\n    classifiers = {\n        'Random Forest': RandomForestClassifier(random_state=42, \n                                              n_estimators=200,\n                                              max_depth=5),\n        'SVM': SVC(random_state=42, \n                   kernel='rbf',\n                   probability=True),\n        'Neural Net': MLPClassifier(random_state=42,",
+        "detail": ".history.synapse_classification_20250223191116",
+        "documentation": {}
+    },
+    {
+        "label": "plot_results",
+        "kind": 2,
+        "importPath": ".history.synapse_classification_20250223191116",
+        "description": ".history.synapse_classification_20250223191116",
+        "peekOfCode": "def plot_results(results, confusion_matrices):\n    \"\"\"Plot cross validation results and confusion matrices\"\"\"\n    n_classifiers = len(results)\n    fig, axes = plt.subplots(2, n_classifiers, figsize=(15, 10))\n    # Plot accuracy boxplots\n    axes[0, 1].boxplot(results.values(), labels=results.keys())\n    axes[0, 1].set_title('Classifier Performance Comparison')\n    axes[0, 1].set_ylabel('Accuracy')\n    axes[0, 1].set_xticklabels(results.keys(), rotation=45)\n    # Hide other plots in top row",
+        "detail": ".history.synapse_classification_20250223191116",
+        "documentation": {}
+    },
+    {
+        "label": "load_and_prepare_data",
+        "kind": 2,
+        "importPath": ".history.synapse_classification_20250223191227",
+        "description": ".history.synapse_classification_20250223191227",
+        "peekOfCode": "def load_and_prepare_data():\n    \"\"\"Load data and prepare features/labels for E/I classification\"\"\"\n    df = pd.read_csv('data/synapse_data_with_metrics.csv')\n    # Print class distribution to understand imbalance\n    print(\"\\nClass distribution:\")\n    print(df['pre_syn_clf_type'].value_counts())\n    # Select numerical features for classification\n    feature_cols = df.select_dtypes(include=[np.number]).columns\n    feature_cols = feature_cols.drop(['syn_id']) if 'syn_id' in feature_cols else feature_cols\n    # Create E/I labels from cell types",
+        "detail": ".history.synapse_classification_20250223191227",
+        "documentation": {}
+    },
+    {
+        "label": "evaluate_classifiers",
+        "kind": 2,
+        "importPath": ".history.synapse_classification_20250223191227",
+        "description": ".history.synapse_classification_20250223191227",
+        "peekOfCode": "def evaluate_classifiers(X, y, n_splits=5):\n    \"\"\"Evaluate multiple classifiers using k-fold cross validation\"\"\"\n    classifiers = {\n        'Random Forest': RandomForestClassifier(random_state=42, \n                                              n_estimators=200,\n                                              max_depth=5),\n        'SVM': SVC(random_state=42, \n                   kernel='rbf',\n                   probability=True),\n        'Neural Net': MLPClassifier(random_state=42,",
+        "detail": ".history.synapse_classification_20250223191227",
+        "documentation": {}
+    },
+    {
+        "label": "plot_results",
+        "kind": 2,
+        "importPath": ".history.synapse_classification_20250223191227",
+        "description": ".history.synapse_classification_20250223191227",
+        "peekOfCode": "def plot_results(results, confusion_matrices):\n    \"\"\"Plot cross validation results and confusion matrices\"\"\"\n    n_classifiers = len(results)\n    fig, axes = plt.subplots(2, n_classifiers, figsize=(15, 10))\n    # Plot accuracy boxplots\n    axes[0, 1].boxplot(results.values(), labels=results.keys())\n    axes[0, 1].set_title('Classifier Performance Comparison')\n    axes[0, 1].set_ylabel('Accuracy')\n    axes[0, 1].set_xticklabels(results.keys(), rotation=45)\n    # Hide other plots in top row",
+        "detail": ".history.synapse_classification_20250223191227",
+        "documentation": {}
+    },
+    {
+        "label": "load_and_prepare_data",
+        "kind": 2,
+        "importPath": ".history.synapse_classification_20250223191228",
+        "description": ".history.synapse_classification_20250223191228",
+        "peekOfCode": "def load_and_prepare_data():\n    \"\"\"Load data and prepare features/labels for E/I classification\"\"\"\n    df = pd.read_csv('data/synapse_data_with_metrics.csv')\n    # Print class distribution to understand imbalance\n    print(\"\\nClass distribution:\")\n    print(df['pre_syn_clf_type'].value_counts())\n    # Select numerical features for classification\n    feature_cols = df.select_dtypes(include=[np.number]).columns\n    feature_cols = feature_cols.drop(['syn_id']) if 'syn_id' in feature_cols else feature_cols\n    # Create E/I labels from cell types",
+        "detail": ".history.synapse_classification_20250223191228",
+        "documentation": {}
+    },
+    {
+        "label": "evaluate_classifiers",
+        "kind": 2,
+        "importPath": ".history.synapse_classification_20250223191228",
+        "description": ".history.synapse_classification_20250223191228",
+        "peekOfCode": "def evaluate_classifiers(X, y, n_splits=5):\n    \"\"\"Evaluate multiple classifiers using k-fold cross validation\"\"\"\n    classifiers = {\n        'Random Forest': RandomForestClassifier(random_state=42, \n                                              n_estimators=200,\n                                              max_depth=5),\n        'SVM': SVC(random_state=42, \n                   kernel='rbf',\n                   probability=True),\n        'Neural Net': MLPClassifier(random_state=42,",
+        "detail": ".history.synapse_classification_20250223191228",
+        "documentation": {}
+    },
+    {
+        "label": "plot_results",
+        "kind": 2,
+        "importPath": ".history.synapse_classification_20250223191228",
+        "description": ".history.synapse_classification_20250223191228",
+        "peekOfCode": "def plot_results(results, confusion_matrices):\n    \"\"\"Plot cross validation results and confusion matrices\"\"\"\n    n_classifiers = len(results)\n    fig, axes = plt.subplots(2, n_classifiers, figsize=(15, 10))\n    # Plot accuracy boxplots\n    axes[0, 1].boxplot(results.values(), labels=results.keys())\n    axes[0, 1].set_title('Classifier Performance Comparison')\n    axes[0, 1].set_ylabel('Accuracy')\n    axes[0, 1].set_xticklabels(results.keys(), rotation=45)\n    # Hide other plots in top row",
+        "detail": ".history.synapse_classification_20250223191228",
+        "documentation": {}
+    },
+    {
+        "label": "load_and_prepare_data",
+        "kind": 2,
+        "importPath": ".history.synapse_classification_20250223191406",
+        "description": ".history.synapse_classification_20250223191406",
+        "peekOfCode": "def load_and_prepare_data():\n    \"\"\"Load data and prepare features/labels for E/I classification\"\"\"\n    df = pd.read_csv('data/synapse_data_with_metrics.csv')\n    # Print class distribution to understand imbalance\n    print(\"\\nClass distribution:\")\n    print(df['pre_syn_clf_type'].value_counts())\n    # Select numerical features for classification\n    feature_cols = df.select_dtypes(include=[np.number]).columns\n    feature_cols = feature_cols.drop(['syn_id']) if 'syn_id' in feature_cols else feature_cols\n    # Create E/I labels from cell types",
+        "detail": ".history.synapse_classification_20250223191406",
+        "documentation": {}
+    },
+    {
+        "label": "evaluate_classifiers",
+        "kind": 2,
+        "importPath": ".history.synapse_classification_20250223191406",
+        "description": ".history.synapse_classification_20250223191406",
+        "peekOfCode": "def evaluate_classifiers(X, y, n_splits=5):\n    \"\"\"Evaluate multiple classifiers using k-fold cross validation\"\"\"\n    classifiers = {\n        'Random Forest': RandomForestClassifier(random_state=42, \n                                              n_estimators=500,\n                                              max_depth=10,\n                                              min_samples_leaf=5),\n        'SVM': SVC(random_state=42, \n                   kernel='rbf',\n                   C=10,",
+        "detail": ".history.synapse_classification_20250223191406",
+        "documentation": {}
+    },
+    {
+        "label": "plot_results",
+        "kind": 2,
+        "importPath": ".history.synapse_classification_20250223191406",
+        "description": ".history.synapse_classification_20250223191406",
+        "peekOfCode": "def plot_results(results, confusion_matrices):\n    \"\"\"Plot cross validation results and confusion matrices\"\"\"\n    n_classifiers = len(results)\n    fig, axes = plt.subplots(2, n_classifiers, figsize=(15, 10))\n    # Plot accuracy boxplots\n    axes[0, 1].boxplot(results.values(), labels=results.keys())\n    axes[0, 1].set_title('Classifier Performance Comparison')\n    axes[0, 1].set_ylabel('Accuracy')\n    axes[0, 1].set_xticklabels(results.keys(), rotation=45)\n    # Hide other plots in top row",
+        "detail": ".history.synapse_classification_20250223191406",
+        "documentation": {}
+    },
+    {
+        "label": "load_and_prepare_data",
+        "kind": 2,
+        "importPath": ".history.synapse_classification_20250223191407",
+        "description": ".history.synapse_classification_20250223191407",
+        "peekOfCode": "def load_and_prepare_data():\n    \"\"\"Load data and prepare features/labels for E/I classification\"\"\"\n    df = pd.read_csv('data/synapse_data_with_metrics.csv')\n    # Print class distribution to understand imbalance\n    print(\"\\nClass distribution:\")\n    print(df['pre_syn_clf_type'].value_counts())\n    # Select numerical features for classification\n    feature_cols = df.select_dtypes(include=[np.number]).columns\n    feature_cols = feature_cols.drop(['syn_id']) if 'syn_id' in feature_cols else feature_cols\n    # Create E/I labels from cell types",
+        "detail": ".history.synapse_classification_20250223191407",
+        "documentation": {}
+    },
+    {
+        "label": "evaluate_classifiers",
+        "kind": 2,
+        "importPath": ".history.synapse_classification_20250223191407",
+        "description": ".history.synapse_classification_20250223191407",
+        "peekOfCode": "def evaluate_classifiers(X, y, n_splits=5):\n    \"\"\"Evaluate multiple classifiers using k-fold cross validation\"\"\"\n    classifiers = {\n        'Random Forest': RandomForestClassifier(random_state=42, \n                                              n_estimators=500,\n                                              max_depth=10,\n                                              min_samples_leaf=5),\n        'SVM': SVC(random_state=42, \n                   kernel='rbf',\n                   C=10,",
+        "detail": ".history.synapse_classification_20250223191407",
+        "documentation": {}
+    },
+    {
+        "label": "plot_results",
+        "kind": 2,
+        "importPath": ".history.synapse_classification_20250223191407",
+        "description": ".history.synapse_classification_20250223191407",
+        "peekOfCode": "def plot_results(results, confusion_matrices):\n    \"\"\"Plot cross validation results and confusion matrices\"\"\"\n    n_classifiers = len(results)\n    fig, axes = plt.subplots(2, n_classifiers, figsize=(15, 10))\n    # Plot accuracy boxplots\n    axes[0, 1].boxplot(results.values(), labels=results.keys())\n    axes[0, 1].set_title('Classifier Performance Comparison')\n    axes[0, 1].set_ylabel('Accuracy')\n    axes[0, 1].set_xticklabels(results.keys(), rotation=45)\n    # Hide other plots in top row",
+        "detail": ".history.synapse_classification_20250223191407",
+        "documentation": {}
+    },
+    {
+        "label": "load_and_prepare_data",
+        "kind": 2,
+        "importPath": ".history.synapse_classification_20250223191606",
+        "description": ".history.synapse_classification_20250223191606",
+        "peekOfCode": "def load_and_prepare_data():\n    \"\"\"Load data and prepare features/labels for E/I classification\"\"\"\n    df = pd.read_csv('data/synapse_data_with_metrics.csv')\n    # Print class distribution to understand imbalance\n    print(\"\\nClass distribution:\")\n    print(df['pre_syn_clf_type'].value_counts())\n    # Select numerical features for classification\n    feature_cols = df.select_dtypes(include=[np.number]).columns\n    feature_cols = feature_cols.drop(['syn_id']) if 'syn_id' in feature_cols else feature_cols\n    # Create E/I labels from cell types",
+        "detail": ".history.synapse_classification_20250223191606",
+        "documentation": {}
+    },
+    {
+        "label": "evaluate_classifiers",
+        "kind": 2,
+        "importPath": ".history.synapse_classification_20250223191606",
+        "description": ".history.synapse_classification_20250223191606",
+        "peekOfCode": "def evaluate_classifiers(X, y, n_splits=5):\n    \"\"\"Evaluate multiple classifiers using k-fold cross validation\"\"\"\n    classifiers = {\n        'Random Forest': RandomForestClassifier(random_state=42, \n                                              n_estimators=500,\n                                              max_depth=10,\n                                              min_samples_leaf=5),\n        'SVM': SVC(random_state=42, \n                   kernel='rbf',\n                   C=10,",
+        "detail": ".history.synapse_classification_20250223191606",
+        "documentation": {}
+    },
+    {
+        "label": "plot_results",
+        "kind": 2,
+        "importPath": ".history.synapse_classification_20250223191606",
+        "description": ".history.synapse_classification_20250223191606",
+        "peekOfCode": "def plot_results(results, confusion_matrices):\n    \"\"\"Plot cross validation results and confusion matrices\"\"\"\n    n_classifiers = len(results)\n    fig, axes = plt.subplots(2, n_classifiers, figsize=(15, 10))\n    # Plot accuracy boxplots\n    axes[0, 1].boxplot(results.values(), labels=results.keys())\n    axes[0, 1].set_title('Classifier Performance Comparison')\n    axes[0, 1].set_ylabel('Accuracy')\n    axes[0, 1].set_xticklabels(results.keys(), rotation=45)\n    # Hide other plots in top row",
+        "detail": ".history.synapse_classification_20250223191606",
+        "documentation": {}
+    },
+    {
+        "label": "load_and_prepare_data",
+        "kind": 2,
+        "importPath": ".history.synapse_classification_20250223191936",
+        "description": ".history.synapse_classification_20250223191936",
+        "peekOfCode": "def load_and_prepare_data():\n    \"\"\"Load data and prepare features/labels for E/I classification\"\"\"\n    df = pd.read_csv('data/synapse_data_with_metrics.csv')\n    # Print class distribution to understand imbalance\n    print(\"\\nClass distribution:\")\n    print(df['pre_syn_clf_type'].value_counts())\n    # Select numerical features for classification\n    feature_cols = df.select_dtypes(include=[np.number]).columns\n    feature_cols = feature_cols.drop(['syn_id']) if 'syn_id' in feature_cols else feature_cols\n    # Create E/I labels from cell types",
+        "detail": ".history.synapse_classification_20250223191936",
+        "documentation": {}
+    },
+    {
+        "label": "evaluate_classifiers",
+        "kind": 2,
+        "importPath": ".history.synapse_classification_20250223191936",
+        "description": ".history.synapse_classification_20250223191936",
+        "peekOfCode": "def evaluate_classifiers(X, y, n_splits=5):\n    \"\"\"Evaluate multiple classifiers using k-fold cross validation\"\"\"\n    classifiers = {\n        'Random Forest': RandomForestClassifier(random_state=42, \n                                              n_estimators=500,\n                                              max_depth=10,\n                                              min_samples_leaf=5),\n        'SVM': SVC(random_state=42, \n                   kernel='rbf',\n                   C=10,",
+        "detail": ".history.synapse_classification_20250223191936",
+        "documentation": {}
+    },
+    {
+        "label": "plot_results",
+        "kind": 2,
+        "importPath": ".history.synapse_classification_20250223191936",
+        "description": ".history.synapse_classification_20250223191936",
+        "peekOfCode": "def plot_results(results, confusion_matrices):\n    \"\"\"Plot cross validation results and confusion matrices\"\"\"\n    n_classifiers = len(results)\n    fig, axes = plt.subplots(2, n_classifiers, figsize=(15, 10))\n    # Plot accuracy boxplots\n    axes[0, 1].boxplot(results.values(), labels=results.keys())\n    axes[0, 1].set_title('Classifier Performance Comparison')\n    axes[0, 1].set_ylabel('Accuracy')\n    axes[0, 1].set_xticklabels(results.keys(), rotation=45)\n    # Hide other plots in top row",
+        "detail": ".history.synapse_classification_20250223191936",
+        "documentation": {}
+    },
+    {
+        "label": "load_and_prepare_data",
+        "kind": 2,
+        "importPath": ".history.synapse_classification_20250223192034",
+        "description": ".history.synapse_classification_20250223192034",
+        "peekOfCode": "def load_and_prepare_data():\n    \"\"\"Load data and prepare features/labels for E/I classification\"\"\"\n    df = pd.read_csv('data/synapse_data_with_metrics.csv')\n    # Print class distribution to understand imbalance\n    print(\"\\nClass distribution:\")\n    print(df['pre_syn_clf_type'].value_counts())\n    # Select numerical features for classification\n    feature_cols = df.select_dtypes(include=[np.number]).columns\n    feature_cols = feature_cols.drop(['syn_id']) if 'syn_id' in feature_cols else feature_cols\n    # Create E/I labels from cell types",
+        "detail": ".history.synapse_classification_20250223192034",
+        "documentation": {}
+    },
+    {
+        "label": "evaluate_classifiers",
+        "kind": 2,
+        "importPath": ".history.synapse_classification_20250223192034",
+        "description": ".history.synapse_classification_20250223192034",
+        "peekOfCode": "def evaluate_classifiers(X, y):\n    \"\"\"Evaluate classifiers on full dataset with balanced training\"\"\"\n    classifiers = {\n        'Random Forest': RandomForestClassifier(random_state=42, \n                                              n_estimators=500,\n                                              max_depth=10,\n                                              min_samples_leaf=5),\n        'SVM': SVC(random_state=42, \n                   kernel='rbf',\n                   C=10,",
+        "detail": ".history.synapse_classification_20250223192034",
+        "documentation": {}
+    },
+    {
+        "label": "plot_results",
+        "kind": 2,
+        "importPath": ".history.synapse_classification_20250223192034",
+        "description": ".history.synapse_classification_20250223192034",
+        "peekOfCode": "def plot_results(results, confusion_matrices):\n    \"\"\"Plot confusion matrices as fractions\"\"\"\n    n_classifiers = len(confusion_matrices)\n    fig, axes = plt.subplots(1, n_classifiers, figsize=(15, 5))\n    # Plot confusion matrices\n    labels = ['I', 'E']\n    for idx, (name, cm) in enumerate(confusion_matrices.items()):\n        sns.heatmap(cm, annot=True, fmt='.3f', cmap='Blues', ax=axes[idx],\n                   xticklabels=labels, yticklabels=labels, vmin=0, vmax=1)\n        axes[idx].set_title(f'{name}\\nAccuracy: {results[name]:.3f}')",
+        "detail": ".history.synapse_classification_20250223192034",
+        "documentation": {}
+    },
+    {
+        "label": "load_and_prepare_data",
+        "kind": 2,
+        "importPath": ".history.synapse_classification_20250223192035",
+        "description": ".history.synapse_classification_20250223192035",
+        "peekOfCode": "def load_and_prepare_data():\n    \"\"\"Load data and prepare features/labels for E/I classification\"\"\"\n    df = pd.read_csv('data/synapse_data_with_metrics.csv')\n    # Print class distribution to understand imbalance\n    print(\"\\nClass distribution:\")\n    print(df['pre_syn_clf_type'].value_counts())\n    # Select numerical features for classification\n    feature_cols = df.select_dtypes(include=[np.number]).columns\n    feature_cols = feature_cols.drop(['syn_id']) if 'syn_id' in feature_cols else feature_cols\n    # Create E/I labels from cell types",
+        "detail": ".history.synapse_classification_20250223192035",
+        "documentation": {}
+    },
+    {
+        "label": "evaluate_classifiers",
+        "kind": 2,
+        "importPath": ".history.synapse_classification_20250223192035",
+        "description": ".history.synapse_classification_20250223192035",
+        "peekOfCode": "def evaluate_classifiers(X, y):\n    \"\"\"Evaluate classifiers on full dataset with balanced training\"\"\"\n    classifiers = {\n        'Random Forest': RandomForestClassifier(random_state=42, \n                                              n_estimators=500,\n                                              max_depth=10,\n                                              min_samples_leaf=5),\n        'SVM': SVC(random_state=42, \n                   kernel='rbf',\n                   C=10,",
+        "detail": ".history.synapse_classification_20250223192035",
+        "documentation": {}
+    },
+    {
+        "label": "plot_results",
+        "kind": 2,
+        "importPath": ".history.synapse_classification_20250223192035",
+        "description": ".history.synapse_classification_20250223192035",
+        "peekOfCode": "def plot_results(results, confusion_matrices):\n    \"\"\"Plot confusion matrices as fractions\"\"\"\n    n_classifiers = len(confusion_matrices)\n    fig, axes = plt.subplots(1, n_classifiers, figsize=(15, 5))\n    # Plot confusion matrices\n    labels = ['I', 'E']\n    for idx, (name, cm) in enumerate(confusion_matrices.items()):\n        sns.heatmap(cm, annot=True, fmt='.3f', cmap='Blues', ax=axes[idx],\n                   xticklabels=labels, yticklabels=labels, vmin=0, vmax=1)\n        axes[idx].set_title(f'{name}\\nAccuracy: {results[name]:.3f}')",
+        "detail": ".history.synapse_classification_20250223192035",
+        "documentation": {}
+    },
+    {
         "label": "calculate_synapse_metrics",
         "kind": 2,
         "importPath": ".history.synapse_metrics_20250223170116",
@@ -5794,6 +8025,33 @@
         "description": "synapse_analysis",
         "peekOfCode": "def synapse_morphology(pre_mask, post_mask):\n    \"\"\"Calculate synapse morphology metrics.\"\"\"\n    synapse_mask = pre_mask | post_mask\n    labeled_synapse = measure.label(synapse_mask)\n    properties = measure.regionprops(labeled_synapse)\n    if properties:\n        major_axis_length = properties[0].major_axis_length\n        minor_axis_length = properties[0].minor_axis_length\n    else:\n        major_axis_length = 0",
         "detail": "synapse_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "load_and_prepare_data",
+        "kind": 2,
+        "importPath": "synapse_classification",
+        "description": "synapse_classification",
+        "peekOfCode": "def load_and_prepare_data():\n    \"\"\"Load data and prepare features/labels for E/I classification\"\"\"\n    df = pd.read_csv('data/synapse_data_with_metrics.csv')\n    # Print class distribution to understand imbalance\n    print(\"\\nClass distribution:\")\n    print(df['pre_syn_clf_type'].value_counts())\n    # Select numerical features for classification\n    feature_cols = df.select_dtypes(include=[np.number]).columns\n    feature_cols = feature_cols.drop(['syn_id']) if 'syn_id' in feature_cols else feature_cols\n    # Create E/I labels from cell types",
+        "detail": "synapse_classification",
+        "documentation": {}
+    },
+    {
+        "label": "evaluate_classifiers",
+        "kind": 2,
+        "importPath": "synapse_classification",
+        "description": "synapse_classification",
+        "peekOfCode": "def evaluate_classifiers(X, y):\n    \"\"\"Evaluate classifiers on full dataset with balanced training\"\"\"\n    classifiers = {\n        'Random Forest': RandomForestClassifier(random_state=42, \n                                              n_estimators=500,\n                                              max_depth=10,\n                                              min_samples_leaf=5),\n        'SVM': SVC(random_state=42, \n                   kernel='rbf',\n                   C=10,",
+        "detail": "synapse_classification",
+        "documentation": {}
+    },
+    {
+        "label": "plot_results",
+        "kind": 2,
+        "importPath": "synapse_classification",
+        "description": "synapse_classification",
+        "peekOfCode": "def plot_results(results, confusion_matrices):\n    \"\"\"Plot confusion matrices as fractions\"\"\"\n    n_classifiers = len(confusion_matrices)\n    fig, axes = plt.subplots(1, n_classifiers, figsize=(15, 5))\n    # Plot confusion matrices\n    labels = ['I', 'E']\n    for idx, (name, cm) in enumerate(confusion_matrices.items()):\n        sns.heatmap(cm, annot=True, fmt='.3f', cmap='Blues', ax=axes[idx],\n                   xticklabels=labels, yticklabels=labels, vmin=0, vmax=1)\n        axes[idx].set_title(f'{name}\\nAccuracy: {results[name]:.3f}')",
+        "detail": "synapse_classification",
         "documentation": {}
     },
     {
