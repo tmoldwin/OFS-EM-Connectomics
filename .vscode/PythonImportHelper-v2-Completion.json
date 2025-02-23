@@ -1,0 +1,2021 @@
+[
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "gaussian_kde",
+        "importPath": "scipy.stats",
+        "description": "scipy.stats",
+        "isExtraImport": true,
+        "detail": "scipy.stats",
+        "documentation": {}
+    },
+    {
+        "label": "gaussian_kde",
+        "importPath": "scipy.stats",
+        "description": "scipy.stats",
+        "isExtraImport": true,
+        "detail": "scipy.stats",
+        "documentation": {}
+    },
+    {
+        "label": "gaussian_kde",
+        "importPath": "scipy.stats",
+        "description": "scipy.stats",
+        "isExtraImport": true,
+        "detail": "scipy.stats",
+        "documentation": {}
+    },
+    {
+        "label": "gaussian_kde",
+        "importPath": "scipy.stats",
+        "description": "scipy.stats",
+        "isExtraImport": true,
+        "detail": "scipy.stats",
+        "documentation": {}
+    },
+    {
+        "label": "gaussian_kde",
+        "importPath": "scipy.stats",
+        "description": "scipy.stats",
+        "isExtraImport": true,
+        "detail": "scipy.stats",
+        "documentation": {}
+    },
+    {
+        "label": "gaussian_kde",
+        "importPath": "scipy.stats",
+        "description": "scipy.stats",
+        "isExtraImport": true,
+        "detail": "scipy.stats",
+        "documentation": {}
+    },
+    {
+        "label": "gaussian_kde",
+        "importPath": "scipy.stats",
+        "description": "scipy.stats",
+        "isExtraImport": true,
+        "detail": "scipy.stats",
+        "documentation": {}
+    },
+    {
+        "label": "gaussian_kde",
+        "importPath": "scipy.stats",
+        "description": "scipy.stats",
+        "isExtraImport": true,
+        "detail": "scipy.stats",
+        "documentation": {}
+    },
+    {
+        "label": "gaussian_kde",
+        "importPath": "scipy.stats",
+        "description": "scipy.stats",
+        "isExtraImport": true,
+        "detail": "scipy.stats",
+        "documentation": {}
+    },
+    {
+        "label": "gaussian_kde",
+        "importPath": "scipy.stats",
+        "description": "scipy.stats",
+        "isExtraImport": true,
+        "detail": "scipy.stats",
+        "documentation": {}
+    },
+    {
+        "label": "gaussian_kde",
+        "importPath": "scipy.stats",
+        "description": "scipy.stats",
+        "isExtraImport": true,
+        "detail": "scipy.stats",
+        "documentation": {}
+    },
+    {
+        "label": "gaussian_kde",
+        "importPath": "scipy.stats",
+        "description": "scipy.stats",
+        "isExtraImport": true,
+        "detail": "scipy.stats",
+        "documentation": {}
+    },
+    {
+        "label": "gaussian_kde",
+        "importPath": "scipy.stats",
+        "description": "scipy.stats",
+        "isExtraImport": true,
+        "detail": "scipy.stats",
+        "documentation": {}
+    },
+    {
+        "label": "gaussian_kde",
+        "importPath": "scipy.stats",
+        "description": "scipy.stats",
+        "isExtraImport": true,
+        "detail": "scipy.stats",
+        "documentation": {}
+    },
+    {
+        "label": "gaussian_kde",
+        "importPath": "scipy.stats",
+        "description": "scipy.stats",
+        "isExtraImport": true,
+        "detail": "scipy.stats",
+        "documentation": {}
+    },
+    {
+        "label": "gaussian_kde",
+        "importPath": "scipy.stats",
+        "description": "scipy.stats",
+        "isExtraImport": true,
+        "detail": "scipy.stats",
+        "documentation": {}
+    },
+    {
+        "label": "gaussian_kde",
+        "importPath": "scipy.stats",
+        "description": "scipy.stats",
+        "isExtraImport": true,
+        "detail": "scipy.stats",
+        "documentation": {}
+    },
+    {
+        "label": "gaussian_kde",
+        "importPath": "scipy.stats",
+        "description": "scipy.stats",
+        "isExtraImport": true,
+        "detail": "scipy.stats",
+        "documentation": {}
+    },
+    {
+        "label": "gaussian_kde",
+        "importPath": "scipy.stats",
+        "description": "scipy.stats",
+        "isExtraImport": true,
+        "detail": "scipy.stats",
+        "documentation": {}
+    },
+    {
+        "label": "gaussian_kde",
+        "importPath": "scipy.stats",
+        "description": "scipy.stats",
+        "isExtraImport": true,
+        "detail": "scipy.stats",
+        "documentation": {}
+    },
+    {
+        "label": "gaussian_kde",
+        "importPath": "scipy.stats",
+        "description": "scipy.stats",
+        "isExtraImport": true,
+        "detail": "scipy.stats",
+        "documentation": {}
+    },
+    {
+        "label": "gaussian_kde",
+        "importPath": "scipy.stats",
+        "description": "scipy.stats",
+        "isExtraImport": true,
+        "detail": "scipy.stats",
+        "documentation": {}
+    },
+    {
+        "label": "gaussian_kde",
+        "importPath": "scipy.stats",
+        "description": "scipy.stats",
+        "isExtraImport": true,
+        "detail": "scipy.stats",
+        "documentation": {}
+    },
+    {
+        "label": "gaussian_kde",
+        "importPath": "scipy.stats",
+        "description": "scipy.stats",
+        "isExtraImport": true,
+        "detail": "scipy.stats",
+        "documentation": {}
+    },
+    {
+        "label": "gaussian_kde",
+        "importPath": "scipy.stats",
+        "description": "scipy.stats",
+        "isExtraImport": true,
+        "detail": "scipy.stats",
+        "documentation": {}
+    },
+    {
+        "label": "gaussian_kde",
+        "importPath": "scipy.stats",
+        "description": "scipy.stats",
+        "isExtraImport": true,
+        "detail": "scipy.stats",
+        "documentation": {}
+    },
+    {
+        "label": "gaussian_kde",
+        "importPath": "scipy.stats",
+        "description": "scipy.stats",
+        "isExtraImport": true,
+        "detail": "scipy.stats",
+        "documentation": {}
+    },
+    {
+        "label": "gaussian_kde",
+        "importPath": "scipy.stats",
+        "description": "scipy.stats",
+        "isExtraImport": true,
+        "detail": "scipy.stats",
+        "documentation": {}
+    },
+    {
+        "label": "gaussian_kde",
+        "importPath": "scipy.stats",
+        "description": "scipy.stats",
+        "isExtraImport": true,
+        "detail": "scipy.stats",
+        "documentation": {}
+    },
+    {
+        "label": "matplotlib.pyplot",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "matplotlib.pyplot",
+        "description": "matplotlib.pyplot",
+        "detail": "matplotlib.pyplot",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "generate_points",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211215634",
+        "description": ".history.notebooks.randomsynapsetest_20241211215634",
+        "peekOfCode": "def generate_points(n: int, mode: str, stick_length: float = 1.0) -> np.ndarray:\n    \"\"\"Generate points on a stick using different distribution patterns.\"\"\"\n    if mode == 'uniform':\n        return np.random.uniform(0, stick_length, n)\n    elif mode == 'two_bunches':\n        # Mix of two normal distributions centered at 0.25 and 0.75\n        points = np.concatenate([\n            np.random.normal(0.25, 0.1, n//2),\n            np.random.normal(0.75, 0.1, n//2 + n%2)\n        ])",
+        "detail": ".history.notebooks.randomsynapsetest_20241211215634",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_metrics",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211215634",
+        "description": ".history.notebooks.randomsynapsetest_20241211215634",
+        "peekOfCode": "def calculate_metrics(points: np.ndarray) -> dict:\n    \"\"\"Calculate various distribution metrics.\"\"\"\n    # Sort points for nearest neighbor calculation\n    sorted_points = np.sort(points)\n    # Calculate nearest neighbor distances\n    nn_distances = np.minimum(\n        np.diff(sorted_points),\n        np.diff(np.roll(sorted_points, 1))[1:]\n    )\n    # Calculate pairwise distances",
+        "detail": ".history.notebooks.randomsynapsetest_20241211215634",
+        "documentation": {}
+    },
+    {
+        "label": "plot_experiment",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211215634",
+        "description": ".history.notebooks.randomsynapsetest_20241211215634",
+        "peekOfCode": "def plot_experiment(ax: plt.Axes = None, points: np.ndarray = None, \n                   metrics: dict = None, title: str = '') -> plt.Axes:\n    \"\"\"Plot points and their distribution on given axes.\"\"\"\n    if ax is None:\n        _, ax = plt.subplots(1, 1, figsize=(8, 2))\n    # Plot points as vertical lines\n    ax.vlines(points, 0, 1, color='black', alpha=0.5)\n    # Add kernel density estimate\n    if len(points) > 1:\n        kde = gaussian_kde(points)",
+        "detail": ".history.notebooks.randomsynapsetest_20241211215634",
+        "documentation": {}
+    },
+    {
+        "label": "plot_metrics",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211215634",
+        "description": ".history.notebooks.randomsynapsetest_20241211215634",
+        "peekOfCode": "def plot_metrics(ax: plt.Axes = None, metrics: dict = None, \n                title: str = '') -> plt.Axes:\n    \"\"\"Plot metrics as bar chart on given axes.\"\"\"\n    if ax is None:\n        _, ax = plt.subplots(1, 1, figsize=(8, 2))\n    x = np.arange(len(metrics))\n    ax.bar(x, list(metrics.values()))\n    ax.set_xticks(x)\n    ax.set_xticklabels(list(metrics.keys()), rotation=45)\n    ax.set_title(title)",
+        "detail": ".history.notebooks.randomsynapsetest_20241211215634",
+        "documentation": {}
+    },
+    {
+        "label": "run_experiments",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211215634",
+        "description": ".history.notebooks.randomsynapsetest_20241211215634",
+        "peekOfCode": "def run_experiments():\n    \"\"\"Run all experiments and create visualization.\"\"\"\n    experiments = [\n        ('uniform', 10, 'Uniform (N=10)'),\n        ('uniform', 50, 'Uniform (N=50)'),\n        ('two_bunches', 10, 'Two Bunches (N=10)'),\n        ('two_bunches', 50, 'Two Bunches (N=50)'),\n        ('three_clusters', 10, 'Three Clusters (N=10)'),\n        ('three_clusters', 50, 'Three Clusters (N=50)')\n    ]",
+        "detail": ".history.notebooks.randomsynapsetest_20241211215634",
+        "documentation": {}
+    },
+    {
+        "label": "generate_points",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211215635",
+        "description": ".history.notebooks.randomsynapsetest_20241211215635",
+        "peekOfCode": "def generate_points(n: int, mode: str, stick_length: float = 1.0) -> np.ndarray:\n    \"\"\"Generate points on a stick using different distribution patterns.\"\"\"\n    if mode == 'uniform':\n        return np.random.uniform(0, stick_length, n)\n    elif mode == 'two_bunches':\n        # Mix of two normal distributions centered at 0.25 and 0.75\n        points = np.concatenate([\n            np.random.normal(0.25, 0.1, n//2),\n            np.random.normal(0.75, 0.1, n//2 + n%2)\n        ])",
+        "detail": ".history.notebooks.randomsynapsetest_20241211215635",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_metrics",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211215635",
+        "description": ".history.notebooks.randomsynapsetest_20241211215635",
+        "peekOfCode": "def calculate_metrics(points: np.ndarray) -> dict:\n    \"\"\"Calculate various distribution metrics.\"\"\"\n    # Sort points for nearest neighbor calculation\n    sorted_points = np.sort(points)\n    # Calculate nearest neighbor distances\n    nn_distances = np.minimum(\n        np.diff(sorted_points),\n        np.diff(np.roll(sorted_points, 1))[1:]\n    )\n    # Calculate pairwise distances",
+        "detail": ".history.notebooks.randomsynapsetest_20241211215635",
+        "documentation": {}
+    },
+    {
+        "label": "plot_experiment",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211215635",
+        "description": ".history.notebooks.randomsynapsetest_20241211215635",
+        "peekOfCode": "def plot_experiment(ax: plt.Axes = None, points: np.ndarray = None, \n                   metrics: dict = None, title: str = '') -> plt.Axes:\n    \"\"\"Plot points and their distribution on given axes.\"\"\"\n    if ax is None:\n        _, ax = plt.subplots(1, 1, figsize=(8, 2))\n    # Plot points as vertical lines\n    ax.vlines(points, 0, 1, color='black', alpha=0.5)\n    # Add kernel density estimate\n    if len(points) > 1:\n        kde = gaussian_kde(points)",
+        "detail": ".history.notebooks.randomsynapsetest_20241211215635",
+        "documentation": {}
+    },
+    {
+        "label": "plot_metrics",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211215635",
+        "description": ".history.notebooks.randomsynapsetest_20241211215635",
+        "peekOfCode": "def plot_metrics(ax: plt.Axes = None, metrics: dict = None, \n                title: str = '') -> plt.Axes:\n    \"\"\"Plot metrics as bar chart on given axes.\"\"\"\n    if ax is None:\n        _, ax = plt.subplots(1, 1, figsize=(8, 2))\n    x = np.arange(len(metrics))\n    ax.bar(x, list(metrics.values()))\n    ax.set_xticks(x)\n    ax.set_xticklabels(list(metrics.keys()), rotation=45)\n    ax.set_title(title)",
+        "detail": ".history.notebooks.randomsynapsetest_20241211215635",
+        "documentation": {}
+    },
+    {
+        "label": "run_experiments",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211215635",
+        "description": ".history.notebooks.randomsynapsetest_20241211215635",
+        "peekOfCode": "def run_experiments():\n    \"\"\"Run all experiments and create visualization.\"\"\"\n    experiments = [\n        ('uniform', 10, 'Uniform (N=10)'),\n        ('uniform', 50, 'Uniform (N=50)'),\n        ('two_bunches', 10, 'Two Bunches (N=10)'),\n        ('two_bunches', 50, 'Two Bunches (N=50)'),\n        ('three_clusters', 10, 'Three Clusters (N=10)'),\n        ('three_clusters', 50, 'Three Clusters (N=50)')\n    ]",
+        "detail": ".history.notebooks.randomsynapsetest_20241211215635",
+        "documentation": {}
+    },
+    {
+        "label": "generate_points",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211215709",
+        "description": ".history.notebooks.randomsynapsetest_20241211215709",
+        "peekOfCode": "def generate_points(n: int, mode: str, stick_length: float = 1.0) -> np.ndarray:\n    \"\"\"Generate points on a stick using different distribution patterns.\"\"\"\n    if mode == 'uniform':\n        return np.random.uniform(0, stick_length, n)\n    elif mode == 'two_bunches':\n        # Mix of two normal distributions centered at 0.25 and 0.75\n        points = np.concatenate([\n            np.random.normal(0.25, 0.1, n//2),\n            np.random.normal(0.75, 0.1, n//2 + n%2)\n        ])",
+        "detail": ".history.notebooks.randomsynapsetest_20241211215709",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_metrics",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211215709",
+        "description": ".history.notebooks.randomsynapsetest_20241211215709",
+        "peekOfCode": "def calculate_metrics(points: np.ndarray) -> dict:\n    \"\"\"Calculate various distribution metrics.\"\"\"\n    # Sort points for nearest neighbor calculation\n    sorted_points = np.sort(points)\n    # Calculate nearest neighbor distances\n    nn_distances = np.diff(sorted_points)  # distances to next neighbor\n    # Calculate pairwise distances\n    pairwise_distances = np.abs(points[:, None] - points)\n    np.fill_diagonal(pairwise_distances, np.inf)  # exclude self-distances\n    min_distances = np.min(pairwise_distances, axis=1)  # minimum distance for each point",
+        "detail": ".history.notebooks.randomsynapsetest_20241211215709",
+        "documentation": {}
+    },
+    {
+        "label": "plot_experiment",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211215709",
+        "description": ".history.notebooks.randomsynapsetest_20241211215709",
+        "peekOfCode": "def plot_experiment(ax: plt.Axes = None, points: np.ndarray = None, \n                   metrics: dict = None, title: str = '') -> plt.Axes:\n    \"\"\"Plot points and their distribution on given axes.\"\"\"\n    if ax is None:\n        _, ax = plt.subplots(1, 1, figsize=(8, 2))\n    # Plot points as vertical lines\n    ax.vlines(points, 0, 1, color='black', alpha=0.5)\n    # Add kernel density estimate\n    if len(points) > 1:\n        kde = gaussian_kde(points)",
+        "detail": ".history.notebooks.randomsynapsetest_20241211215709",
+        "documentation": {}
+    },
+    {
+        "label": "plot_metrics",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211215709",
+        "description": ".history.notebooks.randomsynapsetest_20241211215709",
+        "peekOfCode": "def plot_metrics(ax: plt.Axes = None, metrics: dict = None, \n                title: str = '') -> plt.Axes:\n    \"\"\"Plot metrics as bar chart on given axes.\"\"\"\n    if ax is None:\n        _, ax = plt.subplots(1, 1, figsize=(8, 2))\n    x = np.arange(len(metrics))\n    ax.bar(x, list(metrics.values()))\n    ax.set_xticks(x)\n    ax.set_xticklabels(list(metrics.keys()), rotation=45)\n    ax.set_title(title)",
+        "detail": ".history.notebooks.randomsynapsetest_20241211215709",
+        "documentation": {}
+    },
+    {
+        "label": "run_experiments",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211215709",
+        "description": ".history.notebooks.randomsynapsetest_20241211215709",
+        "peekOfCode": "def run_experiments():\n    \"\"\"Run all experiments and create visualization.\"\"\"\n    experiments = [\n        ('uniform', 10, 'Uniform (N=10)'),\n        ('uniform', 50, 'Uniform (N=50)'),\n        ('two_bunches', 10, 'Two Bunches (N=10)'),\n        ('two_bunches', 50, 'Two Bunches (N=50)'),\n        ('three_clusters', 10, 'Three Clusters (N=10)'),\n        ('three_clusters', 50, 'Three Clusters (N=50)')\n    ]",
+        "detail": ".history.notebooks.randomsynapsetest_20241211215709",
+        "documentation": {}
+    },
+    {
+        "label": "generate_points",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211215711",
+        "description": ".history.notebooks.randomsynapsetest_20241211215711",
+        "peekOfCode": "def generate_points(n: int, mode: str, stick_length: float = 1.0) -> np.ndarray:\n    \"\"\"Generate points on a stick using different distribution patterns.\"\"\"\n    if mode == 'uniform':\n        return np.random.uniform(0, stick_length, n)\n    elif mode == 'two_bunches':\n        # Mix of two normal distributions centered at 0.25 and 0.75\n        points = np.concatenate([\n            np.random.normal(0.25, 0.1, n//2),\n            np.random.normal(0.75, 0.1, n//2 + n%2)\n        ])",
+        "detail": ".history.notebooks.randomsynapsetest_20241211215711",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_metrics",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211215711",
+        "description": ".history.notebooks.randomsynapsetest_20241211215711",
+        "peekOfCode": "def calculate_metrics(points: np.ndarray) -> dict:\n    \"\"\"Calculate various distribution metrics.\"\"\"\n    # Sort points for nearest neighbor calculation\n    sorted_points = np.sort(points)\n    # Calculate nearest neighbor distances\n    nn_distances = np.diff(sorted_points)  # distances to next neighbor\n    # Calculate pairwise distances\n    pairwise_distances = np.abs(points[:, None] - points)\n    np.fill_diagonal(pairwise_distances, np.inf)  # exclude self-distances\n    min_distances = np.min(pairwise_distances, axis=1)  # minimum distance for each point",
+        "detail": ".history.notebooks.randomsynapsetest_20241211215711",
+        "documentation": {}
+    },
+    {
+        "label": "plot_experiment",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211215711",
+        "description": ".history.notebooks.randomsynapsetest_20241211215711",
+        "peekOfCode": "def plot_experiment(ax: plt.Axes = None, points: np.ndarray = None, \n                   metrics: dict = None, title: str = '') -> plt.Axes:\n    \"\"\"Plot points and their distribution on given axes.\"\"\"\n    if ax is None:\n        _, ax = plt.subplots(1, 1, figsize=(8, 2))\n    # Plot points as vertical lines\n    ax.vlines(points, 0, 1, color='black', alpha=0.5)\n    # Add kernel density estimate\n    if len(points) > 1:\n        kde = gaussian_kde(points)",
+        "detail": ".history.notebooks.randomsynapsetest_20241211215711",
+        "documentation": {}
+    },
+    {
+        "label": "plot_metrics",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211215711",
+        "description": ".history.notebooks.randomsynapsetest_20241211215711",
+        "peekOfCode": "def plot_metrics(ax: plt.Axes = None, metrics: dict = None, \n                title: str = '') -> plt.Axes:\n    \"\"\"Plot metrics as bar chart on given axes.\"\"\"\n    if ax is None:\n        _, ax = plt.subplots(1, 1, figsize=(8, 2))\n    x = np.arange(len(metrics))\n    ax.bar(x, list(metrics.values()))\n    ax.set_xticks(x)\n    ax.set_xticklabels(list(metrics.keys()), rotation=45)\n    ax.set_title(title)",
+        "detail": ".history.notebooks.randomsynapsetest_20241211215711",
+        "documentation": {}
+    },
+    {
+        "label": "run_experiments",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211215711",
+        "description": ".history.notebooks.randomsynapsetest_20241211215711",
+        "peekOfCode": "def run_experiments():\n    \"\"\"Run all experiments and create visualization.\"\"\"\n    experiments = [\n        ('uniform', 10, 'Uniform (N=10)'),\n        ('uniform', 50, 'Uniform (N=50)'),\n        ('two_bunches', 10, 'Two Bunches (N=10)'),\n        ('two_bunches', 50, 'Two Bunches (N=50)'),\n        ('three_clusters', 10, 'Three Clusters (N=10)'),\n        ('three_clusters', 50, 'Three Clusters (N=50)')\n    ]",
+        "detail": ".history.notebooks.randomsynapsetest_20241211215711",
+        "documentation": {}
+    },
+    {
+        "label": "generate_points",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211215817",
+        "description": ".history.notebooks.randomsynapsetest_20241211215817",
+        "peekOfCode": "def generate_points(n: int, mode: str, stick_length: float = 1.0) -> np.ndarray:\n    \"\"\"Generate points on a stick using different distribution patterns.\"\"\"\n    if mode == 'uniform':\n        return np.random.uniform(0, stick_length, n)\n    elif mode == 'two_bunches':\n        # Mix of two normal distributions centered at 0.25 and 0.75\n        points = np.concatenate([\n            np.random.normal(0.25, 0.1, n//2),\n            np.random.normal(0.75, 0.1, n//2 + n%2)\n        ])",
+        "detail": ".history.notebooks.randomsynapsetest_20241211215817",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_metrics",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211215817",
+        "description": ".history.notebooks.randomsynapsetest_20241211215817",
+        "peekOfCode": "def calculate_metrics(points: np.ndarray) -> dict:\n    \"\"\"Calculate various distribution metrics.\"\"\"\n    # Sort points for nearest neighbor calculation\n    sorted_points = np.sort(points)\n    # Calculate nearest neighbor distances\n    nn_distances = np.diff(sorted_points)  # distances to next neighbor\n    # Calculate pairwise distances\n    pairwise_distances = np.abs(points[:, None] - points)\n    np.fill_diagonal(pairwise_distances, np.inf)  # exclude self-distances\n    min_distances = np.min(pairwise_distances, axis=1)  # minimum distance for each point",
+        "detail": ".history.notebooks.randomsynapsetest_20241211215817",
+        "documentation": {}
+    },
+    {
+        "label": "plot_experiment",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211215817",
+        "description": ".history.notebooks.randomsynapsetest_20241211215817",
+        "peekOfCode": "def plot_experiment(ax: plt.Axes = None, points: np.ndarray = None, \n                   metrics: dict = None, title: str = '') -> plt.Axes:\n    \"\"\"Plot points and their distribution on given axes.\"\"\"\n    if ax is None:\n        _, ax = plt.subplots(1, 1, figsize=(8, 2))\n    # Plot points as dots\n    ax.scatter(points, np.ones_like(points) * 0.5, color='black', alpha=0.5, s=50)\n    # Add kernel density estimate\n    if len(points) > 1:\n        kde = gaussian_kde(points)",
+        "detail": ".history.notebooks.randomsynapsetest_20241211215817",
+        "documentation": {}
+    },
+    {
+        "label": "plot_metrics",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211215817",
+        "description": ".history.notebooks.randomsynapsetest_20241211215817",
+        "peekOfCode": "def plot_metrics(ax: plt.Axes = None, metrics: dict = None, \n                title: str = '') -> plt.Axes:\n    \"\"\"Plot metrics as bar chart on given axes.\"\"\"\n    if ax is None:\n        _, ax = plt.subplots(1, 1, figsize=(8, 2))\n    x = np.arange(len(metrics))\n    ax.bar(x, list(metrics.values()))\n    ax.set_xticks(x)\n    ax.set_xticklabels(list(metrics.keys()), rotation=45)\n    ax.set_title(title)",
+        "detail": ".history.notebooks.randomsynapsetest_20241211215817",
+        "documentation": {}
+    },
+    {
+        "label": "run_experiments",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211215817",
+        "description": ".history.notebooks.randomsynapsetest_20241211215817",
+        "peekOfCode": "def run_experiments():\n    \"\"\"Run all experiments and create visualization.\"\"\"\n    experiments = [\n        ('uniform', 10, 'Uniform (N=10)'),\n        ('uniform', 50, 'Uniform (N=50)'),\n        ('two_bunches', 10, 'Two Bunches (N=10)'),\n        ('two_bunches', 50, 'Two Bunches (N=50)'),\n        ('three_clusters', 10, 'Three Clusters (N=10)'),\n        ('three_clusters', 50, 'Three Clusters (N=50)')\n    ]",
+        "detail": ".history.notebooks.randomsynapsetest_20241211215817",
+        "documentation": {}
+    },
+    {
+        "label": "generate_points",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211215821",
+        "description": ".history.notebooks.randomsynapsetest_20241211215821",
+        "peekOfCode": "def generate_points(n: int, mode: str, stick_length: float = 1.0) -> np.ndarray:\n    \"\"\"Generate points on a stick using different distribution patterns.\"\"\"\n    if mode == 'uniform':\n        return np.random.uniform(0, stick_length, n)\n    elif mode == 'two_bunches':\n        # Mix of two normal distributions centered at 0.25 and 0.75\n        points = np.concatenate([\n            np.random.normal(0.25, 0.1, n//2),\n            np.random.normal(0.75, 0.1, n//2 + n%2)\n        ])",
+        "detail": ".history.notebooks.randomsynapsetest_20241211215821",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_metrics",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211215821",
+        "description": ".history.notebooks.randomsynapsetest_20241211215821",
+        "peekOfCode": "def calculate_metrics(points: np.ndarray) -> dict:\n    \"\"\"Calculate various distribution metrics.\"\"\"\n    # Sort points for nearest neighbor calculation\n    sorted_points = np.sort(points)\n    # Calculate nearest neighbor distances\n    nn_distances = np.diff(sorted_points)  # distances to next neighbor\n    # Calculate pairwise distances\n    pairwise_distances = np.abs(points[:, None] - points)\n    np.fill_diagonal(pairwise_distances, np.inf)  # exclude self-distances\n    min_distances = np.min(pairwise_distances, axis=1)  # minimum distance for each point",
+        "detail": ".history.notebooks.randomsynapsetest_20241211215821",
+        "documentation": {}
+    },
+    {
+        "label": "plot_experiment",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211215821",
+        "description": ".history.notebooks.randomsynapsetest_20241211215821",
+        "peekOfCode": "def plot_experiment(ax: plt.Axes = None, points: np.ndarray = None, \n                   metrics: dict = None, title: str = '') -> plt.Axes:\n    \"\"\"Plot points and their distribution on given axes.\"\"\"\n    if ax is None:\n        _, ax = plt.subplots(1, 1, figsize=(8, 2))\n    # Plot points as dots\n    ax.scatter(points, np.ones_like(points) * 0.5, color='black', alpha=0.5, s=50)\n    # Add kernel density estimate\n    if len(points) > 1:\n        kde = gaussian_kde(points)",
+        "detail": ".history.notebooks.randomsynapsetest_20241211215821",
+        "documentation": {}
+    },
+    {
+        "label": "plot_metrics",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211215821",
+        "description": ".history.notebooks.randomsynapsetest_20241211215821",
+        "peekOfCode": "def plot_metrics(ax: plt.Axes = None, metrics: dict = None, \n                title: str = '') -> plt.Axes:\n    \"\"\"Plot metrics as bar chart on given axes.\"\"\"\n    if ax is None:\n        _, ax = plt.subplots(1, 1, figsize=(8, 2))\n    x = np.arange(len(metrics))\n    ax.bar(x, list(metrics.values()))\n    ax.set_xticks(x)\n    ax.set_xticklabels(list(metrics.keys()), rotation=45)\n    ax.set_title(title)",
+        "detail": ".history.notebooks.randomsynapsetest_20241211215821",
+        "documentation": {}
+    },
+    {
+        "label": "run_experiments",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211215821",
+        "description": ".history.notebooks.randomsynapsetest_20241211215821",
+        "peekOfCode": "def run_experiments():\n    \"\"\"Run all experiments and create visualization.\"\"\"\n    experiments = [\n        ('uniform', 10, 'Uniform (N=10)'),\n        ('uniform', 50, 'Uniform (N=50)'),\n        ('two_bunches', 10, 'Two Bunches (N=10)'),\n        ('two_bunches', 50, 'Two Bunches (N=50)'),\n        ('three_clusters', 10, 'Three Clusters (N=10)'),\n        ('three_clusters', 50, 'Three Clusters (N=50)')\n    ]",
+        "detail": ".history.notebooks.randomsynapsetest_20241211215821",
+        "documentation": {}
+    },
+    {
+        "label": "generate_points",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211215955",
+        "description": ".history.notebooks.randomsynapsetest_20241211215955",
+        "peekOfCode": "def generate_points(n: int, mode: str, stick_length: float = 1.0) -> np.ndarray:\n    \"\"\"Generate points on a stick using different distribution patterns.\"\"\"\n    if mode == 'uniform':\n        return np.random.uniform(0, stick_length, n)\n    elif mode == 'two_bunches':\n        # Mix of two normal distributions centered at 0.25 and 0.75\n        points = np.concatenate([\n            np.random.normal(0.25, 0.1, n//2),\n            np.random.normal(0.75, 0.1, n//2 + n%2)\n        ])",
+        "detail": ".history.notebooks.randomsynapsetest_20241211215955",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_metrics",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211215955",
+        "description": ".history.notebooks.randomsynapsetest_20241211215955",
+        "peekOfCode": "def calculate_metrics(points: np.ndarray) -> dict:\n    \"\"\"Calculate various distribution metrics.\"\"\"\n    # Sort points for nearest neighbor calculation\n    sorted_points = np.sort(points)\n    # Calculate nearest neighbor distances\n    nn_distances = np.diff(sorted_points)  # distances to next neighbor\n    # Calculate pairwise distances\n    pairwise_distances = np.abs(points[:, None] - points)\n    np.fill_diagonal(pairwise_distances, np.inf)  # exclude self-distances\n    min_distances = np.min(pairwise_distances, axis=1)  # minimum distance for each point",
+        "detail": ".history.notebooks.randomsynapsetest_20241211215955",
+        "documentation": {}
+    },
+    {
+        "label": "plot_experiment",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211215955",
+        "description": ".history.notebooks.randomsynapsetest_20241211215955",
+        "peekOfCode": "def plot_experiment(ax: plt.Axes = None, points: np.ndarray = None, \n                   metrics: dict = None, title: str = '') -> plt.Axes:\n    \"\"\"Plot points and their distribution on given axes.\"\"\"\n    if ax is None:\n        _, ax = plt.subplots(1, 1, figsize=(8, 2))\n    # Plot points as dots\n    ax.scatter(points, np.ones_like(points) * 0.5, color='black', alpha=0.5, s=50)\n    # Add kernel density estimate\n    if len(points) > 1:\n        kde = gaussian_kde(points)",
+        "detail": ".history.notebooks.randomsynapsetest_20241211215955",
+        "documentation": {}
+    },
+    {
+        "label": "plot_metrics",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211215955",
+        "description": ".history.notebooks.randomsynapsetest_20241211215955",
+        "peekOfCode": "def plot_metrics(ax: plt.Axes = None, metrics: dict = None, \n                title: str = '') -> plt.Axes:\n    \"\"\"Plot metrics as bar chart on given axes.\"\"\"\n    if ax is None:\n        _, ax = plt.subplots(1, 1, figsize=(8, 2))\n    x = np.arange(len(metrics))\n    ax.bar(x, list(metrics.values()))\n    ax.set_xticks(x)\n    ax.set_xticklabels(list(metrics.keys()), rotation=45)\n    ax.set_title(title)",
+        "detail": ".history.notebooks.randomsynapsetest_20241211215955",
+        "documentation": {}
+    },
+    {
+        "label": "run_experiments",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211215955",
+        "description": ".history.notebooks.randomsynapsetest_20241211215955",
+        "peekOfCode": "def run_experiments():\n    \"\"\"Run all experiments and create visualization.\"\"\"\n    experiments = [\n        ('uniform', 50, 'Uniform (N=50)'),\n        ('uniform', 100, 'Uniform (N=100)'),\n        ('two_bunches', 50, 'Two Bunches (N=50)'),\n        ('two_bunches', 100, 'Two Bunches (N=100)'),\n        ('three_clusters', 50, 'Three Clusters (N=50)'),\n        ('three_clusters', 100, 'Three Clusters (N=100)')\n    ]",
+        "detail": ".history.notebooks.randomsynapsetest_20241211215955",
+        "documentation": {}
+    },
+    {
+        "label": "generate_points",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211220207",
+        "description": ".history.notebooks.randomsynapsetest_20241211220207",
+        "peekOfCode": "def generate_points(n: int, mode: str, stick_length: float = 1.0) -> np.ndarray:\n    \"\"\"Generate points on a stick using different distribution patterns.\"\"\"\n    if mode == 'uniform':\n        return np.random.uniform(0, stick_length, n)\n    elif mode == 'two_bunches':\n        # Mix of two normal distributions centered at 0.25 and 0.75 of stick length\n        points = np.concatenate([\n            np.random.normal(0.25 * stick_length, 0.1 * stick_length, n//2),\n            np.random.normal(0.75 * stick_length, 0.1 * stick_length, n//2 + n%2)\n        ])",
+        "detail": ".history.notebooks.randomsynapsetest_20241211220207",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_metrics",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211220207",
+        "description": ".history.notebooks.randomsynapsetest_20241211220207",
+        "peekOfCode": "def calculate_metrics(points: np.ndarray) -> dict:\n    \"\"\"Calculate various distribution metrics.\"\"\"\n    # Sort points for nearest neighbor calculation\n    sorted_points = np.sort(points)\n    # Calculate nearest neighbor distances\n    nn_distances = np.diff(sorted_points)  # distances to next neighbor\n    # Calculate pairwise distances\n    pairwise_distances = np.abs(points[:, None] - points)\n    np.fill_diagonal(pairwise_distances, np.inf)  # exclude self-distances\n    min_distances = np.min(pairwise_distances, axis=1)  # minimum distance for each point",
+        "detail": ".history.notebooks.randomsynapsetest_20241211220207",
+        "documentation": {}
+    },
+    {
+        "label": "plot_experiment",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211220207",
+        "description": ".history.notebooks.randomsynapsetest_20241211220207",
+        "peekOfCode": "def plot_experiment(ax: plt.Axes = None, points: np.ndarray = None, \n                   metrics: dict = None, title: str = '') -> plt.Axes:\n    \"\"\"Plot points and their distribution on given axes.\"\"\"\n    if ax is None:\n        _, ax = plt.subplots(1, 1, figsize=(8, 2))\n    # Plot points as dots\n    ax.scatter(points, np.ones_like(points) * 0.5, color='black', alpha=0.5, s=50)\n    # Add kernel density estimate\n    if len(points) > 1:\n        kde = gaussian_kde(points)",
+        "detail": ".history.notebooks.randomsynapsetest_20241211220207",
+        "documentation": {}
+    },
+    {
+        "label": "plot_metrics",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211220207",
+        "description": ".history.notebooks.randomsynapsetest_20241211220207",
+        "peekOfCode": "def plot_metrics(ax: plt.Axes = None, metrics: dict = None, \n                title: str = '') -> plt.Axes:\n    \"\"\"Plot metrics as bar chart on given axes.\"\"\"\n    if ax is None:\n        _, ax = plt.subplots(1, 1, figsize=(8, 2))\n    x = np.arange(len(metrics))\n    ax.bar(x, list(metrics.values()))\n    ax.set_xticks(x)\n    ax.set_xticklabels(list(metrics.keys()), rotation=45)\n    ax.set_title(title)",
+        "detail": ".history.notebooks.randomsynapsetest_20241211220207",
+        "documentation": {}
+    },
+    {
+        "label": "run_experiments",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211220207",
+        "description": ".history.notebooks.randomsynapsetest_20241211220207",
+        "peekOfCode": "def run_experiments():\n    \"\"\"Run all experiments and create visualization.\"\"\"\n    experiments = [\n        ('uniform', 10, 0.1, 'Uniform\\nShort stick (N=10)'),\n        ('uniform', 100, 1.0, 'Uniform\\nLong stick (N=100)'),\n        ('two_bunches', 10, 0.1, 'Two Bunches\\nShort stick (N=10)'),\n        ('two_bunches', 100, 1.0, 'Two Bunches\\nLong stick (N=100)'),\n        ('three_clusters', 10, 0.1, 'Three Clusters\\nShort stick (N=10)'),\n        ('three_clusters', 100, 1.0, 'Three Clusters\\nLong stick (N=100)')\n    ]",
+        "detail": ".history.notebooks.randomsynapsetest_20241211220207",
+        "documentation": {}
+    },
+    {
+        "label": "generate_points",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211220404",
+        "description": ".history.notebooks.randomsynapsetest_20241211220404",
+        "peekOfCode": "def generate_points(n: int, mode: str, stick_length: float = 1.0) -> np.ndarray:\n    \"\"\"Generate points on a stick using different distribution patterns.\"\"\"\n    if mode == 'uniform':\n        return np.random.uniform(0, stick_length, n)\n    elif mode == 'two_bunches':\n        # Mix of two normal distributions centered at 0.25 and 0.75 of stick length\n        points = np.concatenate([\n            np.random.normal(0.25 * stick_length, 0.1 * stick_length, n//2),\n            np.random.normal(0.75 * stick_length, 0.1 * stick_length, n//2 + n%2)\n        ])",
+        "detail": ".history.notebooks.randomsynapsetest_20241211220404",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_metrics",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211220404",
+        "description": ".history.notebooks.randomsynapsetest_20241211220404",
+        "peekOfCode": "def calculate_metrics(points: np.ndarray) -> dict:\n    \"\"\"Calculate various distribution metrics.\"\"\"\n    # Sort points for nearest neighbor calculation\n    sorted_points = np.sort(points)\n    # Calculate nearest neighbor distances\n    nn_distances = np.diff(sorted_points)  # distances to next neighbor\n    # Calculate pairwise distances\n    pairwise_distances = np.abs(points[:, None] - points)\n    np.fill_diagonal(pairwise_distances, np.inf)  # exclude self-distances\n    min_distances = np.min(pairwise_distances, axis=1)  # minimum distance for each point",
+        "detail": ".history.notebooks.randomsynapsetest_20241211220404",
+        "documentation": {}
+    },
+    {
+        "label": "plot_experiment",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211220404",
+        "description": ".history.notebooks.randomsynapsetest_20241211220404",
+        "peekOfCode": "def plot_experiment(ax: plt.Axes = None, points: np.ndarray = None, \n                   metrics: dict = None, title: str = '') -> plt.Axes:\n    \"\"\"Plot points and their distribution on given axes.\"\"\"\n    if ax is None:\n        _, ax = plt.subplots(1, 1, figsize=(8, 2))\n    # Plot points as dots\n    ax.scatter(points, np.ones_like(points) * 0.5, color='black', alpha=0.5, s=50)\n    # Add kernel density estimate\n    if len(points) > 1:\n        kde = gaussian_kde(points)",
+        "detail": ".history.notebooks.randomsynapsetest_20241211220404",
+        "documentation": {}
+    },
+    {
+        "label": "plot_metrics",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211220404",
+        "description": ".history.notebooks.randomsynapsetest_20241211220404",
+        "peekOfCode": "def plot_metrics(ax: plt.Axes = None, metrics: dict = None, \n                title: str = '') -> plt.Axes:\n    \"\"\"Plot metrics as bar chart on given axes.\"\"\"\n    if ax is None:\n        _, ax = plt.subplots(1, 1, figsize=(8, 2))\n    x = np.arange(len(metrics))\n    ax.bar(x, list(metrics.values()))\n    ax.set_xticks(x)\n    ax.set_xticklabels(list(metrics.keys()), rotation=45)\n    ax.set_title(title)",
+        "detail": ".history.notebooks.randomsynapsetest_20241211220404",
+        "documentation": {}
+    },
+    {
+        "label": "run_experiments",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211220404",
+        "description": ".history.notebooks.randomsynapsetest_20241211220404",
+        "peekOfCode": "def run_experiments():\n    \"\"\"Run all experiments and create visualization.\"\"\"\n    # Define base experiments (will be run with both stick lengths)\n    base_experiments = [\n        ('uniform', 10, 'Uniform\\n(N=10)'),\n        ('two_bunches', 10, 'Two Bunches\\n(N=10)'),\n        ('three_clusters', 10, 'Three Clusters\\n(N=10)'),\n        ('uniform', 100, 'Uniform\\n(N=100)'),\n        ('two_bunches', 100, 'Two Bunches\\n(N=100)'),\n        ('three_clusters', 100, 'Three Clusters\\n(N=100)')",
+        "detail": ".history.notebooks.randomsynapsetest_20241211220404",
+        "documentation": {}
+    },
+    {
+        "label": "generate_points",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211220407",
+        "description": ".history.notebooks.randomsynapsetest_20241211220407",
+        "peekOfCode": "def generate_points(n: int, mode: str, stick_length: float = 1.0) -> np.ndarray:\n    \"\"\"Generate points on a stick using different distribution patterns.\"\"\"\n    if mode == 'uniform':\n        return np.random.uniform(0, stick_length, n)\n    elif mode == 'two_bunches':\n        # Mix of two normal distributions centered at 0.25 and 0.75 of stick length\n        points = np.concatenate([\n            np.random.normal(0.25 * stick_length, 0.1 * stick_length, n//2),\n            np.random.normal(0.75 * stick_length, 0.1 * stick_length, n//2 + n%2)\n        ])",
+        "detail": ".history.notebooks.randomsynapsetest_20241211220407",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_metrics",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211220407",
+        "description": ".history.notebooks.randomsynapsetest_20241211220407",
+        "peekOfCode": "def calculate_metrics(points: np.ndarray) -> dict:\n    \"\"\"Calculate various distribution metrics.\"\"\"\n    # Sort points for nearest neighbor calculation\n    sorted_points = np.sort(points)\n    # Calculate nearest neighbor distances\n    nn_distances = np.diff(sorted_points)  # distances to next neighbor\n    # Calculate pairwise distances\n    pairwise_distances = np.abs(points[:, None] - points)\n    np.fill_diagonal(pairwise_distances, np.inf)  # exclude self-distances\n    min_distances = np.min(pairwise_distances, axis=1)  # minimum distance for each point",
+        "detail": ".history.notebooks.randomsynapsetest_20241211220407",
+        "documentation": {}
+    },
+    {
+        "label": "plot_experiment",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211220407",
+        "description": ".history.notebooks.randomsynapsetest_20241211220407",
+        "peekOfCode": "def plot_experiment(ax: plt.Axes = None, points: np.ndarray = None, \n                   metrics: dict = None, title: str = '') -> plt.Axes:\n    \"\"\"Plot points and their distribution on given axes.\"\"\"\n    if ax is None:\n        _, ax = plt.subplots(1, 1, figsize=(8, 2))\n    # Plot points as dots\n    ax.scatter(points, np.ones_like(points) * 0.5, color='black', alpha=0.5, s=50)\n    # Add kernel density estimate\n    if len(points) > 1:\n        kde = gaussian_kde(points)",
+        "detail": ".history.notebooks.randomsynapsetest_20241211220407",
+        "documentation": {}
+    },
+    {
+        "label": "plot_metrics",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211220407",
+        "description": ".history.notebooks.randomsynapsetest_20241211220407",
+        "peekOfCode": "def plot_metrics(ax: plt.Axes = None, metrics: dict = None, \n                title: str = '') -> plt.Axes:\n    \"\"\"Plot metrics as bar chart on given axes.\"\"\"\n    if ax is None:\n        _, ax = plt.subplots(1, 1, figsize=(8, 2))\n    x = np.arange(len(metrics))\n    ax.bar(x, list(metrics.values()))\n    ax.set_xticks(x)\n    ax.set_xticklabels(list(metrics.keys()), rotation=45)\n    ax.set_title(title)",
+        "detail": ".history.notebooks.randomsynapsetest_20241211220407",
+        "documentation": {}
+    },
+    {
+        "label": "run_experiments",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211220407",
+        "description": ".history.notebooks.randomsynapsetest_20241211220407",
+        "peekOfCode": "def run_experiments():\n    \"\"\"Run all experiments and create visualization.\"\"\"\n    # Define base experiments (will be run with both stick lengths)\n    base_experiments = [\n        ('uniform', 10, 'Uniform\\n(N=10)'),\n        ('two_bunches', 10, 'Two Bunches\\n(N=10)'),\n        ('three_clusters', 10, 'Three Clusters\\n(N=10)'),\n        ('uniform', 100, 'Uniform\\n(N=100)'),\n        ('two_bunches', 100, 'Two Bunches\\n(N=100)'),\n        ('three_clusters', 100, 'Three Clusters\\n(N=100)')",
+        "detail": ".history.notebooks.randomsynapsetest_20241211220407",
+        "documentation": {}
+    },
+    {
+        "label": "generate_points",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211220532",
+        "description": ".history.notebooks.randomsynapsetest_20241211220532",
+        "peekOfCode": "def generate_points(n: int, mode: str, stick_length: float = 1.0) -> np.ndarray:\n    \"\"\"Generate points on a stick using different distribution patterns.\"\"\"\n    if mode == 'uniform':\n        return np.random.uniform(0, stick_length, n)\n    elif mode == 'two_bunches':\n        # Mix of two normal distributions centered at 0.25 and 0.75 of stick length\n        points = np.concatenate([\n            np.random.normal(0.25 * stick_length, 0.1 * stick_length, n//2),\n            np.random.normal(0.75 * stick_length, 0.1 * stick_length, n//2 + n%2)\n        ])",
+        "detail": ".history.notebooks.randomsynapsetest_20241211220532",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_metrics",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211220532",
+        "description": ".history.notebooks.randomsynapsetest_20241211220532",
+        "peekOfCode": "def calculate_metrics(points: np.ndarray) -> dict:\n    \"\"\"Calculate various distribution metrics.\"\"\"\n    # Sort points for nearest neighbor calculation\n    sorted_points = np.sort(points)\n    # Calculate nearest neighbor distances\n    nn_distances = np.diff(sorted_points)  # distances to next neighbor\n    # Calculate pairwise distances\n    pairwise_distances = np.abs(points[:, None] - points)\n    np.fill_diagonal(pairwise_distances, np.inf)  # exclude self-distances\n    min_distances = np.min(pairwise_distances, axis=1)  # minimum distance for each point",
+        "detail": ".history.notebooks.randomsynapsetest_20241211220532",
+        "documentation": {}
+    },
+    {
+        "label": "plot_experiment",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211220532",
+        "description": ".history.notebooks.randomsynapsetest_20241211220532",
+        "peekOfCode": "def plot_experiment(ax: plt.Axes = None, points: np.ndarray = None, \n                   metrics: dict = None, title: str = '') -> plt.Axes:\n    \"\"\"Plot points and their distribution on given axes.\"\"\"\n    if ax is None:\n        _, ax = plt.subplots(1, 1, figsize=(8, 2))\n    # Plot points as dots\n    ax.scatter(points, np.ones_like(points) * 0.5, color='black', alpha=0.5, s=50)\n    # Add kernel density estimate\n    if len(points) > 1:\n        kde = gaussian_kde(points)",
+        "detail": ".history.notebooks.randomsynapsetest_20241211220532",
+        "documentation": {}
+    },
+    {
+        "label": "plot_metrics",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211220532",
+        "description": ".history.notebooks.randomsynapsetest_20241211220532",
+        "peekOfCode": "def plot_metrics(ax: plt.Axes = None, metrics: dict = None, \n                title: str = '') -> plt.Axes:\n    \"\"\"Plot metrics as bar chart on given axes.\"\"\"\n    if ax is None:\n        _, ax = plt.subplots(1, 1, figsize=(8, 2))\n    x = np.arange(len(metrics))\n    ax.bar(x, list(metrics.values()))\n    ax.set_xticks(x)\n    ax.set_xticklabels(list(metrics.keys()), rotation=45)\n    ax.set_title(title)",
+        "detail": ".history.notebooks.randomsynapsetest_20241211220532",
+        "documentation": {}
+    },
+    {
+        "label": "run_experiments",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211220532",
+        "description": ".history.notebooks.randomsynapsetest_20241211220532",
+        "peekOfCode": "def run_experiments():\n    \"\"\"Run all experiments and create visualization.\"\"\"\n    # Define base experiments (will be run with both stick lengths)\n    base_experiments = [\n        ('uniform', 10, 'Uniform\\n(N=10)'),\n        ('two_bunches', 10, 'Two Bunches\\n(N=10)'),\n        ('three_clusters', 10, 'Three Clusters\\n(N=10)'),\n        ('uniform', 100, 'Uniform\\n(N=100)'),\n        ('two_bunches', 100, 'Two Bunches\\n(N=100)'),\n        ('three_clusters', 100, 'Three Clusters\\n(N=100)')",
+        "detail": ".history.notebooks.randomsynapsetest_20241211220532",
+        "documentation": {}
+    },
+    {
+        "label": "generate_points",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211220809",
+        "description": ".history.notebooks.randomsynapsetest_20241211220809",
+        "peekOfCode": "def generate_points(n: int, mode: str, stick_length: float = 1.0) -> np.ndarray:\n    \"\"\"Generate points on a stick using different distribution patterns.\"\"\"\n    if mode == 'uniform':\n        return np.random.uniform(0, stick_length, n)\n    elif mode == 'two_bunches':\n        # Mix of two normal distributions centered at 0.25 and 0.75 of stick length\n        points = np.concatenate([\n            np.random.normal(0.25 * stick_length, 0.1 * stick_length, n//2),\n            np.random.normal(0.75 * stick_length, 0.1 * stick_length, n//2 + n%2)\n        ])",
+        "detail": ".history.notebooks.randomsynapsetest_20241211220809",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_metrics",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211220809",
+        "description": ".history.notebooks.randomsynapsetest_20241211220809",
+        "peekOfCode": "def calculate_metrics(points: np.ndarray) -> dict:\n    \"\"\"Calculate various distribution metrics.\"\"\"\n    # Sort points for nearest neighbor calculation\n    sorted_points = np.sort(points)\n    # Calculate nearest neighbor distances\n    nn_distances = np.diff(sorted_points)  # distances to next neighbor\n    # Calculate pairwise distances\n    pairwise_distances = np.abs(points[:, None] - points)\n    np.fill_diagonal(pairwise_distances, np.inf)  # exclude self-distances\n    min_distances = np.min(pairwise_distances, axis=1)  # minimum distance for each point",
+        "detail": ".history.notebooks.randomsynapsetest_20241211220809",
+        "documentation": {}
+    },
+    {
+        "label": "plot_experiment",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211220809",
+        "description": ".history.notebooks.randomsynapsetest_20241211220809",
+        "peekOfCode": "def plot_experiment(ax: plt.Axes = None, points: np.ndarray = None, \n                   metrics: dict = None, title: str = '') -> plt.Axes:\n    \"\"\"Plot points and their distribution on given axes.\"\"\"\n    if ax is None:\n        _, ax = plt.subplots(1, 1, figsize=(8, 2))\n    # Plot points as dots\n    ax.scatter(points, np.ones_like(points) * 0.5, color='black', alpha=0.5, s=50)\n    # Add kernel density estimate\n    if len(points) > 1:\n        kde = gaussian_kde(points)",
+        "detail": ".history.notebooks.randomsynapsetest_20241211220809",
+        "documentation": {}
+    },
+    {
+        "label": "plot_metrics",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211220809",
+        "description": ".history.notebooks.randomsynapsetest_20241211220809",
+        "peekOfCode": "def plot_metrics(ax: plt.Axes = None, metrics: dict = None, \n                title: str = '') -> plt.Axes:\n    \"\"\"Plot metrics as bar chart on given axes.\"\"\"\n    if ax is None:\n        _, ax = plt.subplots(1, 1, figsize=(8, 2))\n    x = np.arange(len(metrics))\n    ax.bar(x, list(metrics.values()))\n    ax.set_xticks(x)\n    ax.set_xticklabels(list(metrics.keys()), rotation=45)\n    ax.set_title(title)",
+        "detail": ".history.notebooks.randomsynapsetest_20241211220809",
+        "documentation": {}
+    },
+    {
+        "label": "run_experiments",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211220809",
+        "description": ".history.notebooks.randomsynapsetest_20241211220809",
+        "peekOfCode": "def run_experiments():\n    \"\"\"Run all experiments and create visualization.\"\"\"\n    # Define base experiments (will be run with both stick lengths)\n    base_experiments = [\n        ('uniform', 10, 'Uniform\\nN=10'),\n        ('two_bunches', 10, 'Two Bunches\\nN=10'),\n        ('three_clusters', 10, 'Three Clusters\\nN=10'),\n        ('uniform', 100, 'Uniform\\nN=100'),\n        ('two_bunches', 100, 'Two Bunches\\nN=100'),\n        ('three_clusters', 100, 'Three Clusters\\nN=100')",
+        "detail": ".history.notebooks.randomsynapsetest_20241211220809",
+        "documentation": {}
+    },
+    {
+        "label": "generate_points",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211221038",
+        "description": ".history.notebooks.randomsynapsetest_20241211221038",
+        "peekOfCode": "def generate_points(n: int, mode: str, stick_length: float = 1.0) -> np.ndarray:\n    \"\"\"Generate points on a stick using different distribution patterns.\"\"\"\n    if mode == 'uniform':\n        return np.random.uniform(0, stick_length, n)\n    elif mode == 'two_bunches':\n        # Mix of two normal distributions centered at 0.25 and 0.75 of stick length\n        points = np.concatenate([\n            np.random.normal(0.25 * stick_length, 0.1 * stick_length, n//2),\n            np.random.normal(0.75 * stick_length, 0.1 * stick_length, n//2 + n%2)\n        ])",
+        "detail": ".history.notebooks.randomsynapsetest_20241211221038",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_metrics",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211221038",
+        "description": ".history.notebooks.randomsynapsetest_20241211221038",
+        "peekOfCode": "def calculate_metrics(points: np.ndarray) -> dict:\n    \"\"\"Calculate various distribution metrics.\"\"\"\n    # Sort points for nearest neighbor calculation\n    sorted_points = np.sort(points)\n    # Calculate nearest neighbor distances\n    nn_distances = np.diff(sorted_points)  # distances to next neighbor\n    # Calculate pairwise distances\n    pairwise_distances = np.abs(points[:, None] - points)\n    np.fill_diagonal(pairwise_distances, np.inf)  # exclude self-distances\n    min_distances = np.min(pairwise_distances, axis=1)  # minimum distance for each point",
+        "detail": ".history.notebooks.randomsynapsetest_20241211221038",
+        "documentation": {}
+    },
+    {
+        "label": "plot_experiment",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211221038",
+        "description": ".history.notebooks.randomsynapsetest_20241211221038",
+        "peekOfCode": "def plot_experiment(ax: plt.Axes = None, points: np.ndarray = None, \n                   metrics: dict = None, title: str = '') -> plt.Axes:\n    \"\"\"Plot points and their distribution on given axes.\"\"\"\n    if ax is None:\n        _, ax = plt.subplots(1, 1, figsize=(8, 2))\n    # Plot points as dots\n    ax.scatter(points, np.ones_like(points) * 0.5, color='black', alpha=0.5, s=50)\n    # Add kernel density estimate\n    if len(points) > 1:\n        kde = gaussian_kde(points)",
+        "detail": ".history.notebooks.randomsynapsetest_20241211221038",
+        "documentation": {}
+    },
+    {
+        "label": "plot_metrics",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211221038",
+        "description": ".history.notebooks.randomsynapsetest_20241211221038",
+        "peekOfCode": "def plot_metrics(ax: plt.Axes = None, metrics: dict = None, \n                title: str = '') -> plt.Axes:\n    \"\"\"Plot metrics as bar chart on given axes.\"\"\"\n    if ax is None:\n        _, ax = plt.subplots(1, 1, figsize=(8, 2))\n    x = np.arange(len(metrics))\n    ax.bar(x, list(metrics.values()))\n    ax.set_xticks(x)\n    ax.set_xticklabels(list(metrics.keys()), rotation=45)\n    ax.set_title(title)",
+        "detail": ".history.notebooks.randomsynapsetest_20241211221038",
+        "documentation": {}
+    },
+    {
+        "label": "run_experiments",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211221038",
+        "description": ".history.notebooks.randomsynapsetest_20241211221038",
+        "peekOfCode": "def run_experiments():\n    \"\"\"Run all experiments and create visualization.\"\"\"\n    # Define base experiments (will be run with both stick lengths)\n    base_experiments = [\n        ('uniform', 10, 'Uniform\\nN=10'),\n        ('uniform', 100, 'Uniform\\nN=100'),\n        ('two_bunches', 10, 'Two Bunches\\nN=10'),\n        ('two_bunches', 100, 'Two Bunches\\nN=100'),\n        ('three_clusters', 10, 'Three Clusters\\nN=10'),\n        ('three_clusters', 100, 'Three Clusters\\nN=100')",
+        "detail": ".history.notebooks.randomsynapsetest_20241211221038",
+        "documentation": {}
+    },
+    {
+        "label": "generate_points",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211221041",
+        "description": ".history.notebooks.randomsynapsetest_20241211221041",
+        "peekOfCode": "def generate_points(n: int, mode: str, stick_length: float = 1.0) -> np.ndarray:\n    \"\"\"Generate points on a stick using different distribution patterns.\"\"\"\n    if mode == 'uniform':\n        return np.random.uniform(0, stick_length, n)\n    elif mode == 'two_bunches':\n        # Mix of two normal distributions centered at 0.25 and 0.75 of stick length\n        points = np.concatenate([\n            np.random.normal(0.25 * stick_length, 0.1 * stick_length, n//2),\n            np.random.normal(0.75 * stick_length, 0.1 * stick_length, n//2 + n%2)\n        ])",
+        "detail": ".history.notebooks.randomsynapsetest_20241211221041",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_metrics",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211221041",
+        "description": ".history.notebooks.randomsynapsetest_20241211221041",
+        "peekOfCode": "def calculate_metrics(points: np.ndarray) -> dict:\n    \"\"\"Calculate various distribution metrics.\"\"\"\n    # Sort points for nearest neighbor calculation\n    sorted_points = np.sort(points)\n    # Calculate nearest neighbor distances\n    nn_distances = np.diff(sorted_points)  # distances to next neighbor\n    # Calculate pairwise distances\n    pairwise_distances = np.abs(points[:, None] - points)\n    np.fill_diagonal(pairwise_distances, np.inf)  # exclude self-distances\n    min_distances = np.min(pairwise_distances, axis=1)  # minimum distance for each point",
+        "detail": ".history.notebooks.randomsynapsetest_20241211221041",
+        "documentation": {}
+    },
+    {
+        "label": "plot_experiment",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211221041",
+        "description": ".history.notebooks.randomsynapsetest_20241211221041",
+        "peekOfCode": "def plot_experiment(ax: plt.Axes = None, points: np.ndarray = None, \n                   metrics: dict = None, title: str = '') -> plt.Axes:\n    \"\"\"Plot points and their distribution on given axes.\"\"\"\n    if ax is None:\n        _, ax = plt.subplots(1, 1, figsize=(8, 2))\n    # Plot points as dots\n    ax.scatter(points, np.ones_like(points) * 0.5, color='black', alpha=0.5, s=50)\n    # Add kernel density estimate\n    if len(points) > 1:\n        kde = gaussian_kde(points)",
+        "detail": ".history.notebooks.randomsynapsetest_20241211221041",
+        "documentation": {}
+    },
+    {
+        "label": "plot_metrics",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211221041",
+        "description": ".history.notebooks.randomsynapsetest_20241211221041",
+        "peekOfCode": "def plot_metrics(ax: plt.Axes = None, metrics: dict = None, \n                title: str = '') -> plt.Axes:\n    \"\"\"Plot metrics as bar chart on given axes.\"\"\"\n    if ax is None:\n        _, ax = plt.subplots(1, 1, figsize=(8, 2))\n    x = np.arange(len(metrics))\n    ax.bar(x, list(metrics.values()))\n    ax.set_xticks(x)\n    ax.set_xticklabels(list(metrics.keys()), rotation=45)\n    ax.set_title(title)",
+        "detail": ".history.notebooks.randomsynapsetest_20241211221041",
+        "documentation": {}
+    },
+    {
+        "label": "run_experiments",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211221041",
+        "description": ".history.notebooks.randomsynapsetest_20241211221041",
+        "peekOfCode": "def run_experiments():\n    \"\"\"Run all experiments and create visualization.\"\"\"\n    # Define base experiments (will be run with both stick lengths)\n    base_experiments = [\n        ('uniform', 10, 'Uniform\\nN=10'),\n        ('uniform', 100, 'Uniform\\nN=100'),\n        ('two_bunches', 10, 'Two Bunches\\nN=10'),\n        ('two_bunches', 100, 'Two Bunches\\nN=100'),\n        ('three_clusters', 10, 'Three Clusters\\nN=10'),\n        ('three_clusters', 100, 'Three Clusters\\nN=100')",
+        "detail": ".history.notebooks.randomsynapsetest_20241211221041",
+        "documentation": {}
+    },
+    {
+        "label": "generate_points",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211221105",
+        "description": ".history.notebooks.randomsynapsetest_20241211221105",
+        "peekOfCode": "def generate_points(n: int, mode: str, stick_length: float = 1.0) -> np.ndarray:\n    \"\"\"Generate points on a stick using different distribution patterns.\"\"\"\n    if mode == 'uniform':\n        return np.random.uniform(0, stick_length, n)\n    elif mode == 'two_bunches':\n        # Mix of two normal distributions centered at 0.25 and 0.75 of stick length\n        points = np.concatenate([\n            np.random.normal(0.25 * stick_length, 0.1 * stick_length, n//2),\n            np.random.normal(0.75 * stick_length, 0.1 * stick_length, n//2 + n%2)\n        ])",
+        "detail": ".history.notebooks.randomsynapsetest_20241211221105",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_metrics",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211221105",
+        "description": ".history.notebooks.randomsynapsetest_20241211221105",
+        "peekOfCode": "def calculate_metrics(points: np.ndarray) -> dict:\n    \"\"\"Calculate various distribution metrics.\"\"\"\n    # Sort points for nearest neighbor calculation\n    sorted_points = np.sort(points)\n    # Calculate nearest neighbor distances\n    nn_distances = np.diff(sorted_points)  # distances to next neighbor\n    # Calculate pairwise distances\n    pairwise_distances = np.abs(points[:, None] - points)\n    np.fill_diagonal(pairwise_distances, np.inf)  # exclude self-distances\n    min_distances = np.min(pairwise_distances, axis=1)  # minimum distance for each point",
+        "detail": ".history.notebooks.randomsynapsetest_20241211221105",
+        "documentation": {}
+    },
+    {
+        "label": "plot_experiment",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211221105",
+        "description": ".history.notebooks.randomsynapsetest_20241211221105",
+        "peekOfCode": "def plot_experiment(ax: plt.Axes = None, points: np.ndarray = None, \n                   metrics: dict = None, title: str = '') -> plt.Axes:\n    \"\"\"Plot points and their distribution on given axes.\"\"\"\n    if ax is None:\n        _, ax = plt.subplots(1, 1, figsize=(8, 2))\n    # Plot points as dots\n    ax.scatter(points, np.ones_like(points) * 0.5, color='black', alpha=0.5, s=50)\n    # Add kernel density estimate\n    if len(points) > 1:\n        kde = gaussian_kde(points)",
+        "detail": ".history.notebooks.randomsynapsetest_20241211221105",
+        "documentation": {}
+    },
+    {
+        "label": "plot_metrics",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211221105",
+        "description": ".history.notebooks.randomsynapsetest_20241211221105",
+        "peekOfCode": "def plot_metrics(ax: plt.Axes = None, metrics: dict = None, \n                title: str = '') -> plt.Axes:\n    \"\"\"Plot metrics as bar chart on given axes.\"\"\"\n    if ax is None:\n        _, ax = plt.subplots(1, 1, figsize=(8, 2))\n    x = np.arange(len(metrics))\n    ax.bar(x, list(metrics.values()))\n    ax.set_xticks(x)\n    ax.set_xticklabels(list(metrics.keys()), rotation=45)\n    ax.set_title(title)",
+        "detail": ".history.notebooks.randomsynapsetest_20241211221105",
+        "documentation": {}
+    },
+    {
+        "label": "run_experiments",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211221105",
+        "description": ".history.notebooks.randomsynapsetest_20241211221105",
+        "peekOfCode": "def run_experiments():\n    \"\"\"Run all experiments and create visualization.\"\"\"\n    # Define base experiments (will be run with both stick lengths)\n    base_experiments = [\n        ('uniform', 10, 'Uniform\\nN=10'),\n        ('uniform', 100, 'Uniform\\nN=100'),\n        ('two_bunches', 10, 'Two Bunches\\nN=10'),\n        ('two_bunches', 100, 'Two Bunches\\nN=100'),\n        ('three_clusters', 10, 'Three Clusters\\nN=10'),\n        ('three_clusters', 100, 'Three Clusters\\nN=100')",
+        "detail": ".history.notebooks.randomsynapsetest_20241211221105",
+        "documentation": {}
+    },
+    {
+        "label": "generate_points",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211221253",
+        "description": ".history.notebooks.randomsynapsetest_20241211221253",
+        "peekOfCode": "def generate_points(n: int, mode: str, stick_length: float = 1.0) -> np.ndarray:\n    \"\"\"Generate points on a stick using different distribution patterns.\"\"\"\n    if mode == 'uniform':\n        return np.random.uniform(0, stick_length, n)\n    elif mode == 'two_bunches':\n        # Mix of two normal distributions centered at 0.25 and 0.75 of stick length\n        points = np.concatenate([\n            np.random.normal(0.25 * stick_length, 0.05 * stick_length, n//2),\n            np.random.normal(0.75 * stick_length, 0.05 * stick_length, n//2 + n%2)\n        ])",
+        "detail": ".history.notebooks.randomsynapsetest_20241211221253",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_metrics",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211221253",
+        "description": ".history.notebooks.randomsynapsetest_20241211221253",
+        "peekOfCode": "def calculate_metrics(points: np.ndarray) -> dict:\n    \"\"\"Calculate various distribution metrics.\"\"\"\n    # Sort points for nearest neighbor calculation\n    sorted_points = np.sort(points)\n    # Calculate nearest neighbor distances\n    nn_distances = np.diff(sorted_points)  # distances to next neighbor\n    # Calculate pairwise distances\n    pairwise_distances = np.abs(points[:, None] - points)\n    np.fill_diagonal(pairwise_distances, np.inf)  # exclude self-distances\n    min_distances = np.min(pairwise_distances, axis=1)  # minimum distance for each point",
+        "detail": ".history.notebooks.randomsynapsetest_20241211221253",
+        "documentation": {}
+    },
+    {
+        "label": "plot_experiment",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211221253",
+        "description": ".history.notebooks.randomsynapsetest_20241211221253",
+        "peekOfCode": "def plot_experiment(ax: plt.Axes = None, points: np.ndarray = None, \n                   metrics: dict = None, title: str = '') -> plt.Axes:\n    \"\"\"Plot points and their distribution on given axes.\"\"\"\n    if ax is None:\n        _, ax = plt.subplots(1, 1, figsize=(8, 2))\n    # Plot points as dots\n    ax.scatter(points, np.ones_like(points) * 0.5, color='black', alpha=0.5, s=50)\n    # Add kernel density estimate\n    if len(points) > 1:\n        kde = gaussian_kde(points)",
+        "detail": ".history.notebooks.randomsynapsetest_20241211221253",
+        "documentation": {}
+    },
+    {
+        "label": "plot_metrics",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211221253",
+        "description": ".history.notebooks.randomsynapsetest_20241211221253",
+        "peekOfCode": "def plot_metrics(ax: plt.Axes = None, metrics: dict = None, \n                title: str = '') -> plt.Axes:\n    \"\"\"Plot metrics as bar chart on given axes.\"\"\"\n    if ax is None:\n        _, ax = plt.subplots(1, 1, figsize=(8, 2))\n    x = np.arange(len(metrics))\n    ax.bar(x, list(metrics.values()))\n    ax.set_xticks(x)\n    ax.set_xticklabels(list(metrics.keys()), rotation=45)\n    ax.set_title(title)",
+        "detail": ".history.notebooks.randomsynapsetest_20241211221253",
+        "documentation": {}
+    },
+    {
+        "label": "run_experiments",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211221253",
+        "description": ".history.notebooks.randomsynapsetest_20241211221253",
+        "peekOfCode": "def run_experiments():\n    \"\"\"Run all experiments and create visualization.\"\"\"\n    # Define base experiments (will be run with both stick lengths)\n    base_experiments = [\n        ('uniform', 10, 'Uniform\\nN=10'),\n        ('uniform', 100, 'Uniform\\nN=100'),\n        ('two_bunches', 10, 'Two Bunches\\nN=10'),\n        ('two_bunches', 100, 'Two Bunches\\nN=100'),\n        ('three_clusters', 10, 'Three Clusters\\nN=10'),\n        ('three_clusters', 100, 'Three Clusters\\nN=100')",
+        "detail": ".history.notebooks.randomsynapsetest_20241211221253",
+        "documentation": {}
+    },
+    {
+        "label": "generate_points",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211221914",
+        "description": ".history.notebooks.randomsynapsetest_20241211221914",
+        "peekOfCode": "def generate_points(n: int, mode: str, stick_length: float = 1.0) -> np.ndarray:\n    \"\"\"Generate points on a stick using different distribution patterns.\"\"\"\n    if mode == 'uniform':\n        return np.random.uniform(0, stick_length, n)\n    elif mode == 'two_bunches':\n        # Mix of two normal distributions centered at 0.25 and 0.75 of stick length\n        points = np.concatenate([\n            np.random.normal(0.25 * stick_length, 0.05 * stick_length, n//2),\n            np.random.normal(0.75 * stick_length, 0.05 * stick_length, n//2 + n%2)\n        ])",
+        "detail": ".history.notebooks.randomsynapsetest_20241211221914",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_metrics",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211221914",
+        "description": ".history.notebooks.randomsynapsetest_20241211221914",
+        "peekOfCode": "def calculate_metrics(points: np.ndarray) -> dict:\n    \"\"\"Calculate various distribution metrics.\"\"\"\n    # Sort points for nearest neighbor calculation\n    sorted_points = np.sort(points)\n    # Calculate nearest neighbor distances\n    nn_distances = np.diff(sorted_points)  # distances to next neighbor\n    # Calculate pairwise distances\n    pairwise_distances = np.abs(points[:, None] - points)\n    np.fill_diagonal(pairwise_distances, np.inf)  # exclude self-distances\n    min_distances = np.min(pairwise_distances, axis=1)  # minimum distance for each point",
+        "detail": ".history.notebooks.randomsynapsetest_20241211221914",
+        "documentation": {}
+    },
+    {
+        "label": "plot_experiment",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211221914",
+        "description": ".history.notebooks.randomsynapsetest_20241211221914",
+        "peekOfCode": "def plot_experiment(ax: plt.Axes = None, points: np.ndarray = None, \n                   metrics: dict = None, title: str = '') -> plt.Axes:\n    \"\"\"Plot points and their distribution on given axes.\"\"\"\n    if ax is None:\n        _, ax = plt.subplots(1, 1, figsize=(8, 2))\n    # Plot points as dots\n    ax.scatter(points, np.ones_like(points) * 0.5, color='black', alpha=0.5, s=50)\n    # Add kernel density estimate\n    if len(points) > 1:\n        kde = gaussian_kde(points)",
+        "detail": ".history.notebooks.randomsynapsetest_20241211221914",
+        "documentation": {}
+    },
+    {
+        "label": "plot_metrics",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211221914",
+        "description": ".history.notebooks.randomsynapsetest_20241211221914",
+        "peekOfCode": "def plot_metrics(ax: plt.Axes = None, metrics: dict = None, \n                title: str = '') -> plt.Axes:\n    \"\"\"Plot metrics as bar chart on given axes.\"\"\"\n    if ax is None:\n        _, ax = plt.subplots(1, 1, figsize=(8, 2))\n    x = np.arange(len(metrics))\n    ax.bar(x, list(metrics.values()))\n    ax.set_xticks(x)\n    ax.set_xticklabels(list(metrics.keys()), rotation=45)\n    ax.set_title(title)",
+        "detail": ".history.notebooks.randomsynapsetest_20241211221914",
+        "documentation": {}
+    },
+    {
+        "label": "run_experiments",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211221914",
+        "description": ".history.notebooks.randomsynapsetest_20241211221914",
+        "peekOfCode": "def run_experiments():\n    \"\"\"Run all experiments and create visualization.\"\"\"\n    # Define base experiments (will be run with both stick lengths)\n    base_experiments = [\n        ('uniform', 10, 'Uniform\\nN=10'),\n        ('uniform', 100, 'Uniform\\nN=100'),\n        ('two_bunches', 10, 'Two Bunches\\nN=10'),\n        ('two_bunches', 100, 'Two Bunches\\nN=100'),\n        ('three_clusters', 10, 'Three Clusters\\nN=10'),\n        ('three_clusters', 100, 'Three Clusters\\nN=100')",
+        "detail": ".history.notebooks.randomsynapsetest_20241211221914",
+        "documentation": {}
+    },
+    {
+        "label": "generate_points",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211221917",
+        "description": ".history.notebooks.randomsynapsetest_20241211221917",
+        "peekOfCode": "def generate_points(n: int, mode: str, stick_length: float = 1.0) -> np.ndarray:\n    \"\"\"Generate points on a stick using different distribution patterns.\"\"\"\n    if mode == 'uniform':\n        return np.random.uniform(0, stick_length, n)\n    elif mode == 'two_bunches':\n        # Mix of two normal distributions centered at 0.25 and 0.75 of stick length\n        points = np.concatenate([\n            np.random.normal(0.25 * stick_length, 0.05 * stick_length, n//2),\n            np.random.normal(0.75 * stick_length, 0.05 * stick_length, n//2 + n%2)\n        ])",
+        "detail": ".history.notebooks.randomsynapsetest_20241211221917",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_metrics",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211221917",
+        "description": ".history.notebooks.randomsynapsetest_20241211221917",
+        "peekOfCode": "def calculate_metrics(points: np.ndarray) -> dict:\n    \"\"\"Calculate various distribution metrics.\"\"\"\n    # Sort points for nearest neighbor calculation\n    sorted_points = np.sort(points)\n    # Calculate nearest neighbor distances\n    nn_distances = np.diff(sorted_points)  # distances to next neighbor\n    # Calculate pairwise distances\n    pairwise_distances = np.abs(points[:, None] - points)\n    np.fill_diagonal(pairwise_distances, np.inf)  # exclude self-distances\n    min_distances = np.min(pairwise_distances, axis=1)  # minimum distance for each point",
+        "detail": ".history.notebooks.randomsynapsetest_20241211221917",
+        "documentation": {}
+    },
+    {
+        "label": "plot_experiment",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211221917",
+        "description": ".history.notebooks.randomsynapsetest_20241211221917",
+        "peekOfCode": "def plot_experiment(ax: plt.Axes = None, points: np.ndarray = None, \n                   metrics: dict = None, title: str = '') -> plt.Axes:\n    \"\"\"Plot points and their distribution on given axes.\"\"\"\n    if ax is None:\n        _, ax = plt.subplots(1, 1, figsize=(8, 2))\n    # Plot points as dots\n    ax.scatter(points, np.ones_like(points) * 0.5, color='black', alpha=0.5, s=50)\n    # Add kernel density estimate\n    if len(points) > 1:\n        kde = gaussian_kde(points)",
+        "detail": ".history.notebooks.randomsynapsetest_20241211221917",
+        "documentation": {}
+    },
+    {
+        "label": "plot_metrics",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211221917",
+        "description": ".history.notebooks.randomsynapsetest_20241211221917",
+        "peekOfCode": "def plot_metrics(ax: plt.Axes = None, metrics: dict = None, \n                title: str = '') -> plt.Axes:\n    \"\"\"Plot metrics as bar chart on given axes.\"\"\"\n    if ax is None:\n        _, ax = plt.subplots(1, 1, figsize=(8, 2))\n    x = np.arange(len(metrics))\n    ax.bar(x, list(metrics.values()))\n    ax.set_xticks(x)\n    ax.set_xticklabels(list(metrics.keys()), rotation=45)\n    ax.set_title(title)",
+        "detail": ".history.notebooks.randomsynapsetest_20241211221917",
+        "documentation": {}
+    },
+    {
+        "label": "run_experiments",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211221917",
+        "description": ".history.notebooks.randomsynapsetest_20241211221917",
+        "peekOfCode": "def run_experiments():\n    \"\"\"Run all experiments and create visualization.\"\"\"\n    # Define base experiments (will be run with both stick lengths)\n    base_experiments = [\n        ('uniform', 10, 'Uniform\\nN=10'),\n        ('uniform', 100, 'Uniform\\nN=100'),\n        ('two_bunches', 10, 'Two Bunches\\nN=10'),\n        ('two_bunches', 100, 'Two Bunches\\nN=100'),\n        ('three_clusters', 10, 'Three Clusters\\nN=10'),\n        ('three_clusters', 100, 'Three Clusters\\nN=100')",
+        "detail": ".history.notebooks.randomsynapsetest_20241211221917",
+        "documentation": {}
+    },
+    {
+        "label": "generate_points",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211222056",
+        "description": ".history.notebooks.randomsynapsetest_20241211222056",
+        "peekOfCode": "def generate_points(n: int, mode: str, stick_length: float = 1.0) -> np.ndarray:\n    \"\"\"Generate points on a stick using different distribution patterns.\"\"\"\n    if mode == 'uniform':\n        return np.random.uniform(0, stick_length, n)\n    elif mode == 'two_bunches':\n        # Mix of two normal distributions centered at 0.25 and 0.75 of stick length\n        points = np.concatenate([\n            np.random.normal(0.25 * stick_length, 0.05 * stick_length, n//2),\n            np.random.normal(0.75 * stick_length, 0.05 * stick_length, n//2 + n%2)\n        ])",
+        "detail": ".history.notebooks.randomsynapsetest_20241211222056",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_metrics",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211222056",
+        "description": ".history.notebooks.randomsynapsetest_20241211222056",
+        "peekOfCode": "def calculate_metrics(points: np.ndarray) -> dict:\n    \"\"\"Calculate various distribution metrics.\"\"\"\n    # Sort points for nearest neighbor calculation\n    sorted_points = np.sort(points)\n    # Calculate nearest neighbor distances\n    nn_distances = np.diff(sorted_points)  # distances to next neighbor\n    # Calculate pairwise distances\n    pairwise_distances = np.abs(points[:, None] - points)\n    np.fill_diagonal(pairwise_distances, np.inf)  # exclude self-distances\n    min_distances = np.min(pairwise_distances, axis=1)  # minimum distance for each point",
+        "detail": ".history.notebooks.randomsynapsetest_20241211222056",
+        "documentation": {}
+    },
+    {
+        "label": "plot_experiment",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211222056",
+        "description": ".history.notebooks.randomsynapsetest_20241211222056",
+        "peekOfCode": "def plot_experiment(ax: plt.Axes = None, points: np.ndarray = None, \n                   metrics: dict = None, title: str = '') -> plt.Axes:\n    \"\"\"Plot points and their distribution on given axes.\"\"\"\n    if ax is None:\n        _, ax = plt.subplots(1, 1, figsize=(8, 2))\n    # Plot points as dots\n    ax.scatter(points, np.ones_like(points) * 0.5, color='black', alpha=0.5, s=50)\n    # Add kernel density estimate\n    if len(points) > 1:\n        kde = gaussian_kde(points)",
+        "detail": ".history.notebooks.randomsynapsetest_20241211222056",
+        "documentation": {}
+    },
+    {
+        "label": "plot_metrics",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211222056",
+        "description": ".history.notebooks.randomsynapsetest_20241211222056",
+        "peekOfCode": "def plot_metrics(ax: plt.Axes = None, metrics: dict = None, \n                title: str = '') -> plt.Axes:\n    \"\"\"Plot metrics as bar chart on given axes.\"\"\"\n    if ax is None:\n        _, ax = plt.subplots(1, 1, figsize=(8, 2))\n    x = np.arange(len(metrics))\n    ax.bar(x, list(metrics.values()))\n    ax.set_xticks(x)\n    ax.set_xticklabels(list(metrics.keys()), rotation=45)\n    ax.set_title(title)",
+        "detail": ".history.notebooks.randomsynapsetest_20241211222056",
+        "documentation": {}
+    },
+    {
+        "label": "run_experiments",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211222056",
+        "description": ".history.notebooks.randomsynapsetest_20241211222056",
+        "peekOfCode": "def run_experiments():\n    \"\"\"Run all experiments and create visualization.\"\"\"\n    # Define base experiments (will be run with both stick lengths)\n    base_experiments = [\n        ('uniform', 100, 'Uniform\\nN=100'),\n        ('uniform', 1000, 'Uniform\\nN=1000'),\n        ('two_bunches', 100, 'Two Bunches\\nN=100'),\n        ('two_bunches', 1000, 'Two Bunches\\nN=1000'),\n        ('three_clusters', 100, 'Three Clusters\\nN=100'),\n        ('three_clusters', 1000, 'Three Clusters\\nN=1000')",
+        "detail": ".history.notebooks.randomsynapsetest_20241211222056",
+        "documentation": {}
+    },
+    {
+        "label": "generate_points",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211222416",
+        "description": ".history.notebooks.randomsynapsetest_20241211222416",
+        "peekOfCode": "def generate_points(n: int, mode: str, stick_length: float = 1.0) -> np.ndarray:\n    \"\"\"Generate points on a stick using different distribution patterns.\"\"\"\n    if mode == 'uniform':\n        return np.random.uniform(0, stick_length, n)\n    elif mode == 'two_bunches':\n        # Mix of two normal distributions centered at 0.25 and 0.75 of stick length\n        points = np.concatenate([\n            np.random.normal(0.25 * stick_length, 0.05 * stick_length, n//2),\n            np.random.normal(0.75 * stick_length, 0.05 * stick_length, n//2 + n%2)\n        ])",
+        "detail": ".history.notebooks.randomsynapsetest_20241211222416",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_metrics",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211222416",
+        "description": ".history.notebooks.randomsynapsetest_20241211222416",
+        "peekOfCode": "def calculate_metrics(points: np.ndarray) -> dict:\n    \"\"\"Calculate various distribution metrics.\"\"\"\n    # Sort points for nearest neighbor calculation\n    sorted_points = np.sort(points)\n    # Calculate nearest neighbor distances\n    nn_distances = np.diff(sorted_points)  # distances to next neighbor\n    # Calculate pairwise distances\n    pairwise_distances = np.abs(points[:, None] - points)\n    np.fill_diagonal(pairwise_distances, np.inf)  # exclude self-distances\n    min_distances = np.min(pairwise_distances, axis=1)  # minimum distance for each point",
+        "detail": ".history.notebooks.randomsynapsetest_20241211222416",
+        "documentation": {}
+    },
+    {
+        "label": "plot_experiment",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211222416",
+        "description": ".history.notebooks.randomsynapsetest_20241211222416",
+        "peekOfCode": "def plot_experiment(ax: plt.Axes = None, points: np.ndarray = None, \n                   metrics: dict = None, title: str = '') -> plt.Axes:\n    \"\"\"Plot points and their distribution on given axes.\"\"\"\n    if ax is None:\n        _, ax = plt.subplots(1, 1, figsize=(8, 2))\n    # Plot points as dots\n    ax.scatter(points, np.ones_like(points) * 0.5, color='black', alpha=0.5, s=50)\n    # Add kernel density estimate\n    if len(points) > 1:\n        kde = gaussian_kde(points)",
+        "detail": ".history.notebooks.randomsynapsetest_20241211222416",
+        "documentation": {}
+    },
+    {
+        "label": "plot_metrics",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211222416",
+        "description": ".history.notebooks.randomsynapsetest_20241211222416",
+        "peekOfCode": "def plot_metrics(ax: plt.Axes = None, metrics: dict = None, \n                title: str = '') -> plt.Axes:\n    \"\"\"Plot metrics as bar chart on given axes.\"\"\"\n    if ax is None:\n        _, ax = plt.subplots(1, 1, figsize=(8, 2))\n    x = np.arange(len(metrics))\n    ax.bar(x, list(metrics.values()))\n    ax.set_xticks(x)\n    ax.set_xticklabels(list(metrics.keys()), rotation=45)\n    ax.set_title(title)",
+        "detail": ".history.notebooks.randomsynapsetest_20241211222416",
+        "documentation": {}
+    },
+    {
+        "label": "run_experiments",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211222416",
+        "description": ".history.notebooks.randomsynapsetest_20241211222416",
+        "peekOfCode": "def run_experiments():\n    \"\"\"Run all experiments and create visualization.\"\"\"\n    # Define base experiments (will be run with both stick lengths)\n    base_experiments = [\n        ('uniform', 100, 'Uniform\\nN=100'),\n        ('uniform', 1000, 'Uniform\\nN=1000'),\n        ('two_bunches', 100, 'Two Bunches\\nN=100'),\n        ('two_bunches', 1000, 'Two Bunches\\nN=1000'),\n        ('three_clusters', 100, 'Three Clusters\\nN=100'),\n        ('three_clusters', 1000, 'Three Clusters\\nN=1000')",
+        "detail": ".history.notebooks.randomsynapsetest_20241211222416",
+        "documentation": {}
+    },
+    {
+        "label": "generate_points",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211222634",
+        "description": ".history.notebooks.randomsynapsetest_20241211222634",
+        "peekOfCode": "def generate_points(n: int, mode: str, stick_length: float = 1.0) -> np.ndarray:\n    \"\"\"Generate points on a stick using different distribution patterns.\"\"\"\n    if mode == 'uniform':\n        return np.random.uniform(0, stick_length, n)\n    elif mode == 'two_bunches':\n        # Mix of two normal distributions centered at 0.25 and 0.75 of stick length\n        points = np.concatenate([\n            np.random.normal(0.25 * stick_length, 0.05 * stick_length, n//2),\n            np.random.normal(0.75 * stick_length, 0.05 * stick_length, n//2 + n%2)\n        ])",
+        "detail": ".history.notebooks.randomsynapsetest_20241211222634",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_metrics",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211222634",
+        "description": ".history.notebooks.randomsynapsetest_20241211222634",
+        "peekOfCode": "def calculate_metrics(points: np.ndarray) -> dict:\n    \"\"\"Calculate various distribution metrics.\"\"\"\n    # Sort points for nearest neighbor calculation\n    sorted_points = np.sort(points)\n    # Calculate nearest neighbor distances\n    nn_distances = np.diff(sorted_points)  # distances to next neighbor\n    # Calculate pairwise distances\n    pairwise_distances = np.abs(points[:, None] - points)\n    np.fill_diagonal(pairwise_distances, np.inf)  # exclude self-distances\n    min_distances = np.min(pairwise_distances, axis=1)  # minimum distance for each point",
+        "detail": ".history.notebooks.randomsynapsetest_20241211222634",
+        "documentation": {}
+    },
+    {
+        "label": "plot_experiment",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211222634",
+        "description": ".history.notebooks.randomsynapsetest_20241211222634",
+        "peekOfCode": "def plot_experiment(ax: plt.Axes = None, points: np.ndarray = None, \n                   metrics: dict = None, title: str = '') -> plt.Axes:\n    \"\"\"Plot points and their distribution on given axes.\"\"\"\n    if ax is None:\n        _, ax = plt.subplots(1, 1, figsize=(8, 2))\n    # Plot points as dots\n    ax.scatter(points, np.ones_like(points) * 0.5, color='black', alpha=0.5, s=50)\n    # Add kernel density estimate\n    if len(points) > 1:\n        kde = gaussian_kde(points)",
+        "detail": ".history.notebooks.randomsynapsetest_20241211222634",
+        "documentation": {}
+    },
+    {
+        "label": "plot_metrics",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211222634",
+        "description": ".history.notebooks.randomsynapsetest_20241211222634",
+        "peekOfCode": "def plot_metrics(ax: plt.Axes = None, metrics: dict = None, \n                title: str = '') -> plt.Axes:\n    \"\"\"Plot metrics as bar chart on given axes.\"\"\"\n    if ax is None:\n        _, ax = plt.subplots(1, 1, figsize=(8, 2))\n    x = np.arange(len(metrics))\n    ax.bar(x, list(metrics.values()))\n    ax.set_xticks(x)\n    ax.set_xticklabels(list(metrics.keys()), rotation=45)\n    ax.set_title(title)",
+        "detail": ".history.notebooks.randomsynapsetest_20241211222634",
+        "documentation": {}
+    },
+    {
+        "label": "run_experiments",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211222634",
+        "description": ".history.notebooks.randomsynapsetest_20241211222634",
+        "peekOfCode": "def run_experiments():\n    \"\"\"Run all experiments and create visualization.\"\"\"\n    # Define base experiments (will be run with both stick lengths)\n    base_experiments = [\n        ('uniform', 100, 'Uniform\\nN=100'),\n        ('two_bunches', 100, 'Two Bunches\\nN=100'),\n        ('three_clusters', 100, 'Three Clusters\\nN=100'),\n        ('uniform', 1000, 'Uniform\\nN=1000'),\n        ('two_bunches', 1000, 'Two Bunches\\nN=1000'),\n        ('three_clusters', 1000, 'Three Clusters\\nN=1000')",
+        "detail": ".history.notebooks.randomsynapsetest_20241211222634",
+        "documentation": {}
+    },
+    {
+        "label": "generate_points",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211222834",
+        "description": ".history.notebooks.randomsynapsetest_20241211222834",
+        "peekOfCode": "def generate_points(n: int, mode: str, stick_length: float = 1.0) -> np.ndarray:\n    \"\"\"Generate points on a stick using different distribution patterns.\"\"\"\n    if mode == 'uniform':\n        return np.random.uniform(0, stick_length, n)\n    elif mode == 'two_bunches':\n        # Mix of two normal distributions centered at 0.25 and 0.75 of stick length\n        points = np.concatenate([\n            np.random.normal(0.25 * stick_length, 0.05 * stick_length, n//2),\n            np.random.normal(0.75 * stick_length, 0.05 * stick_length, n//2 + n%2)\n        ])",
+        "detail": ".history.notebooks.randomsynapsetest_20241211222834",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_metrics",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211222834",
+        "description": ".history.notebooks.randomsynapsetest_20241211222834",
+        "peekOfCode": "def calculate_metrics(points: np.ndarray) -> dict:\n    \"\"\"Calculate various distribution metrics.\"\"\"\n    # Sort points for nearest neighbor calculation\n    sorted_points = np.sort(points)\n    # Calculate nearest neighbor distances\n    nn_distances = np.diff(sorted_points)  # distances to next neighbor\n    # Calculate pairwise distances\n    pairwise_distances = np.abs(points[:, None] - points)\n    np.fill_diagonal(pairwise_distances, np.inf)  # exclude self-distances\n    min_distances = np.min(pairwise_distances, axis=1)  # minimum distance for each point",
+        "detail": ".history.notebooks.randomsynapsetest_20241211222834",
+        "documentation": {}
+    },
+    {
+        "label": "plot_experiment",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211222834",
+        "description": ".history.notebooks.randomsynapsetest_20241211222834",
+        "peekOfCode": "def plot_experiment(ax: plt.Axes = None, points: np.ndarray = None, \n                   metrics: dict = None, title: str = '') -> plt.Axes:\n    \"\"\"Plot points and their distribution on given axes.\"\"\"\n    if ax is None:\n        _, ax = plt.subplots(1, 1, figsize=(8, 2))\n    # Plot points as dots\n    ax.scatter(points, np.ones_like(points) * 0.5, color='black', alpha=0.5, s=50)\n    # Add kernel density estimate\n    if len(points) > 1:\n        kde = gaussian_kde(points)",
+        "detail": ".history.notebooks.randomsynapsetest_20241211222834",
+        "documentation": {}
+    },
+    {
+        "label": "plot_metrics",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211222834",
+        "description": ".history.notebooks.randomsynapsetest_20241211222834",
+        "peekOfCode": "def plot_metrics(ax: plt.Axes = None, metrics: dict = None, \n                title: str = '') -> plt.Axes:\n    \"\"\"Plot metrics as bar chart on given axes.\"\"\"\n    if ax is None:\n        _, ax = plt.subplots(1, 1, figsize=(8, 2))\n    x = np.arange(len(metrics))\n    ax.bar(x, list(metrics.values()))\n    ax.set_xticks(x)\n    ax.set_xticklabels(list(metrics.keys()), rotation=45)\n    ax.set_title(title)",
+        "detail": ".history.notebooks.randomsynapsetest_20241211222834",
+        "documentation": {}
+    },
+    {
+        "label": "run_experiments",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211222834",
+        "description": ".history.notebooks.randomsynapsetest_20241211222834",
+        "peekOfCode": "def run_experiments():\n    \"\"\"Run all experiments and create visualization.\"\"\"\n    # Define base experiments (will be run with both stick lengths)\n    base_experiments = [\n        ('uniform', 100, 'Uniform'),\n        ('two_bunches', 100, 'Two Bunches'),\n        ('three_clusters', 100, 'Three Clusters'),\n        ('uniform', 1000, 'Uniform'),\n        ('two_bunches', 1000, 'Two Bunches'),\n        ('three_clusters', 1000, 'Three Clusters')",
+        "detail": ".history.notebooks.randomsynapsetest_20241211222834",
+        "documentation": {}
+    },
+    {
+        "label": "generate_points",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211222952",
+        "description": ".history.notebooks.randomsynapsetest_20241211222952",
+        "peekOfCode": "def generate_points(n: int, mode: str, stick_length: float = 1.0) -> np.ndarray:\n    \"\"\"Generate points on a stick using different distribution patterns.\"\"\"\n    if mode == 'uniform':\n        return np.random.uniform(0, stick_length, n)\n    elif mode == 'two_bunches':\n        # Mix of two normal distributions centered at 0.25 and 0.75 of stick length\n        points = np.concatenate([\n            np.random.normal(0.25 * stick_length, 0.05 * stick_length, n//2),\n            np.random.normal(0.75 * stick_length, 0.05 * stick_length, n//2 + n%2)\n        ])",
+        "detail": ".history.notebooks.randomsynapsetest_20241211222952",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_metrics",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211222952",
+        "description": ".history.notebooks.randomsynapsetest_20241211222952",
+        "peekOfCode": "def calculate_metrics(points: np.ndarray) -> dict:\n    \"\"\"Calculate various distribution metrics.\"\"\"\n    # Sort points for nearest neighbor calculation\n    sorted_points = np.sort(points)\n    # Calculate nearest neighbor distances\n    nn_distances = np.diff(sorted_points)  # distances to next neighbor\n    # Calculate pairwise distances\n    pairwise_distances = np.abs(points[:, None] - points)\n    np.fill_diagonal(pairwise_distances, np.inf)  # exclude self-distances\n    min_distances = np.min(pairwise_distances, axis=1)  # minimum distance for each point",
+        "detail": ".history.notebooks.randomsynapsetest_20241211222952",
+        "documentation": {}
+    },
+    {
+        "label": "plot_experiment",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211222952",
+        "description": ".history.notebooks.randomsynapsetest_20241211222952",
+        "peekOfCode": "def plot_experiment(ax: plt.Axes = None, points: np.ndarray = None, \n                   metrics: dict = None, title: str = '') -> plt.Axes:\n    \"\"\"Plot points and their distribution on given axes.\"\"\"\n    if ax is None:\n        _, ax = plt.subplots(1, 1, figsize=(8, 2))\n    # Plot points as dots\n    ax.scatter(points, np.ones_like(points) * 0.5, color='black', alpha=0.5, s=50)\n    # Add kernel density estimate\n    if len(points) > 1:\n        kde = gaussian_kde(points)",
+        "detail": ".history.notebooks.randomsynapsetest_20241211222952",
+        "documentation": {}
+    },
+    {
+        "label": "plot_metrics",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211222952",
+        "description": ".history.notebooks.randomsynapsetest_20241211222952",
+        "peekOfCode": "def plot_metrics(ax: plt.Axes = None, metrics: dict = None, \n                title: str = '') -> plt.Axes:\n    \"\"\"Plot metrics as bar chart on given axes.\"\"\"\n    if ax is None:\n        _, ax = plt.subplots(1, 1, figsize=(8, 2))\n    x = np.arange(len(metrics))\n    ax.bar(x, list(metrics.values()))\n    ax.set_xticks(x)\n    ax.set_xticklabels(list(metrics.keys()), rotation=45)\n    ax.set_title(title)",
+        "detail": ".history.notebooks.randomsynapsetest_20241211222952",
+        "documentation": {}
+    },
+    {
+        "label": "run_experiments",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211222952",
+        "description": ".history.notebooks.randomsynapsetest_20241211222952",
+        "peekOfCode": "def run_experiments():\n    \"\"\"Run all experiments and create visualization.\"\"\"\n    # Define base experiments (will be run with both stick lengths)\n    base_experiments = [\n        ('uniform', 100, 'Uniform'),\n        ('two_bunches', 100, 'Two Bunches'),\n        ('three_clusters', 100, 'Three Clusters'),\n        ('uniform', 1000, 'Uniform'),\n        ('two_bunches', 1000, 'Two Bunches'),\n        ('three_clusters', 1000, 'Three Clusters')",
+        "detail": ".history.notebooks.randomsynapsetest_20241211222952",
+        "documentation": {}
+    },
+    {
+        "label": "generate_points",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211223429",
+        "description": ".history.notebooks.randomsynapsetest_20241211223429",
+        "peekOfCode": "def generate_points(n: int, mode: str, stick_length: float = 1.0) -> np.ndarray:\n    \"\"\"Generate points on a stick using different distribution patterns.\"\"\"\n    if mode == 'uniform':\n        return np.random.uniform(0, stick_length, n)\n    elif mode == 'two_bunches':\n        # Mix of two normal distributions centered at 0.25 and 0.75 of stick length\n        points = np.concatenate([\n            np.random.normal(0.25 * stick_length, 0.05 * stick_length, n//2),\n            np.random.normal(0.75 * stick_length, 0.05 * stick_length, n//2 + n%2)\n        ])",
+        "detail": ".history.notebooks.randomsynapsetest_20241211223429",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_metrics",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211223429",
+        "description": ".history.notebooks.randomsynapsetest_20241211223429",
+        "peekOfCode": "def calculate_metrics(points: np.ndarray) -> dict:\n    \"\"\"Calculate various distribution metrics.\"\"\"\n    # Sort points for nearest neighbor calculation\n    sorted_points = np.sort(points)\n    # Calculate nearest neighbor distances\n    nn_distances = np.diff(sorted_points)  # distances to next neighbor\n    # Calculate pairwise distances\n    pairwise_distances = np.abs(points[:, None] - points)\n    np.fill_diagonal(pairwise_distances, np.inf)  # exclude self-distances\n    min_distances = np.min(pairwise_distances, axis=1)  # minimum distance for each point",
+        "detail": ".history.notebooks.randomsynapsetest_20241211223429",
+        "documentation": {}
+    },
+    {
+        "label": "plot_experiment",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211223429",
+        "description": ".history.notebooks.randomsynapsetest_20241211223429",
+        "peekOfCode": "def plot_experiment(ax: plt.Axes = None, points: np.ndarray = None, \n                   metrics: dict = None, title: str = '') -> plt.Axes:\n    \"\"\"Plot points and their distribution on given axes.\"\"\"\n    if ax is None:\n        _, ax = plt.subplots(1, 1, figsize=(8, 2))\n    # Plot points as dots\n    ax.scatter(points, np.ones_like(points) * 0.5, color='black', alpha=0.5, s=50)\n    # Add kernel density estimate\n    if len(points) > 1:\n        kde = gaussian_kde(points)",
+        "detail": ".history.notebooks.randomsynapsetest_20241211223429",
+        "documentation": {}
+    },
+    {
+        "label": "plot_metrics",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211223429",
+        "description": ".history.notebooks.randomsynapsetest_20241211223429",
+        "peekOfCode": "def plot_metrics(ax: plt.Axes = None, metrics: dict = None, \n                title: str = '') -> plt.Axes:\n    \"\"\"Plot metrics as bar chart on given axes.\"\"\"\n    if ax is None:\n        _, ax = plt.subplots(1, 1, figsize=(8, 2))\n    x = np.arange(len(metrics))\n    ax.bar(x, list(metrics.values()))\n    ax.set_xticks(x)\n    ax.set_xticklabels(list(metrics.keys()), rotation=45)\n    ax.set_title(title)",
+        "detail": ".history.notebooks.randomsynapsetest_20241211223429",
+        "documentation": {}
+    },
+    {
+        "label": "run_experiments",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211223429",
+        "description": ".history.notebooks.randomsynapsetest_20241211223429",
+        "peekOfCode": "def run_experiments():\n    \"\"\"Run all experiments and create visualization.\"\"\"\n    # Define base experiments (will be run with both stick lengths)\n    base_experiments = [\n        ('uniform', 100, 'Uniform'),\n        ('two_bunches', 100, 'Two Bunches'),\n        ('three_clusters', 100, 'Three Clusters'),\n        ('uniform', 1000, 'Uniform'),\n        ('two_bunches', 1000, 'Two Bunches'),\n        ('three_clusters', 1000, 'Three Clusters')",
+        "detail": ".history.notebooks.randomsynapsetest_20241211223429",
+        "documentation": {}
+    },
+    {
+        "label": "generate_points",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211223554",
+        "description": ".history.notebooks.randomsynapsetest_20241211223554",
+        "peekOfCode": "def generate_points(n: int, mode: str, stick_length: float = 1.0) -> np.ndarray:\n    \"\"\"Generate points on a stick using different distribution patterns.\"\"\"\n    if mode == 'uniform':\n        return np.random.uniform(0, stick_length, n)\n    elif mode == 'two_bunches':\n        # Mix of two normal distributions centered at 0.25 and 0.75 of stick length\n        points = np.concatenate([\n            np.random.normal(0.25 * stick_length, 0.05 * stick_length, n//2),\n            np.random.normal(0.75 * stick_length, 0.05 * stick_length, n//2 + n%2)\n        ])",
+        "detail": ".history.notebooks.randomsynapsetest_20241211223554",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_metrics",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211223554",
+        "description": ".history.notebooks.randomsynapsetest_20241211223554",
+        "peekOfCode": "def calculate_metrics(points: np.ndarray) -> dict:\n    \"\"\"Calculate various distribution metrics.\"\"\"\n    # Sort points for nearest neighbor calculation\n    sorted_points = np.sort(points)\n    # Calculate nearest neighbor distances\n    nn_distances = np.diff(sorted_points)  # distances to next neighbor\n    # Calculate pairwise distances\n    pairwise_distances = np.abs(points[:, None] - points)\n    np.fill_diagonal(pairwise_distances, np.inf)  # exclude self-distances\n    min_distances = np.min(pairwise_distances, axis=1)  # minimum distance for each point",
+        "detail": ".history.notebooks.randomsynapsetest_20241211223554",
+        "documentation": {}
+    },
+    {
+        "label": "plot_experiment",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211223554",
+        "description": ".history.notebooks.randomsynapsetest_20241211223554",
+        "peekOfCode": "def plot_experiment(ax: plt.Axes = None, points: np.ndarray = None, \n                   metrics: dict = None, title: str = '') -> plt.Axes:\n    \"\"\"Plot points and their distribution on given axes.\"\"\"\n    if ax is None:\n        _, ax = plt.subplots(1, 1, figsize=(8, 2))\n    # Plot points as dots\n    ax.scatter(points, np.ones_like(points) * 0.5, color='black', alpha=0.5, s=50)\n    # Add kernel density estimate\n    if len(points) > 1:\n        kde = gaussian_kde(points)",
+        "detail": ".history.notebooks.randomsynapsetest_20241211223554",
+        "documentation": {}
+    },
+    {
+        "label": "plot_metrics",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211223554",
+        "description": ".history.notebooks.randomsynapsetest_20241211223554",
+        "peekOfCode": "def plot_metrics(ax: plt.Axes = None, metrics: dict = None, \n                title: str = '') -> plt.Axes:\n    \"\"\"Plot metrics as bar chart on given axes.\"\"\"\n    if ax is None:\n        _, ax = plt.subplots(1, 1, figsize=(8, 2))\n    x = np.arange(len(metrics))\n    ax.bar(x, list(metrics.values()))\n    ax.set_xticks(x)\n    ax.set_xticklabels(list(metrics.keys()), rotation=45)\n    ax.set_title(title)",
+        "detail": ".history.notebooks.randomsynapsetest_20241211223554",
+        "documentation": {}
+    },
+    {
+        "label": "run_experiments",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211223554",
+        "description": ".history.notebooks.randomsynapsetest_20241211223554",
+        "peekOfCode": "def run_experiments():\n    \"\"\"Run all experiments and create visualization.\"\"\"\n    # Define base experiments (will be run with both stick lengths)\n    base_experiments = [\n        ('uniform', 100, 'Uniform'),\n        ('two_bunches', 100, 'Two Bunches'),\n        ('three_clusters', 100, 'Three Clusters'),\n        ('uniform', 1000, 'Uniform'),\n        ('two_bunches', 1000, 'Two Bunches'),\n        ('three_clusters', 1000, 'Three Clusters')",
+        "detail": ".history.notebooks.randomsynapsetest_20241211223554",
+        "documentation": {}
+    },
+    {
+        "label": "generate_points",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211223635",
+        "description": ".history.notebooks.randomsynapsetest_20241211223635",
+        "peekOfCode": "def generate_points(n: int, mode: str, stick_length: float = 1.0) -> np.ndarray:\n    \"\"\"Generate points on a stick using different distribution patterns.\"\"\"\n    if mode == 'uniform':\n        return np.random.uniform(0, stick_length, n)\n    elif mode == 'two_bunches':\n        # Mix of two normal distributions centered at 0.25 and 0.75 of stick length\n        points = np.concatenate([\n            np.random.normal(0.25 * stick_length, 0.05 * stick_length, n//2),\n            np.random.normal(0.75 * stick_length, 0.05 * stick_length, n//2 + n%2)\n        ])",
+        "detail": ".history.notebooks.randomsynapsetest_20241211223635",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_metrics",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211223635",
+        "description": ".history.notebooks.randomsynapsetest_20241211223635",
+        "peekOfCode": "def calculate_metrics(points: np.ndarray) -> dict:\n    \"\"\"Calculate various distribution metrics.\"\"\"\n    # Sort points for nearest neighbor calculation\n    sorted_points = np.sort(points)\n    # Calculate nearest neighbor distances\n    nn_distances = np.diff(sorted_points)  # distances to next neighbor\n    # Calculate pairwise distances\n    pairwise_distances = np.abs(points[:, None] - points)\n    np.fill_diagonal(pairwise_distances, np.inf)  # exclude self-distances\n    min_distances = np.min(pairwise_distances, axis=1)  # minimum distance for each point",
+        "detail": ".history.notebooks.randomsynapsetest_20241211223635",
+        "documentation": {}
+    },
+    {
+        "label": "plot_experiment",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211223635",
+        "description": ".history.notebooks.randomsynapsetest_20241211223635",
+        "peekOfCode": "def plot_experiment(ax: plt.Axes = None, points: np.ndarray = None, \n                   metrics: dict = None, title: str = '') -> plt.Axes:\n    \"\"\"Plot points and their distribution on given axes.\"\"\"\n    if ax is None:\n        _, ax = plt.subplots(1, 1, figsize=(8, 2))\n    # Plot points as dots\n    ax.scatter(points, np.ones_like(points) * 0.5, color='black', alpha=0.5, s=50)\n    # Add kernel density estimate\n    if len(points) > 1:\n        kde = gaussian_kde(points)",
+        "detail": ".history.notebooks.randomsynapsetest_20241211223635",
+        "documentation": {}
+    },
+    {
+        "label": "plot_metrics",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211223635",
+        "description": ".history.notebooks.randomsynapsetest_20241211223635",
+        "peekOfCode": "def plot_metrics(ax: plt.Axes = None, metrics: dict = None, \n                title: str = '') -> plt.Axes:\n    \"\"\"Plot metrics as bar chart on given axes.\"\"\"\n    if ax is None:\n        _, ax = plt.subplots(1, 1, figsize=(8, 2))\n    x = np.arange(len(metrics))\n    ax.bar(x, list(metrics.values()))\n    ax.set_xticks(x)\n    ax.set_xticklabels(list(metrics.keys()), rotation=45)\n    ax.set_title(title)",
+        "detail": ".history.notebooks.randomsynapsetest_20241211223635",
+        "documentation": {}
+    },
+    {
+        "label": "run_experiments",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211223635",
+        "description": ".history.notebooks.randomsynapsetest_20241211223635",
+        "peekOfCode": "def run_experiments():\n    \"\"\"Run all experiments and create visualization.\"\"\"\n    # Define base experiments (will be run with both stick lengths)\n    base_experiments = [\n        ('uniform', 100, 'Uniform'),\n        ('uniform', 1000, 'Uniform'),\n        ('two_bunches', 100, 'Two Bunches'),\n        ('two_bunches', 1000, 'Two Bunches'),\n        ('three_clusters', 100, 'Three Clusters'),\n        ('three_clusters', 1000, 'Three Clusters')",
+        "detail": ".history.notebooks.randomsynapsetest_20241211223635",
+        "documentation": {}
+    },
+    {
+        "label": "generate_points",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211223742",
+        "description": ".history.notebooks.randomsynapsetest_20241211223742",
+        "peekOfCode": "def generate_points(n: int, mode: str, stick_length: float = 1.0) -> np.ndarray:\n    \"\"\"Generate points on a stick using different distribution patterns.\"\"\"\n    if mode == 'uniform':\n        return np.random.uniform(0, stick_length, n)\n    elif mode == 'two_bunches':\n        # Mix of two normal distributions centered at 0.25 and 0.75 of stick length\n        points = np.concatenate([\n            np.random.normal(0.25 * stick_length, 0.05 * stick_length, n//2),\n            np.random.normal(0.75 * stick_length, 0.05 * stick_length, n//2 + n%2)\n        ])",
+        "detail": ".history.notebooks.randomsynapsetest_20241211223742",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_metrics",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211223742",
+        "description": ".history.notebooks.randomsynapsetest_20241211223742",
+        "peekOfCode": "def calculate_metrics(points: np.ndarray) -> dict:\n    \"\"\"Calculate various distribution metrics.\"\"\"\n    # Sort points for nearest neighbor calculation\n    sorted_points = np.sort(points)\n    # Calculate nearest neighbor distances\n    nn_distances = np.diff(sorted_points)  # distances to next neighbor\n    # Calculate pairwise distances\n    pairwise_distances = np.abs(points[:, None] - points)\n    np.fill_diagonal(pairwise_distances, np.inf)  # exclude self-distances\n    min_distances = np.min(pairwise_distances, axis=1)  # minimum distance for each point",
+        "detail": ".history.notebooks.randomsynapsetest_20241211223742",
+        "documentation": {}
+    },
+    {
+        "label": "plot_experiment",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211223742",
+        "description": ".history.notebooks.randomsynapsetest_20241211223742",
+        "peekOfCode": "def plot_experiment(ax: plt.Axes = None, points: np.ndarray = None, \n                   metrics: dict = None, title: str = '') -> plt.Axes:\n    \"\"\"Plot points and their distribution on given axes.\"\"\"\n    if ax is None:\n        _, ax = plt.subplots(1, 1, figsize=(8, 2))\n    # Plot points as dots\n    ax.scatter(points, np.ones_like(points) * 0.5, color='black', alpha=0.5, s=50)\n    # Add kernel density estimate\n    if len(points) > 1:\n        kde = gaussian_kde(points)",
+        "detail": ".history.notebooks.randomsynapsetest_20241211223742",
+        "documentation": {}
+    },
+    {
+        "label": "plot_metrics",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211223742",
+        "description": ".history.notebooks.randomsynapsetest_20241211223742",
+        "peekOfCode": "def plot_metrics(ax: plt.Axes = None, metrics: dict = None, \n                title: str = '') -> plt.Axes:\n    \"\"\"Plot metrics as bar chart on given axes.\"\"\"\n    if ax is None:\n        _, ax = plt.subplots(1, 1, figsize=(8, 2))\n    x = np.arange(len(metrics))\n    ax.bar(x, list(metrics.values()))\n    ax.set_xticks(x)\n    ax.set_xticklabels(list(metrics.keys()), rotation=45)\n    ax.set_title(title)",
+        "detail": ".history.notebooks.randomsynapsetest_20241211223742",
+        "documentation": {}
+    },
+    {
+        "label": "run_experiments",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211223742",
+        "description": ".history.notebooks.randomsynapsetest_20241211223742",
+        "peekOfCode": "def run_experiments():\n    \"\"\"Run all experiments and create visualization.\"\"\"\n    # Define base experiments (will be run with both stick lengths)\n    base_experiments = [\n        ('uniform', 100, 'Uniform'),\n        ('uniform', 1000, 'Uniform'),\n        ('two_bunches', 100, 'Two Bunches'),\n        ('two_bunches', 1000, 'Two Bunches'),\n        ('three_clusters', 100, 'Three Clusters'),\n        ('three_clusters', 1000, 'Three Clusters')",
+        "detail": ".history.notebooks.randomsynapsetest_20241211223742",
+        "documentation": {}
+    },
+    {
+        "label": "generate_points",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211223817",
+        "description": ".history.notebooks.randomsynapsetest_20241211223817",
+        "peekOfCode": "def generate_points(n: int, mode: str, stick_length: float = 1.0) -> np.ndarray:\n    \"\"\"Generate points on a stick using different distribution patterns.\"\"\"\n    if mode == 'uniform':\n        return np.random.uniform(0, stick_length, n)\n    elif mode == 'two_bunches':\n        # Mix of two normal distributions centered at 0.25 and 0.75 of stick length\n        points = np.concatenate([\n            np.random.normal(0.25 * stick_length, 0.05 * stick_length, n//2),\n            np.random.normal(0.75 * stick_length, 0.05 * stick_length, n//2 + n%2)\n        ])",
+        "detail": ".history.notebooks.randomsynapsetest_20241211223817",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_metrics",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211223817",
+        "description": ".history.notebooks.randomsynapsetest_20241211223817",
+        "peekOfCode": "def calculate_metrics(points: np.ndarray) -> dict:\n    \"\"\"Calculate various distribution metrics.\"\"\"\n    # Sort points for nearest neighbor calculation\n    sorted_points = np.sort(points)\n    # Calculate nearest neighbor distances\n    nn_distances = np.diff(sorted_points)  # distances to next neighbor\n    # Calculate pairwise distances\n    pairwise_distances = np.abs(points[:, None] - points)\n    np.fill_diagonal(pairwise_distances, np.inf)  # exclude self-distances\n    min_distances = np.min(pairwise_distances, axis=1)  # minimum distance for each point",
+        "detail": ".history.notebooks.randomsynapsetest_20241211223817",
+        "documentation": {}
+    },
+    {
+        "label": "plot_experiment",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211223817",
+        "description": ".history.notebooks.randomsynapsetest_20241211223817",
+        "peekOfCode": "def plot_experiment(ax: plt.Axes = None, points: np.ndarray = None, \n                   metrics: dict = None, title: str = '') -> plt.Axes:\n    \"\"\"Plot points and their distribution on given axes.\"\"\"\n    if ax is None:\n        _, ax = plt.subplots(1, 1, figsize=(8, 2))\n    # Plot points as dots\n    ax.scatter(points, np.ones_like(points) * 0.5, color='black', alpha=0.5, s=50)\n    # Add kernel density estimate\n    if len(points) > 1:\n        kde = gaussian_kde(points)",
+        "detail": ".history.notebooks.randomsynapsetest_20241211223817",
+        "documentation": {}
+    },
+    {
+        "label": "plot_metrics",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211223817",
+        "description": ".history.notebooks.randomsynapsetest_20241211223817",
+        "peekOfCode": "def plot_metrics(ax: plt.Axes = None, metrics: dict = None, \n                title: str = '') -> plt.Axes:\n    \"\"\"Plot metrics as bar chart on given axes.\"\"\"\n    if ax is None:\n        _, ax = plt.subplots(1, 1, figsize=(8, 2))\n    x = np.arange(len(metrics))\n    ax.bar(x, list(metrics.values()))\n    ax.set_xticks(x)\n    ax.set_xticklabels(list(metrics.keys()), rotation=45)\n    ax.set_title(title)",
+        "detail": ".history.notebooks.randomsynapsetest_20241211223817",
+        "documentation": {}
+    },
+    {
+        "label": "run_experiments",
+        "kind": 2,
+        "importPath": ".history.notebooks.randomsynapsetest_20241211223817",
+        "description": ".history.notebooks.randomsynapsetest_20241211223817",
+        "peekOfCode": "def run_experiments():\n    \"\"\"Run all experiments and create visualization.\"\"\"\n    # Define base experiments (will be run with both stick lengths)\n    base_experiments = [\n        ('uniform', 100, 'Uniform'),\n        ('uniform', 1000, 'Uniform'),\n        ('two_bunches', 100, 'Two Bunches'),\n        ('two_bunches', 1000, 'Two Bunches'),\n        ('three_clusters', 100, 'Three Clusters'),\n        ('three_clusters', 1000, 'Three Clusters')",
+        "detail": ".history.notebooks.randomsynapsetest_20241211223817",
+        "documentation": {}
+    },
+    {
+        "label": "generate_points",
+        "kind": 2,
+        "importPath": "notebooks.randomsynapsetest",
+        "description": "notebooks.randomsynapsetest",
+        "peekOfCode": "def generate_points(n: int, mode: str, stick_length: float = 1.0) -> np.ndarray:\n    \"\"\"Generate points on a stick using different distribution patterns.\"\"\"\n    if mode == 'uniform':\n        return np.random.uniform(0, stick_length, n)\n    elif mode == 'two_bunches':\n        # Mix of two normal distributions centered at 0.25 and 0.75 of stick length\n        points = np.concatenate([\n            np.random.normal(0.25 * stick_length, 0.05 * stick_length, n//2),\n            np.random.normal(0.75 * stick_length, 0.05 * stick_length, n//2 + n%2)\n        ])",
+        "detail": "notebooks.randomsynapsetest",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_metrics",
+        "kind": 2,
+        "importPath": "notebooks.randomsynapsetest",
+        "description": "notebooks.randomsynapsetest",
+        "peekOfCode": "def calculate_metrics(points: np.ndarray) -> dict:\n    \"\"\"Calculate various distribution metrics.\"\"\"\n    # Sort points for nearest neighbor calculation\n    sorted_points = np.sort(points)\n    # Calculate nearest neighbor distances\n    nn_distances = np.diff(sorted_points)  # distances to next neighbor\n    # Calculate pairwise distances\n    pairwise_distances = np.abs(points[:, None] - points)\n    np.fill_diagonal(pairwise_distances, np.inf)  # exclude self-distances\n    min_distances = np.min(pairwise_distances, axis=1)  # minimum distance for each point",
+        "detail": "notebooks.randomsynapsetest",
+        "documentation": {}
+    },
+    {
+        "label": "plot_experiment",
+        "kind": 2,
+        "importPath": "notebooks.randomsynapsetest",
+        "description": "notebooks.randomsynapsetest",
+        "peekOfCode": "def plot_experiment(ax: plt.Axes = None, points: np.ndarray = None, \n                   metrics: dict = None, title: str = '') -> plt.Axes:\n    \"\"\"Plot points and their distribution on given axes.\"\"\"\n    if ax is None:\n        _, ax = plt.subplots(1, 1, figsize=(8, 2))\n    # Plot points as dots\n    ax.scatter(points, np.ones_like(points) * 0.5, color='black', alpha=0.5, s=50)\n    # Add kernel density estimate\n    if len(points) > 1:\n        kde = gaussian_kde(points)",
+        "detail": "notebooks.randomsynapsetest",
+        "documentation": {}
+    },
+    {
+        "label": "plot_metrics",
+        "kind": 2,
+        "importPath": "notebooks.randomsynapsetest",
+        "description": "notebooks.randomsynapsetest",
+        "peekOfCode": "def plot_metrics(ax: plt.Axes = None, metrics: dict = None, \n                title: str = '') -> plt.Axes:\n    \"\"\"Plot metrics as bar chart on given axes.\"\"\"\n    if ax is None:\n        _, ax = plt.subplots(1, 1, figsize=(8, 2))\n    x = np.arange(len(metrics))\n    ax.bar(x, list(metrics.values()))\n    ax.set_xticks(x)\n    ax.set_xticklabels(list(metrics.keys()), rotation=45)\n    ax.set_title(title)",
+        "detail": "notebooks.randomsynapsetest",
+        "documentation": {}
+    },
+    {
+        "label": "run_experiments",
+        "kind": 2,
+        "importPath": "notebooks.randomsynapsetest",
+        "description": "notebooks.randomsynapsetest",
+        "peekOfCode": "def run_experiments():\n    \"\"\"Run all experiments and create visualization.\"\"\"\n    # Define base experiments (will be run with both stick lengths)\n    base_experiments = [\n        ('uniform', 100, 'Uniform'),\n        ('uniform', 1000, 'Uniform'),\n        ('two_bunches', 100, 'Two Bunches'),\n        ('two_bunches', 1000, 'Two Bunches'),\n        ('three_clusters', 100, 'Three Clusters'),\n        ('three_clusters', 1000, 'Three Clusters')",
+        "detail": "notebooks.randomsynapsetest",
+        "documentation": {}
+    }
+]

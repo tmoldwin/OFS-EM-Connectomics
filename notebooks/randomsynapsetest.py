@@ -60,13 +60,16 @@ def plot_experiment(ax: plt.Axes = None, points: np.ndarray = None,
     if len(points) > 1:
         kde = gaussian_kde(points)
         x = np.linspace(0, 1, 200)
-        ax.plot(x, kde(x), 'r-', alpha=0.5)
+        density = kde(x)
+        # Scale density to fit in plot
+        density = 0.5 + density * 0.4 / density.max()  # Scale to use upper half of plot
+        ax.plot(x, density, 'r-', alpha=0.5)
     
     # Draw the stick
     ax.plot([0, 1], [0.5, 0.5], 'k-', linewidth=2, alpha=0.3)
     
     ax.set_xlim(-0.05, 1.05)
-    ax.set_ylim(-0.05, 1.05)
+    ax.set_ylim(0, 1.2)  # Increased y-axis range
     ax.set_title(title)
     ax.set_yticks([])
     
@@ -90,36 +93,35 @@ def run_experiments():
     """Run all experiments and create visualization."""
     # Define base experiments (will be run with both stick lengths)
     base_experiments = [
-        ('uniform', 10, 'Uniform\nN=10'),
-        ('uniform', 100, 'Uniform\nN=100'),
-        ('two_bunches', 10, 'Two Bunches\nN=10'),
-        ('two_bunches', 100, 'Two Bunches\nN=100'),
-        ('three_clusters', 10, 'Three Clusters\nN=10'),
-        ('three_clusters', 100, 'Three Clusters\nN=100')
+        ('uniform', 100, 'Uniform'),
+        ('uniform', 1000, 'Uniform'),
+        ('two_bunches', 100, 'Two Bunches'),
+        ('two_bunches', 1000, 'Two Bunches'),
+        ('three_clusters', 100, 'Three Clusters'),
+        ('three_clusters', 1000, 'Three Clusters')
     ]
     
     # Color scheme for size-N combinations
     size_n_colors = {
-        (0.1, 10): 'skyblue',
-        (0.1, 100): 'lightgreen',
-        (1.0, 10): 'salmon',
-        (1.0, 100): 'plum'
+        (0.1, 100): 'skyblue',
+        (0.1, 1000): 'lightgreen',
+        (1.0, 100): 'salmon',
+        (1.0, 1000): 'plum'
     }
     
     # Create full experiment list with both stick lengths
     experiments = []
     for mode, n, base_title in base_experiments:
         # Short stick version
-        experiments.append((mode, n, 0.1, f"{base_title}\nL=0.1"))
+        experiments.append((mode, n, 0.1, f"{base_title} N={n} L=0.1"))
         # Long stick version
-        experiments.append((mode, n, 1.0, f"{base_title}\nL=1.0"))
+        experiments.append((mode, n, 1.0, f"{base_title} N={n} L=1.0"))
     
-    # Reorder experiments to group by distribution type
-    experiments = sorted(experiments, key=lambda x: (x[0], x[2], x[1]))
+    # Reorder experiments to group by distribution type first
+    experiments = sorted(experiments, key=lambda x: (x[0], x[1], x[2]))
     
     # Create two figures
-    fig_dist, axes_dist = plt.subplots(4, 3, figsize=(15, 20))
-    fig_dist.suptitle('Distribution Experiments', y=0.95, fontsize=14)
+    fig_dist, axes_dist = plt.subplots(3, 4, figsize=(16, 12))
     
     fig_summary, axes_summary = plt.subplots(2, 2, figsize=(15, 10))
     fig_summary.suptitle('Metric Summary', y=0.95, fontsize=14)
@@ -137,8 +139,13 @@ def run_experiments():
     
     # Plot distribution experiments
     for i, (points, metrics, title, stick_length, mode, n) in enumerate(results):
-        row = i // 3
-        col = i % 3
+        # Calculate row and column indices based on distribution type
+        row_order = {'uniform': 0, 'two_bunches': 1, 'three_clusters': 2}
+        row = row_order[mode]
+        
+        # Calculate column based on N and stick_length
+        # Order: N=100,L=0.1 | N=100,L=1.0 | N=1000,L=0.1 | N=1000,L=1.0
+        col = (n == 1000) * 2 + (stick_length == 1.0)
         
         # Plot points distribution
         ax_dist = axes_dist[row, col]
@@ -155,17 +162,22 @@ def run_experiments():
         'std_pairwise': 'Std Pair'
     }
     
+    # Reorder results to group by L and N for summary plots
+    summary_results = sorted(results, key=lambda x: (x[5], x[3]))  # Sort by N, then L
+    
     for idx, (metric, label) in enumerate(metric_names.items()):
         ax = axes_summary[idx//2, idx%2]
-        values = [m[metric] for m in all_metrics]
+        values = [result[1][metric] for result in summary_results]  # Access metrics from tuple
         x = np.arange(len(experiments))
         
         # Color bars based on size-N combination
-        bar_colors = [size_n_colors[(result[3], result[5])] for result in results]
+        bar_colors = [size_n_colors[(result[3], result[5])] for result in summary_results]
         
         ax.bar(x, values, color=bar_colors)
         ax.set_xticks(x)
-        ax.set_xticklabels([exp[3] for exp in experiments], rotation=45, ha='right', fontsize=8)
+        # Create multiline labels for x-axis
+        labels = [f"{result[4]}\nN={result[5]}\nL={result[3]}" for result in summary_results]
+        ax.set_xticklabels(labels, rotation=90, ha='center', fontsize=8)
         ax.set_title(label, fontsize=10, pad=10)
         ax.set_ylabel('Distance', fontsize=8)
         ax.tick_params(labelsize=8)
@@ -176,7 +188,7 @@ def run_experiments():
     plt.tight_layout()
     
     plt.figure(fig_summary.number)
-    plt.tight_layout()
+    plt.tight_layout(rect=[0, 0, 1, 0.95])
     
     return fig_dist, fig_summary
 
