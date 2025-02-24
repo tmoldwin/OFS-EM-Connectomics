@@ -7427,324 +7427,324 @@
         "documentation": {}
     },
     {
-        "label": "PCA",
-        "importPath": "sklearn.decomposition",
-        "description": "sklearn.decomposition",
-        "isExtraImport": true,
-        "detail": "sklearn.decomposition",
-        "documentation": {}
-    },
-    {
-        "label": "PCA",
-        "importPath": "sklearn.decomposition",
-        "description": "sklearn.decomposition",
-        "isExtraImport": true,
-        "detail": "sklearn.decomposition",
-        "documentation": {}
-    },
-    {
-        "label": "PCA",
-        "importPath": "sklearn.decomposition",
-        "description": "sklearn.decomposition",
-        "isExtraImport": true,
-        "detail": "sklearn.decomposition",
-        "documentation": {}
-    },
-    {
-        "label": "PCA",
-        "importPath": "sklearn.decomposition",
-        "description": "sklearn.decomposition",
-        "isExtraImport": true,
-        "detail": "sklearn.decomposition",
-        "documentation": {}
-    },
-    {
-        "label": "PCA",
-        "importPath": "sklearn.decomposition",
-        "description": "sklearn.decomposition",
-        "isExtraImport": true,
-        "detail": "sklearn.decomposition",
-        "documentation": {}
-    },
-    {
-        "label": "PCA",
-        "importPath": "sklearn.decomposition",
-        "description": "sklearn.decomposition",
-        "isExtraImport": true,
-        "detail": "sklearn.decomposition",
-        "documentation": {}
-    },
-    {
-        "label": "PCA",
-        "importPath": "sklearn.decomposition",
-        "description": "sklearn.decomposition",
-        "isExtraImport": true,
-        "detail": "sklearn.decomposition",
-        "documentation": {}
-    },
-    {
-        "label": "PCA",
-        "importPath": "sklearn.decomposition",
-        "description": "sklearn.decomposition",
-        "isExtraImport": true,
-        "detail": "sklearn.decomposition",
-        "documentation": {}
-    },
-    {
-        "label": "PCA",
-        "importPath": "sklearn.decomposition",
-        "description": "sklearn.decomposition",
-        "isExtraImport": true,
-        "detail": "sklearn.decomposition",
-        "documentation": {}
-    },
-    {
-        "label": "PCA",
-        "importPath": "sklearn.decomposition",
-        "description": "sklearn.decomposition",
-        "isExtraImport": true,
-        "detail": "sklearn.decomposition",
-        "documentation": {}
-    },
-    {
-        "label": "PCA",
-        "importPath": "sklearn.decomposition",
-        "description": "sklearn.decomposition",
-        "isExtraImport": true,
-        "detail": "sklearn.decomposition",
-        "documentation": {}
-    },
-    {
-        "label": "PCA",
-        "importPath": "sklearn.decomposition",
-        "description": "sklearn.decomposition",
-        "isExtraImport": true,
-        "detail": "sklearn.decomposition",
-        "documentation": {}
-    },
-    {
-        "label": "PCA",
-        "importPath": "sklearn.decomposition",
-        "description": "sklearn.decomposition",
-        "isExtraImport": true,
-        "detail": "sklearn.decomposition",
-        "documentation": {}
-    },
-    {
-        "label": "KMeans",
-        "importPath": "sklearn.cluster",
-        "description": "sklearn.cluster",
-        "isExtraImport": true,
-        "detail": "sklearn.cluster",
-        "documentation": {}
-    },
-    {
-        "label": "DBSCAN",
-        "importPath": "sklearn.cluster",
-        "description": "sklearn.cluster",
-        "isExtraImport": true,
-        "detail": "sklearn.cluster",
-        "documentation": {}
-    },
-    {
-        "label": "KMeans",
-        "importPath": "sklearn.cluster",
-        "description": "sklearn.cluster",
-        "isExtraImport": true,
-        "detail": "sklearn.cluster",
-        "documentation": {}
-    },
-    {
-        "label": "DBSCAN",
-        "importPath": "sklearn.cluster",
-        "description": "sklearn.cluster",
-        "isExtraImport": true,
-        "detail": "sklearn.cluster",
-        "documentation": {}
-    },
-    {
-        "label": "KMeans",
-        "importPath": "sklearn.cluster",
-        "description": "sklearn.cluster",
-        "isExtraImport": true,
-        "detail": "sklearn.cluster",
-        "documentation": {}
-    },
-    {
-        "label": "DBSCAN",
-        "importPath": "sklearn.cluster",
-        "description": "sklearn.cluster",
-        "isExtraImport": true,
-        "detail": "sklearn.cluster",
-        "documentation": {}
-    },
-    {
-        "label": "KMeans",
-        "importPath": "sklearn.cluster",
-        "description": "sklearn.cluster",
-        "isExtraImport": true,
-        "detail": "sklearn.cluster",
-        "documentation": {}
-    },
-    {
-        "label": "DBSCAN",
-        "importPath": "sklearn.cluster",
-        "description": "sklearn.cluster",
-        "isExtraImport": true,
-        "detail": "sklearn.cluster",
-        "documentation": {}
-    },
-    {
-        "label": "KMeans",
-        "importPath": "sklearn.cluster",
-        "description": "sklearn.cluster",
-        "isExtraImport": true,
-        "detail": "sklearn.cluster",
-        "documentation": {}
-    },
-    {
-        "label": "DBSCAN",
-        "importPath": "sklearn.cluster",
-        "description": "sklearn.cluster",
-        "isExtraImport": true,
-        "detail": "sklearn.cluster",
-        "documentation": {}
-    },
-    {
-        "label": "KMeans",
-        "importPath": "sklearn.cluster",
-        "description": "sklearn.cluster",
-        "isExtraImport": true,
-        "detail": "sklearn.cluster",
-        "documentation": {}
-    },
-    {
-        "label": "DBSCAN",
-        "importPath": "sklearn.cluster",
-        "description": "sklearn.cluster",
-        "isExtraImport": true,
-        "detail": "sklearn.cluster",
-        "documentation": {}
-    },
-    {
-        "label": "KMeans",
-        "importPath": "sklearn.cluster",
-        "description": "sklearn.cluster",
-        "isExtraImport": true,
-        "detail": "sklearn.cluster",
-        "documentation": {}
-    },
-    {
-        "label": "DBSCAN",
-        "importPath": "sklearn.cluster",
-        "description": "sklearn.cluster",
-        "isExtraImport": true,
-        "detail": "sklearn.cluster",
-        "documentation": {}
-    },
-    {
-        "label": "KMeans",
-        "importPath": "sklearn.cluster",
-        "description": "sklearn.cluster",
-        "isExtraImport": true,
-        "detail": "sklearn.cluster",
-        "documentation": {}
-    },
-    {
-        "label": "DBSCAN",
-        "importPath": "sklearn.cluster",
-        "description": "sklearn.cluster",
-        "isExtraImport": true,
-        "detail": "sklearn.cluster",
-        "documentation": {}
-    },
-    {
-        "label": "KMeans",
-        "importPath": "sklearn.cluster",
-        "description": "sklearn.cluster",
-        "isExtraImport": true,
-        "detail": "sklearn.cluster",
-        "documentation": {}
-    },
-    {
-        "label": "DBSCAN",
-        "importPath": "sklearn.cluster",
-        "description": "sklearn.cluster",
-        "isExtraImport": true,
-        "detail": "sklearn.cluster",
-        "documentation": {}
-    },
-    {
-        "label": "KMeans",
-        "importPath": "sklearn.cluster",
-        "description": "sklearn.cluster",
-        "isExtraImport": true,
-        "detail": "sklearn.cluster",
-        "documentation": {}
-    },
-    {
-        "label": "DBSCAN",
-        "importPath": "sklearn.cluster",
-        "description": "sklearn.cluster",
-        "isExtraImport": true,
-        "detail": "sklearn.cluster",
-        "documentation": {}
-    },
-    {
-        "label": "KMeans",
-        "importPath": "sklearn.cluster",
-        "description": "sklearn.cluster",
-        "isExtraImport": true,
-        "detail": "sklearn.cluster",
-        "documentation": {}
-    },
-    {
-        "label": "DBSCAN",
-        "importPath": "sklearn.cluster",
-        "description": "sklearn.cluster",
-        "isExtraImport": true,
-        "detail": "sklearn.cluster",
-        "documentation": {}
-    },
-    {
-        "label": "KMeans",
-        "importPath": "sklearn.cluster",
-        "description": "sklearn.cluster",
-        "isExtraImport": true,
-        "detail": "sklearn.cluster",
-        "documentation": {}
-    },
-    {
-        "label": "DBSCAN",
-        "importPath": "sklearn.cluster",
-        "description": "sklearn.cluster",
-        "isExtraImport": true,
-        "detail": "sklearn.cluster",
-        "documentation": {}
-    },
-    {
-        "label": "KMeans",
-        "importPath": "sklearn.cluster",
-        "description": "sklearn.cluster",
-        "isExtraImport": true,
-        "detail": "sklearn.cluster",
-        "documentation": {}
-    },
-    {
-        "label": "DBSCAN",
-        "importPath": "sklearn.cluster",
-        "description": "sklearn.cluster",
-        "isExtraImport": true,
-        "detail": "sklearn.cluster",
-        "documentation": {}
-    },
-    {
         "label": "seaborn",
         "kind": 6,
         "isExtraImport": true,
         "importPath": "seaborn",
         "description": "seaborn",
         "detail": "seaborn",
+        "documentation": {}
+    },
+    {
+        "label": "PCA",
+        "importPath": "sklearn.decomposition",
+        "description": "sklearn.decomposition",
+        "isExtraImport": true,
+        "detail": "sklearn.decomposition",
+        "documentation": {}
+    },
+    {
+        "label": "PCA",
+        "importPath": "sklearn.decomposition",
+        "description": "sklearn.decomposition",
+        "isExtraImport": true,
+        "detail": "sklearn.decomposition",
+        "documentation": {}
+    },
+    {
+        "label": "PCA",
+        "importPath": "sklearn.decomposition",
+        "description": "sklearn.decomposition",
+        "isExtraImport": true,
+        "detail": "sklearn.decomposition",
+        "documentation": {}
+    },
+    {
+        "label": "PCA",
+        "importPath": "sklearn.decomposition",
+        "description": "sklearn.decomposition",
+        "isExtraImport": true,
+        "detail": "sklearn.decomposition",
+        "documentation": {}
+    },
+    {
+        "label": "PCA",
+        "importPath": "sklearn.decomposition",
+        "description": "sklearn.decomposition",
+        "isExtraImport": true,
+        "detail": "sklearn.decomposition",
+        "documentation": {}
+    },
+    {
+        "label": "PCA",
+        "importPath": "sklearn.decomposition",
+        "description": "sklearn.decomposition",
+        "isExtraImport": true,
+        "detail": "sklearn.decomposition",
+        "documentation": {}
+    },
+    {
+        "label": "PCA",
+        "importPath": "sklearn.decomposition",
+        "description": "sklearn.decomposition",
+        "isExtraImport": true,
+        "detail": "sklearn.decomposition",
+        "documentation": {}
+    },
+    {
+        "label": "PCA",
+        "importPath": "sklearn.decomposition",
+        "description": "sklearn.decomposition",
+        "isExtraImport": true,
+        "detail": "sklearn.decomposition",
+        "documentation": {}
+    },
+    {
+        "label": "PCA",
+        "importPath": "sklearn.decomposition",
+        "description": "sklearn.decomposition",
+        "isExtraImport": true,
+        "detail": "sklearn.decomposition",
+        "documentation": {}
+    },
+    {
+        "label": "PCA",
+        "importPath": "sklearn.decomposition",
+        "description": "sklearn.decomposition",
+        "isExtraImport": true,
+        "detail": "sklearn.decomposition",
+        "documentation": {}
+    },
+    {
+        "label": "PCA",
+        "importPath": "sklearn.decomposition",
+        "description": "sklearn.decomposition",
+        "isExtraImport": true,
+        "detail": "sklearn.decomposition",
+        "documentation": {}
+    },
+    {
+        "label": "PCA",
+        "importPath": "sklearn.decomposition",
+        "description": "sklearn.decomposition",
+        "isExtraImport": true,
+        "detail": "sklearn.decomposition",
+        "documentation": {}
+    },
+    {
+        "label": "PCA",
+        "importPath": "sklearn.decomposition",
+        "description": "sklearn.decomposition",
+        "isExtraImport": true,
+        "detail": "sklearn.decomposition",
+        "documentation": {}
+    },
+    {
+        "label": "KMeans",
+        "importPath": "sklearn.cluster",
+        "description": "sklearn.cluster",
+        "isExtraImport": true,
+        "detail": "sklearn.cluster",
+        "documentation": {}
+    },
+    {
+        "label": "DBSCAN",
+        "importPath": "sklearn.cluster",
+        "description": "sklearn.cluster",
+        "isExtraImport": true,
+        "detail": "sklearn.cluster",
+        "documentation": {}
+    },
+    {
+        "label": "KMeans",
+        "importPath": "sklearn.cluster",
+        "description": "sklearn.cluster",
+        "isExtraImport": true,
+        "detail": "sklearn.cluster",
+        "documentation": {}
+    },
+    {
+        "label": "DBSCAN",
+        "importPath": "sklearn.cluster",
+        "description": "sklearn.cluster",
+        "isExtraImport": true,
+        "detail": "sklearn.cluster",
+        "documentation": {}
+    },
+    {
+        "label": "KMeans",
+        "importPath": "sklearn.cluster",
+        "description": "sklearn.cluster",
+        "isExtraImport": true,
+        "detail": "sklearn.cluster",
+        "documentation": {}
+    },
+    {
+        "label": "DBSCAN",
+        "importPath": "sklearn.cluster",
+        "description": "sklearn.cluster",
+        "isExtraImport": true,
+        "detail": "sklearn.cluster",
+        "documentation": {}
+    },
+    {
+        "label": "KMeans",
+        "importPath": "sklearn.cluster",
+        "description": "sklearn.cluster",
+        "isExtraImport": true,
+        "detail": "sklearn.cluster",
+        "documentation": {}
+    },
+    {
+        "label": "DBSCAN",
+        "importPath": "sklearn.cluster",
+        "description": "sklearn.cluster",
+        "isExtraImport": true,
+        "detail": "sklearn.cluster",
+        "documentation": {}
+    },
+    {
+        "label": "KMeans",
+        "importPath": "sklearn.cluster",
+        "description": "sklearn.cluster",
+        "isExtraImport": true,
+        "detail": "sklearn.cluster",
+        "documentation": {}
+    },
+    {
+        "label": "DBSCAN",
+        "importPath": "sklearn.cluster",
+        "description": "sklearn.cluster",
+        "isExtraImport": true,
+        "detail": "sklearn.cluster",
+        "documentation": {}
+    },
+    {
+        "label": "KMeans",
+        "importPath": "sklearn.cluster",
+        "description": "sklearn.cluster",
+        "isExtraImport": true,
+        "detail": "sklearn.cluster",
+        "documentation": {}
+    },
+    {
+        "label": "DBSCAN",
+        "importPath": "sklearn.cluster",
+        "description": "sklearn.cluster",
+        "isExtraImport": true,
+        "detail": "sklearn.cluster",
+        "documentation": {}
+    },
+    {
+        "label": "KMeans",
+        "importPath": "sklearn.cluster",
+        "description": "sklearn.cluster",
+        "isExtraImport": true,
+        "detail": "sklearn.cluster",
+        "documentation": {}
+    },
+    {
+        "label": "DBSCAN",
+        "importPath": "sklearn.cluster",
+        "description": "sklearn.cluster",
+        "isExtraImport": true,
+        "detail": "sklearn.cluster",
+        "documentation": {}
+    },
+    {
+        "label": "KMeans",
+        "importPath": "sklearn.cluster",
+        "description": "sklearn.cluster",
+        "isExtraImport": true,
+        "detail": "sklearn.cluster",
+        "documentation": {}
+    },
+    {
+        "label": "DBSCAN",
+        "importPath": "sklearn.cluster",
+        "description": "sklearn.cluster",
+        "isExtraImport": true,
+        "detail": "sklearn.cluster",
+        "documentation": {}
+    },
+    {
+        "label": "KMeans",
+        "importPath": "sklearn.cluster",
+        "description": "sklearn.cluster",
+        "isExtraImport": true,
+        "detail": "sklearn.cluster",
+        "documentation": {}
+    },
+    {
+        "label": "DBSCAN",
+        "importPath": "sklearn.cluster",
+        "description": "sklearn.cluster",
+        "isExtraImport": true,
+        "detail": "sklearn.cluster",
+        "documentation": {}
+    },
+    {
+        "label": "KMeans",
+        "importPath": "sklearn.cluster",
+        "description": "sklearn.cluster",
+        "isExtraImport": true,
+        "detail": "sklearn.cluster",
+        "documentation": {}
+    },
+    {
+        "label": "DBSCAN",
+        "importPath": "sklearn.cluster",
+        "description": "sklearn.cluster",
+        "isExtraImport": true,
+        "detail": "sklearn.cluster",
+        "documentation": {}
+    },
+    {
+        "label": "KMeans",
+        "importPath": "sklearn.cluster",
+        "description": "sklearn.cluster",
+        "isExtraImport": true,
+        "detail": "sklearn.cluster",
+        "documentation": {}
+    },
+    {
+        "label": "DBSCAN",
+        "importPath": "sklearn.cluster",
+        "description": "sklearn.cluster",
+        "isExtraImport": true,
+        "detail": "sklearn.cluster",
+        "documentation": {}
+    },
+    {
+        "label": "KMeans",
+        "importPath": "sklearn.cluster",
+        "description": "sklearn.cluster",
+        "isExtraImport": true,
+        "detail": "sklearn.cluster",
+        "documentation": {}
+    },
+    {
+        "label": "DBSCAN",
+        "importPath": "sklearn.cluster",
+        "description": "sklearn.cluster",
+        "isExtraImport": true,
+        "detail": "sklearn.cluster",
+        "documentation": {}
+    },
+    {
+        "label": "KMeans",
+        "importPath": "sklearn.cluster",
+        "description": "sklearn.cluster",
+        "isExtraImport": true,
+        "detail": "sklearn.cluster",
+        "documentation": {}
+    },
+    {
+        "label": "DBSCAN",
+        "importPath": "sklearn.cluster",
+        "description": "sklearn.cluster",
+        "isExtraImport": true,
+        "detail": "sklearn.cluster",
         "documentation": {}
     },
     {
@@ -12080,6 +12080,150 @@
         "documentation": {}
     },
     {
+        "label": "plot_feature_correlations",
+        "kind": 2,
+        "importPath": ".history.feature_correlations_20250223232039",
+        "description": ".history.feature_correlations_20250223232039",
+        "peekOfCode": "def plot_feature_correlations(df):\n    \"\"\"Plot correlation matrix of features and cell type specific patterns\"\"\"\n    # Get feature columns (excluding metadata columns)\n    feature_cols = ['synapse_area', 'pre_area', 'post_area', 'pre_post_ratio',\n                   'perimeter', 'circularity', 'mean_intensity', 'median_intensity',\n                   'std_intensity', 'pre_post_distance', 'jaccard_index',\n                   'pre_overlap', 'post_overlap', 'major_axis_length', 'minor_axis_length']\n    # Calculate correlation matrix\n    corr_matrix = df[feature_cols].corr()\n    # Create figure with two subplots",
+        "detail": ".history.feature_correlations_20250223232039",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": ".history.feature_correlations_20250223232039",
+        "description": ".history.feature_correlations_20250223232039",
+        "peekOfCode": "df = pd.read_csv('../data/synapse_data_with_metrics.csv')\nplot_feature_correlations(df)",
+        "detail": ".history.feature_correlations_20250223232039",
+        "documentation": {}
+    },
+    {
+        "label": "plot_feature_correlations",
+        "kind": 2,
+        "importPath": ".history.feature_correlations_20250223232041",
+        "description": ".history.feature_correlations_20250223232041",
+        "peekOfCode": "def plot_feature_correlations(df):\n    \"\"\"Plot correlation matrix of features and cell type specific patterns\"\"\"\n    # Get feature columns (excluding metadata columns)\n    feature_cols = ['synapse_area', 'pre_area', 'post_area', 'pre_post_ratio',\n                   'perimeter', 'circularity', 'mean_intensity', 'median_intensity',\n                   'std_intensity', 'pre_post_distance', 'jaccard_index',\n                   'pre_overlap', 'post_overlap', 'major_axis_length', 'minor_axis_length']\n    # Calculate correlation matrix\n    corr_matrix = df[feature_cols].corr()\n    # Create figure with two subplots",
+        "detail": ".history.feature_correlations_20250223232041",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": ".history.feature_correlations_20250223232041",
+        "description": ".history.feature_correlations_20250223232041",
+        "peekOfCode": "df = pd.read_csv('../data/synapse_data_with_metrics.csv')\nplot_feature_correlations(df)",
+        "detail": ".history.feature_correlations_20250223232041",
+        "documentation": {}
+    },
+    {
+        "label": "plot_feature_correlations",
+        "kind": 2,
+        "importPath": ".history.feature_correlations_20250223232115",
+        "description": ".history.feature_correlations_20250223232115",
+        "peekOfCode": "def plot_feature_correlations(df):\n    \"\"\"Plot correlation matrix of features and cell type specific patterns\"\"\"\n    # Get feature columns (excluding metadata columns)\n    feature_cols = ['synapse_area', 'pre_area', 'post_area', 'pre_post_ratio',\n                   'perimeter', 'circularity', 'mean_intensity', 'median_intensity',\n                   'std_intensity', 'pre_post_distance', 'jaccard_index',\n                   'pre_overlap', 'post_overlap', 'major_axis_length', 'minor_axis_length']\n    # Calculate correlation matrix\n    corr_matrix = df[feature_cols].corr()\n    # Create figure with two subplots",
+        "detail": ".history.feature_correlations_20250223232115",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": ".history.feature_correlations_20250223232115",
+        "description": ".history.feature_correlations_20250223232115",
+        "peekOfCode": "df = pd.read_csv('../data/synapse_data_with_metrics.csv')\nplot_feature_correlations(df)",
+        "detail": ".history.feature_correlations_20250223232115",
+        "documentation": {}
+    },
+    {
+        "label": "plot_feature_correlations",
+        "kind": 2,
+        "importPath": ".history.feature_correlations_20250223232219",
+        "description": ".history.feature_correlations_20250223232219",
+        "peekOfCode": "def plot_feature_correlations(df):\n    \"\"\"Plot correlation matrix of features and cell type specific patterns\"\"\"\n    # Get feature columns (excluding metadata columns)\n    feature_cols = ['synapse_area', 'pre_area', 'post_area', 'pre_post_ratio',\n                   'perimeter', 'circularity', 'mean_intensity', 'median_intensity',\n                   'std_intensity', 'pre_post_distance', 'jaccard_index',\n                   'pre_overlap', 'post_overlap', 'major_axis_length', 'minor_axis_length']\n    # Calculate correlation matrix\n    corr_matrix = df[feature_cols].corr()\n    # Create figure with two subplots",
+        "detail": ".history.feature_correlations_20250223232219",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": ".history.feature_correlations_20250223232219",
+        "description": ".history.feature_correlations_20250223232219",
+        "peekOfCode": "df = pd.read_csv('../data/synapse_data_with_metrics.csv')\nplot_feature_correlations(df)",
+        "detail": ".history.feature_correlations_20250223232219",
+        "documentation": {}
+    },
+    {
+        "label": "plot_feature_correlations",
+        "kind": 2,
+        "importPath": ".history.feature_correlations_20250223232250",
+        "description": ".history.feature_correlations_20250223232250",
+        "peekOfCode": "def plot_feature_correlations(df):\n    \"\"\"Plot correlation matrix of features and cell type specific patterns\"\"\"\n    # Get feature columns (excluding metadata columns)\n    feature_cols = ['synapse_area', 'pre_area', 'post_area', 'pre_post_ratio',\n                   'perimeter', 'circularity', 'mean_intensity', 'median_intensity',\n                   'std_intensity', 'pre_post_distance', 'jaccard_index',\n                   'pre_overlap', 'post_overlap', 'major_axis_length', 'minor_axis_length']\n    # Calculate correlation matrix\n    corr_matrix = df[feature_cols].corr()\n    # Create figure with two subplots",
+        "detail": ".history.feature_correlations_20250223232250",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": ".history.feature_correlations_20250223232250",
+        "description": ".history.feature_correlations_20250223232250",
+        "peekOfCode": "df = pd.read_csv('../data/synapse_data_with_metrics.csv')\nplot_feature_correlations(df)",
+        "detail": ".history.feature_correlations_20250223232250",
+        "documentation": {}
+    },
+    {
+        "label": "plot_feature_correlations",
+        "kind": 2,
+        "importPath": ".history.feature_correlations_20250223232304",
+        "description": ".history.feature_correlations_20250223232304",
+        "peekOfCode": "def plot_feature_correlations(df):\n    \"\"\"Plot correlation matrix of features and cell type specific patterns\"\"\"\n    # Get feature columns (excluding metadata columns)\n    feature_cols = ['synapse_area', 'pre_area', 'post_area', 'pre_post_ratio',\n                   'perimeter', 'circularity', 'mean_intensity', 'median_intensity',\n                   'std_intensity', 'pre_post_distance', 'jaccard_index',\n                   'pre_overlap', 'post_overlap', 'major_axis_length', 'minor_axis_length']\n    # Calculate correlation matrix\n    corr_matrix = df[feature_cols].corr()\n    # Create figure with two subplots",
+        "detail": ".history.feature_correlations_20250223232304",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": ".history.feature_correlations_20250223232304",
+        "description": ".history.feature_correlations_20250223232304",
+        "peekOfCode": "df = pd.read_csv('data/synapse_data_with_metrics.csv')\nplot_feature_correlations(df)",
+        "detail": ".history.feature_correlations_20250223232304",
+        "documentation": {}
+    },
+    {
+        "label": "plot_feature_correlations",
+        "kind": 2,
+        "importPath": ".history.feature_correlations_20250223232423",
+        "description": ".history.feature_correlations_20250223232423",
+        "peekOfCode": "def plot_feature_correlations(df):\n    \"\"\"Plot correlation matrix of features and cell type specific patterns\"\"\"\n    # Get feature columns (excluding metadata columns)\n    feature_cols = ['synapse_area', 'pre_area', 'post_area', 'pre_post_ratio',\n                   'perimeter', 'circularity', 'mean_intensity', 'median_intensity',\n                   'std_intensity', 'pre_post_distance', 'jaccard_index',\n                   'pre_overlap', 'post_overlap', 'major_axis_length', 'minor_axis_length']\n    # Calculate correlation matrix\n    corr_matrix = df[feature_cols].corr()\n    # Create figure with two subplots",
+        "detail": ".history.feature_correlations_20250223232423",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": ".history.feature_correlations_20250223232423",
+        "description": ".history.feature_correlations_20250223232423",
+        "peekOfCode": "df = pd.read_csv('data/synapse_data_with_metrics.csv')\nplot_feature_correlations(df)\nplt.savefig('figs/feature_correlations.png', dpi=300)",
+        "detail": ".history.feature_correlations_20250223232423",
+        "documentation": {}
+    },
+    {
+        "label": "plot_feature_correlations",
+        "kind": 2,
+        "importPath": ".history.feature_correlations_20250223232453",
+        "description": ".history.feature_correlations_20250223232453",
+        "peekOfCode": "def plot_feature_correlations(df):\n    \"\"\"Plot correlation matrix of features and cell type specific patterns\"\"\"\n    # Get feature columns (excluding metadata columns)\n    feature_cols = ['synapse_area', 'pre_area', 'post_area', 'pre_post_ratio',\n                   'perimeter', 'circularity', 'mean_intensity', 'median_intensity',\n                   'std_intensity', 'pre_post_distance', 'jaccard_index',\n                   'pre_overlap', 'post_overlap', 'major_axis_length', 'minor_axis_length']\n    # Calculate correlation matrix\n    corr_matrix = df[feature_cols].corr()\n    # Create figure with two subplots",
+        "detail": ".history.feature_correlations_20250223232453",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": ".history.feature_correlations_20250223232453",
+        "description": ".history.feature_correlations_20250223232453",
+        "peekOfCode": "df = pd.read_csv('data/synapse_data_with_metrics.csv')\nplot_feature_correlations(df)",
+        "detail": ".history.feature_correlations_20250223232453",
+        "documentation": {}
+    },
+    {
         "label": "load_metrics",
         "kind": 2,
         "importPath": ".history.metrics_analysis_20250223171609",
@@ -15866,6 +16010,24 @@
         "description": "ExampleSyns",
         "peekOfCode": "def plot_synapse_comparison(synapses, path_, n_each=3):\n    \"\"\"Plot comparison of E/I synapses with features\"\"\"\n    # Separate E and I synapses\n    e_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('E', case=False)]\n    i_synapses = synapses[synapses['pre_syn_clf_type'].str.contains('I', case=False)]\n    # Randomly sample n_each from each type\n    e_sample = e_synapses.sample(n=n_each, random_state=42)\n    i_sample = i_synapses.sample(n=n_each, random_state=42)\n    sample_synapses = pd.concat([e_sample, i_sample])\n    # Calculate features for all synapses",
         "detail": "ExampleSyns",
+        "documentation": {}
+    },
+    {
+        "label": "plot_feature_correlations",
+        "kind": 2,
+        "importPath": "feature_correlations",
+        "description": "feature_correlations",
+        "peekOfCode": "def plot_feature_correlations(df):\n    \"\"\"Plot correlation matrix of features and cell type specific patterns\"\"\"\n    # Get feature columns (excluding metadata columns)\n    feature_cols = ['synapse_area', 'pre_area', 'post_area', 'pre_post_ratio',\n                   'perimeter', 'circularity', 'mean_intensity', 'median_intensity',\n                   'std_intensity', 'pre_post_distance', 'jaccard_index',\n                   'pre_overlap', 'post_overlap', 'major_axis_length', 'minor_axis_length']\n    # Calculate correlation matrix\n    corr_matrix = df[feature_cols].corr()\n    # Create figure with two subplots",
+        "detail": "feature_correlations",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": "feature_correlations",
+        "description": "feature_correlations",
+        "peekOfCode": "df = pd.read_csv('data/synapse_data_with_metrics.csv')\nplot_feature_correlations(df)",
+        "detail": "feature_correlations",
         "documentation": {}
     },
     {
